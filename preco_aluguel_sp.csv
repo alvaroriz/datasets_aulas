@@ -32959,3 +32959,93 @@ Flat Residencial;Jaguaré;3;1;2;83;2160;960;48
 Flat Residencial;Mooca;2;1;0;53;1680;610.8;44.4
 Flat Residencial;Jardim Europa;2;0;0;75;3600;912;0
 Sala Comercial;Sé;0;0;0;255;7800;5047.2;1330.8
+Apartamento;Bela Vista;2;1;1;65;3500;900;150
+Apartamento;Pinheiros;3;2;1;90;6200;1200;210
+Apartamento;Vila Mariana;2;1;0;75;4200;850;140
+Residência;Santana;3;2;1;120;7500;0;0
+Residência;Itaim Bibi;4;3;2;180;13500;0;0
+Sala Comercial;Centro;0;2;0;85;4800;1500;275
+Sala Comercial;Moema;0;3;0;120;7200;2100;400
+Flat Residencial;Brooklin;1;0;0;35;2200;600;100
+Flat Residencial;Vila Olímpia;2;1;0;50;3200;800;130
+Flat Residencial;Tatuapé;3;1;1;80;5400;950;170
+Residência em Condomínio;Alto da Lapa;4;3;2;200;16000;0;0
+Residência em Condomínio;Jardins;5;4;3;300;22500;0;0
+Kitnet;República;1;0;0;30;1600;500;80
+Kitnet;Luz;1;0;0;28;1400;450;70
+Studio;Liberdade;1;0;0;40;2100;600;90
+Studio;Consolação;1;0;0;45;2500;700;110
+Apartamento;Mooca;2;1;1;70;3800;950;160
+Apartamento;Pompeia;3;2;2;110;6700;1250;220
+Sala Comercial;Barra Funda;0;5;0;150;9000;2500;450
+Sala Comercial;Lapa;0;3;0;110;6500;1800;320
+Apartamento;Campo Belo;2;1;1;68;3900;1000;160
+Apartamento;Vila Madalena;3;2;2;95;6800;1300;220
+Apartamento;Ipiranga;2;1;0;72;3500;850;140
+Residência;Mooca;4;2;1;150;8900;0;0
+Residência;Vila Leopoldina;5;3;2;210;14500;0;0
+Sala Comercial;Tatuapé;0;2;0;80;4200;1300;250
+Sala Comercial;Santana;0;4;0;110;6800;2100;380
+Flat Residencial;Aclimação;1;0;0;30;1900;550;90
+Flat Residencial;Paraíso;2;1;0;45;2800;750;120
+Flat Residencial;Santa Cecília;3;1;1;70;4900;900;160
+Residência em Condomínio;Morumbi;4;3;2;180;15800;0;0
+Residência em Condomínio;Brooklin;5;4;3;290;23000;0;0
+Kitnet;Santa Cecília;1;0;0;32;1700;520;85
+Kitnet;Bela Vista;1;0;0;28;1500;470;75
+Studio;Jardim Paulista;1;0;0;38;2300;650;100
+Studio;Barra Funda;1;0;0;42;2700;720;115
+Apartamento;Perdizes;2;1;1;74;4000;1050;175
+Apartamento;Santana;3;2;2;108;6500;1200;210
+Sala Comercial;Vila Mariana;0;5;0;140;8700;2400;430
+Sala Comercial;Ipiranga;0;3;0;115;7200;1900;350
+Apartamento;Vila Prudente;2;1;1;66;3800;900;150
+Apartamento;Chácara Klabin;3;2;2;100;7000;1300;230
+Apartamento;Freguesia do Ó;2;1;0;75;3600;850;140
+Residência;Tremembé;4;2;1;160;9200;0;0
+Residência;Vila Matilde;5;3;2;220;15000;0;0
+Sala Comercial;Santo Amaro;0;2;0;90;4500;1400;260
+Sala Comercial;Jabaquara;0;4;0;120;6900;2000;360
+Flat Residencial;Vila Ema;1;0;0;35;2100;600;100
+Flat Residencial;Parque São Lucas;2;1;0;50;3000;780;130
+Flat Residencial;Lapa;3;1;1;72;5200;920;170
+Residência em Condomínio;Jardim Bonfiglioli;4;3;2;190;16500;0;0
+Residência em Condomínio;Jardim Anália Franco;5;4;3;300;24000;0;0
+Kitnet;Barra Funda;1;0;0;30;1650;500;80
+Kitnet;Vila Buarque;1;0;0;28;1450;460;70
+Studio;Sacomã;1;0;0;38;2200;620;100
+Studio;Ipiranga;1;0;0;44;2600;700;110
+Apartamento;Tatuapé;2;1;1;70;4200;1000;170
+Apartamento;Moema;3;2;2;110;6800;1200;220
+Sala Comercial;Santana;0;5;0;150;8800;2300;450
+Sala Comercial;Bela Vista;0;3;0;115;7300;1900;350
+Apartamento;Santa Cecília;2;1;1;68;3700;920;150
+Apartamento;Pirituba;3;2;2;98;6200;1250;210
+Apartamento;Casa Verde;2;1;0;74;3900;870;140
+Residência;Jardim São Paulo;4;2;1;140;8800;0;0
+Residência;Vila Guilherme;5;3;2;200;13800;0;0
+Sala Comercial;Butantã;0;2;0;85;4200;1250;240
+Sala Comercial;São Mateus;0;4;0;110;6700;2100;380
+Flat Residencial;Vila Matilde;1;0;0;34;2000;580;90
+Flat Residencial;São Miguel Paulista;2;1;0;55;3100;820;120
+Flat Residencial;São Domingos;3;1;1;78;5300;950;160
+Apartamento;Água Branca;2;1;1;72;4000;950;160
+Apartamento;Brooklin;3;2;2;105;6500;1300;220
+Apartamento;Vila Sonia;2;1;0;78;3700;880;140
+Residência;Vila Romana;4;2;1;150;9200;0;0
+Residência;Campo Belo;5;3;2;210;14500;0;0
+Sala Comercial;Mandaqui;0;2;0;88;4700;1350;250
+Sala Comercial;Sapopemba;0;4;0;120;7100;2200;390
+Flat Residencial;São Bernardo do Campo;1;0;0;32;1900;550;95
+Flat Residencial;Osasco;2;1;0;52;2900;780;125
+Flat Residencial;Campo Limpo;3;1;1;74;5000;900;155
+Residência em Condomínio;Perdizes;4;3;2;195;16800;0;0
+Residência em Condomínio;Aclimação;5;4;3;310;23800;0;0
+Kitnet;Jardim Paulista;1;0;0;30;1600;510;85
+Kitnet;Santo Amaro;1;0;0;28;1500;470;75
+Studio;Cidade Ademar;1;0;0;40;2100;600;100
+Studio;Brás;1;0;0;45;2600;700;110
+Apartamento;Barra Funda;2;1;1;69;3800;950;150
+Apartamento;Jabaquara;3;2;2;112;6500;1250;210
+Sala Comercial;Ipiranga;0;5;0;155;8900;2400;460
+Sala Comercial;Vila Maria;0;3;0;120;7500;1900;370
