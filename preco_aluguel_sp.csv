@@ -1,4 +1,4 @@
-Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU
+Categoria;Bairro;Dormitórios;Vagas;Suítes;Tamanho;Preço;Condomínio;IPTU
 Kitnet;Higienópolis;1;0;0;45;2040;600;72
 Residência;Morumbi;2;0;1;105;8400;0;0
 Sala Comercial;Morumbi;0;4;0;155;6240;4824;1333,2
