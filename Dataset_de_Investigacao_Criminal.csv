@@ -1,0 +1,51 @@
+ID_Transacao,Data_Transacao,Nome_Cliente,CPF,Valor_Transacao,Tipo_Transacao,Banco_Origem,Banco_Destino,Moeda,Status_Transacao,IP_Origem,Localizacao,Canal_Transacao
+TX-57,2024/05/08,Luiz Miguel Silveira,25094710302,22963.92,Boleto,Santander,BTG P@ctu@l,BRL,Cancelada,195.139.235.106,Belo Horizonte,Caixa Eletrônico
+TX-45,2024/10/22,R4f43l S4nt0s,069.188.807-13,3914.56,Pix,Caixa Econômica,Itaú,BR$,Aprovdo,74.83.119.104,Salvad0r,Agência Física
+TX-14,2024/02/22,Vicente Costa,55472565610,"8.896,81",DOC,BTG Pactual,Inter,Real,Aprovda,117.255.194.225,Salvador,Internet Banking
+tx8,2024/12/10,André N0gu3ir4,502.653.269-39,43618.64,Boleto,Caixa Econômica,It@ú,Real,Aprovada,155.16.190.57,Rio de Janeiro,Agência Física
+TX-71,2025/01/13,Cecília Costela,39014903719,"11.656,75",Transferência,Itaú,BTG P@ctu@l,BRL,Aprovdo,78.33.187.186,São Paulo,Agência Física
+TX-45,06-03-2024,Ana Lívia Azevedo,48867127519,"47.056,64",Transferência,Inter,C@ix@ Econômic@,Usd,Aprovdo,156.91.58.100,P0rt0 Alegre,caixaeletrônico
+TX-64,2024/05/11,Agatha Lopes,705.068.735-01,"40.976,75",Boleto,Itaú,BTG P@ctu@l,BR$,Cancelada,181.71.150.136,Curitiba,caixaeletrônico
+tx54,29-01-2025,João Pedro Rodrigues,653.490.064-88,11435.93,DOC,Caixa Econômica,S@nt@nder,USD,Pndente,149.105.122.24,São Paulo,Agência Física
+TX-98,28-06-2024,M4rc3l4 Di4s,156.860.920-77,"32.902,16",Boleto,Itaú,Inter,eur,Aprovada,173.175.245.113,Rio de Janeiro,Agência Física
+TX-77,2024/03/15,Luiz Felipe Barros,441.300.936-01,"39.591,50",DOC,Itaú,Caixa Econômica,BR$,Pendnte,143.65.126.190,Curitiba,Internet Banking
+TX-72,31-07-2024,Dr. Luiz Felipe Teixeira,33424344224,7942.05,DOC,Caixa Econômica,Santander,EURO,Aprovada,41.25.20.251,Belo Horizonte,Internet Banking
+TX-95,28-06-2024,Lorena Oliveira,13817942796,44296.21,Transferência,Itaú,Santander,eur,Pendente,147.45.234.99,Salvador,internetbanking
+tx91,29-03-2024,Dr. Luiz Gust4v0 Lim4,31211524979,2594.20,Boleto,Caixa Ekonômika,Caixa Econômica,eur,Pendente,154.196.50.24,Salvador,caixaeletrônico
+TX-3,2024/06/19,Lucas Gabriel da Mata,17525186917,6003.12,TED,Banko do Brasil,Inter,USD,Cancelada,98.70.105.37,Curitiba,Caixa Eletrônico
+TX-45,07-06-2024,Maria Eduarda Nunes,672.197.308-95,"4.615,03",Depósito,Itaú,Banco do Brasil,USD,Aprovada,76.114.44.81,P0rt0 Alegre,Caixa Eletrônico
+TX-99,04-09-2024,J0ã0 P3dr0 M3nd3s,76102989340,"30.054,77",Pix,Santander,Caixa Econômica,EUR,Pndente,23.112.58.85,Salvador,Caixa Eletrônico
+TX-80,2024/07/21,Valentina Porto,69650426560,"31.087,91",TED,Caixa Ekonômika,Inter,Real,Pendente,184.63.182.128,Curitiba,Caixa Eletrônico
+TX-21,2024/11/09,Sophie Dias,03816146275,24818.46,TED,BTG Paktual,Banco do Brasil,EURO,Cancelada,146.103.227.115,Curitiba,Agência Física
+TX-43,2024/12/31,Isabella da Cunha,181.721.689-96,"11.785,30",Pix,Bradesco,It@ú,BR$,Aprovada,133.217.56.81,Belo Horizonte,agênciafísica
+TX-7,08-02-2025,Valentina Costela,31278834490,17652.46,Boleto,Inter,Santander,BRL,Cancelada,205.1.56.232,São Paulo,Internet Banking
+TX-99,2024/05/14,Gustavo Henrique Freitas,490.130.071-86,23039.65,Pix,Bradesko,S@nt@nder,EUR,Pendnte,161.67.139.215,Bel0 H0riz0nte,Caixa Eletrônico
+TX-42,23-01-2025,Maysa Castro,90570852729,49149.56,Depósito,Caixa Ekonômika,Bradesco,BR$,Cancelado,140.121.49.200,Curitiba,Internet Banking
+TX-81,14-10-2024,Yasmin Oliveira,239.620.763-26,"12.171,55",Boleto,Itaú,Bradesco,EURO,Pndente,99.38.141.67,Belo Horizonte,internetbanking
+TX-74,2024/05/10,L3vi d4 R0ch4,825.015.143-74,"19.794,70",Boleto,Itaú,Caixa Econômica,BRL,Pendnte,27.213.174.49,Salvador,Agência Física
+TX-84,2024/11/08,Nathan Jesus,910.085.188-13,32068.23,Transferência,Banco do Brasil,It@ú,EUR,Cancelada,57.126.87.244,Belo Horizonte,Agência Física
+TX-29,09-08-2024,Bryan Almeida,947.959.409-14,10872.24,TED,Banko do Brasil,Inter,Real,Aprovdo,186.204.75.89,Salvador,Agência Física
+TX-11,10-09-2024,Yuri Carvalho,764.832.459-20,"43.912,81",Depósito,Santander,S@nt@nder,BR$,Aprovdo,140.201.79.192,Sã0 Paul0,Internet Banking
+TX-40,2024/05/16,Rafaela Gomes,871.846.715-91,31654.67,TED,BTG Pactual,BTG Pactual,EUR,Cancelada,200.201.2.107,Salvador,internetbanking
+TX-69,2024/12/29,Emilly da Luz,175.924.382-83,"47.531,90",Depósito,Bradesco,BTG Pactual,BR$,Cancelado,174.187.243.46,Salvador,Agência Física
+TX-61,2024/04/16,Sr. P3dr0 d4 M4t4,337.451.791-72,41317.01,DOC,Itaú,Banco do Brasil,BRL,Pendente,67.175.74.74,Rio de Janeiro,Caixa Eletrônico
+TX-17,26-10-2024,Lara Silveira,01454845353,16995.53,Pix,Banco do Brasil,It@ú,EUR,Pendnte,50.107.35.236,Salvador,internetbanking
+TX-37,2024/12/17,Maria Castro,427.552.247-91,"45.250,75",Depósito,Itaú,Itaú,Real,Pendnte,133.52.111.176,São Paulo,Internet Banking
+TX-99,27-09-2024,Ana Júlia Carvalho,54119817564,22171.02,TED,Bradesco,Itaú,Usd,Cancelado,159.241.130.188,Rio de Janeiro,Agência Física
+TX-71,12-11-2024,João Felipe Silva,01123173968,"38.019,67",Transferência,BTG Paktual,Inter,BRL,Aprovda,209.246.154.225,Rio de Janeiro,Agência Física
+TX-30,2025/01/13,Leandro Araújo,69106604613,34516.93,Pix,Itaú,Santander,Real,Pndente,151.94.193.13,Curitiba,Agência Física
+TX-37,05-05-2024,Manuela Jesus,29286644979,39985.66,Pix,Banco do Brasil,BTG P@ctu@l,EURO,Aprovdo,28.146.72.243,Rio de Janeiro,caixaeletrônico
+tx23,09-07-2024,Sra. Alice Campos,95829576634,13619.27,Pix,Santander,B@nco do Br@sil,EURO,Aprovda,89.165.229.118,Sã0 Paul0,Internet Banking
+TX-73,2024/07/18,D4vi Lucc4 d4 C0st4,42222188635,"14.964,78",Boleto,Inter,It@ú,eur,Aprovdo,138.13.1.100,Rio de Janeiro,agênciafísica
+TX-20,2024/07/24,Srta. Brenda Nunes,76972982739,16152.09,TED,Banco do Brasil,Itaú,Real,Cancelada,145.220.225.216,São Paulo,Internet Banking
+tx21,2024/12/27,Srt4. Ev3lyn C4mp0s,329.129.447-41,36410.78,TED,BTG Paktual,Banco do Brasil,USD,Aprovdo,63.18.248.20,Curitiba,Internet Banking
+tx86,06-02-2025,Luiz Fernando Duarte,69061082464,"2.587,57",Depósito,Inter,Inter,BRL,Cancelada,86.213.210.207,Salvador,caixaeletrônico
+tx5,15-03-2024,Miguel Santos,020.340.036-88,10899.35,Depósito,Santander,Santander,USD,Pendnte,68.124.51.34,P0rt0 Alegre,Internet Banking
+TX-4,27-10-2024,Rodrigo Dias,44627071180,3238.19,TED,Inter,Bradesco,Real,Cancelado,167.140.10.159,Rio de Janeiro,Caixa Eletrônico
+TX-80,2024/08/09,Renan Novaes,421.591.214-79,30182.19,Transferência,Itaú,Banco do Brasil,eur,Pndente,44.61.49.226,Porto Alegre,Internet Banking
+TX-21,2024/04/01,Calebe Carvalho,095.404.041-30,30197.47,TED,Santander,Inter,BRL,Aprovda,57.192.0.17,Sã0 Paul0,Agência Física
+tx25,2024/12/14,Kamilly Gonçalves,24419230218,"39.062,72",Depósito,Banco do Brasil,Santander,BRL,Aprovdo,118.68.211.2,São Paulo,caixaeletrônico
+TX-89,2024/11/10,Bryan Duarte,50764955250,"12.122,38",Transferência,Bradesco,Bradesco,Real,Pndente,43.82.222.136,Salvad0r,Agência Física
+TX-72,05-04-2024,J0ã0 Guilh3rm3 C0st3l4,84842762368,"14.343,13",Depósito,Bradesko,Santander,eur,Aprovda,5.21.2.161,Porto Alegre,Agência Física
+TX-41,2024/03/05,Sr. Carlos Eduardo da Rocha,70936145921,1943.60,Transferência,Banco do Brasil,Br@desco,eur,Cancelado,181.145.218.245,Salvador,Caixa Eletrônico
+TX-80,2024/11/29,Breno Pinto,53540285406,20623.38,TED,Bradesco,Caixa Econômica,USD,Cancelado,46.16.234.145,Porto Alegre,Agência Física
