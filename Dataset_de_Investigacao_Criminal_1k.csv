@@ -1,0 +1,1001 @@
+ID_Transacao;Data_Transacao;Nome_Cliente;CPF;Valor_Transacao;Tipo_Transacao;Banco_Origem;Banco_Destino;Moeda;Status_Transacao;IP_Origem;Localizacao;Canal_Transacao
+TX-57;45420;Luiz Miguel Silveira;25094710302;22963.92;Boleto;Santander;BTG P@ctu@l;BRL;Cancelada;195139235106;Belo Horizonte;Caixa Eletrônico
+TX-45;45587;R4f43l S4nt0s;069.188.807-13;3914.56;Pix;Caixa Econômica;Itaú;BR$;Aprovdo;74.83.119.104;Salvad0r;Agência Física
+TX-14;45344;Vicente Costa;55472565610;8896,81;DOC;BTG Pactual;Inter;Real;Aprovda;117255194225;Salvador;Internet Banking
+tx8;45636;André N0gu3ir4;502.653.269-39;43618.64;Boleto;Caixa Econômica;It@ú;Real;Aprovada;155.16.190.57;Rio de Janeiro;Agência Física
+TX-71;45670;Cecília Costela;39014903719;11656,75;Transferência;Itaú;BTG P@ctu@l;BRL;Aprovdo;78.33.187.186;São Paulo;Agência Física
+TX-45;45357;Ana Lívia Azevedo;48867127519;47056,64;Transferência;Inter;C@ix@ Econômic@;Usd;Aprovdo;156.91.58.100;P0rt0 Alegre;caixaeletrônico
+TX-64;45423;Agatha Lopes;705.068.735-01;40976,75;Boleto;Itaú;BTG P@ctu@l;BR$;Cancelada;181.71.150.136;Curitiba;caixaeletrônico
+tx54;45686;João Pedro Rodrigues;653.490.064-88;11435.93;DOC;Caixa Econômica;S@nt@nder;USD;Pndente;149.105.122.24;São Paulo;Agência Física
+TX-98;45471;M4rc3l4 Di4s;156.860.920-77;32902,16;Boleto;Itaú;Inter;eur;Aprovada;173175245113;Rio de Janeiro;Agência Física
+TX-77;45366;Luiz Felipe Barros;441.300.936-01;39591,5;DOC;Itaú;Caixa Econômica;BR$;Pendnte;143.65.126.190;Curitiba;Internet Banking
+TX-72;45504;Dr. Luiz Felipe Teixeira;33424344224;7942.05;DOC;Caixa Econômica;Santander;EURO;Aprovada;41.25.20.251;Belo Horizonte;Internet Banking
+TX-95;45471;Lorena Oliveira;13817942796;44296.21;Transferência;Itaú;Santander;eur;Pendente;147.45.234.99;Salvador;internetbanking
+tx91;45380;Dr. Luiz Gust4v0 Lim4;31211524979;2594.20;Boleto;Caixa Ekonômika;Caixa Econômica;eur;Pendente;154.196.50.24;Salvador;caixaeletrônico
+TX-3;45462;Lucas Gabriel da Mata;17525186917;6003.12;TED;Banko do Brasil;Inter;USD;Cancelada;98.70.105.37;Curitiba;Caixa Eletrônico
+TX-45;45450;Maria Eduarda Nunes;672.197.308-95;4615,03;Depósito;Itaú;Banco do Brasil;USD;Aprovada;76.114.44.81;P0rt0 Alegre;Caixa Eletrônico
+TX-99;45539;J0ã0 P3dr0 M3nd3s;76102989340;30054,77;Pix;Santander;Caixa Econômica;EUR;Pndente;23.112.58.85;Salvador;Caixa Eletrônico
+TX-80;45494;Valentina Porto;69650426560;31087,91;TED;Caixa Ekonômika;Inter;Real;Pendente;184.63.182.128;Curitiba;Caixa Eletrônico
+TX-21;45605;Sophie Dias;3816146275;24818.46;TED;BTG Paktual;Banco do Brasil;EURO;Cancelada;146103227115;Curitiba;Agência Física
+TX-43;45657;Isabella da Cunha;181.721.689-96;11785,3;Pix;Bradesco;It@ú;BR$;Aprovada;133.217.56.81;Belo Horizonte;agênciafísica
+TX-7;45696;Valentina Costela;31278834490;17652.46;Boleto;Inter;Santander;BRL;Cancelada;205.1.56.232;São Paulo;Internet Banking
+TX-99;45426;Gustavo Henrique Freitas;490.130.071-86;23039.65;Pix;Bradesko;S@nt@nder;EUR;Pendnte;161.67.139.215;Bel0 H0riz0nte;Caixa Eletrônico
+TX-42;45680;Maysa Castro;90570852729;49149.56;Depósito;Caixa Ekonômika;Bradesco;BR$;Cancelado;140.121.49.200;Curitiba;Internet Banking
+TX-81;45579;Yasmin Oliveira;239.620.763-26;12171,55;Boleto;Itaú;Bradesco;EURO;Pndente;99.38.141.67;Belo Horizonte;internetbanking
+TX-74;45422;L3vi d4 R0ch4;825.015.143-74;19794,7;Boleto;Itaú;Caixa Econômica;BRL;Pendnte;27.213.174.49;Salvador;Agência Física
+TX-84;45604;Nathan Jesus;910.085.188-13;32068.23;Transferência;Banco do Brasil;It@ú;EUR;Cancelada;57.126.87.244;Belo Horizonte;Agência Física
+TX-29;45513;Bryan Almeida;947.959.409-14;10872.24;TED;Banko do Brasil;Inter;Real;Aprovdo;186.204.75.89;Salvador;Agência Física
+TX-11;45545;Yuri Carvalho;764.832.459-20;43912,81;Depósito;Santander;S@nt@nder;BR$;Aprovdo;140.201.79.192;Sã0 Paul0;Internet Banking
+TX-40;45428;Rafaela Gomes;871.846.715-91;31654.67;TED;BTG Pactual;BTG Pactual;EUR;Cancelada;200.201.2.107;Salvador;internetbanking
+TX-69;45655;Emilly da Luz;175.924.382-83;47531,9;Depósito;Bradesco;BTG Pactual;BR$;Cancelado;174.187.243.46;Salvador;Agência Física
+TX-61;45398;Sr. P3dr0 d4 M4t4;337.451.791-72;41317.01;DOC;Itaú;Banco do Brasil;BRL;Pendente;67.175.74.74;Rio de Janeiro;Caixa Eletrônico
+TX-17;45591;Lara Silveira;1454845353;16995.53;Pix;Banco do Brasil;It@ú;EUR;Pendnte;50.107.35.236;Salvador;internetbanking
+TX-37;45643;Maria Castro;427.552.247-91;45250,75;Depósito;Itaú;Itaú;Real;Pendnte;133.52.111.176;São Paulo;Internet Banking
+TX-99;45562;Ana Júlia Carvalho;54119817564;22171.02;TED;Bradesco;Itaú;Usd;Cancelado;159241130188;Rio de Janeiro;Agência Física
+TX-71;45608;João Felipe Silva;1123173968;38019,67;Transferência;BTG Paktual;Inter;BRL;Aprovda;209246154225;Rio de Janeiro;Agência Física
+TX-30;45670;Leandro Araújo;69106604613;34516.93;Pix;Itaú;Santander;Real;Pndente;151.94.193.13;Curitiba;Agência Física
+TX-37;45417;Manuela Jesus;29286644979;39985.66;Pix;Banco do Brasil;BTG P@ctu@l;EURO;Aprovdo;28.146.72.243;Rio de Janeiro;caixaeletrônico
+tx23;45482;Sra. Alice Campos;95829576634;13619.27;Pix;Santander;B@nco do Br@sil;EURO;Aprovda;89165229118;Sã0 Paul0;Internet Banking
+TX-73;45491;D4vi Lucc4 d4 C0st4;42222188635;14964,78;Boleto;Inter;It@ú;eur;Aprovdo;138.13.1.100;Rio de Janeiro;agênciafísica
+TX-20;45497;Srta. Brenda Nunes;76972982739;16152.09;TED;Banco do Brasil;Itaú;Real;Cancelada;145220225216;São Paulo;Internet Banking
+tx21;45653;Srt4. Ev3lyn C4mp0s;329.129.447-41;36410.78;TED;BTG Paktual;Banco do Brasil;USD;Aprovdo;63.18.248.20;Curitiba;Internet Banking
+tx86;45694;Luiz Fernando Duarte;69061082464;2587,57;Depósito;Inter;Inter;BRL;Cancelada;86213210207;Salvador;caixaeletrônico
+tx5;45366;Miguel Santos;020.340.036-88;10899.35;Depósito;Santander;Santander;USD;Pendnte;68.124.51.34;P0rt0 Alegre;Internet Banking
+TX-4;45592;Rodrigo Dias;44627071180;3238.19;TED;Inter;Bradesco;Real;Cancelado;167.140.10.159;Rio de Janeiro;Caixa Eletrônico
+TX-80;45513;Renan Novaes;421.591.214-79;30182.19;Transferência;Itaú;Banco do Brasil;eur;Pndente;44.61.49.226;Porto Alegre;Internet Banking
+TX-21;45383;Calebe Carvalho;095.404.041-30;30197.47;TED;Santander;Inter;BRL;Aprovda;57.192.0.17;Sã0 Paul0;Agência Física
+tx25;45640;Kamilly Gonçalves;24419230218;39062,72;Depósito;Banco do Brasil;Santander;BRL;Aprovdo;118.68.211.2;São Paulo;caixaeletrônico
+TX-89;45606;Bryan Duarte;50764955250;12122,38;Transferência;Bradesco;Bradesco;Real;Pndente;43.82.222.136;Salvad0r;Agência Física
+TX-72;45387;J0ã0 Guilh3rm3 C0st3l4;84842762368;14343,13;Depósito;Bradesko;Santander;eur;Aprovda;5.21.2.161;Porto Alegre;Agência Física
+TX-41;45356;Sr. Carlos Eduardo da Rocha;70936145921;1943.60;Transferência;Banco do Brasil;Br@desco;eur;Cancelado;181145218245;Salvador;Caixa Eletrônico
+TX-80;45625;Breno Pinto;53540285406;20623.38;TED;Bradesco;Caixa Econômica;USD;Cancelado;46.16.234.145;Porto Alegre;Agência Física
+TX-101;45450;Agatha Lopes;705.068.735-01;39591,5;Depósito;Caixa Ekonômika;B@nco do Br@sil;eur;Aprovda;74.83.119.104;Salvador;Agência Física
+TX-102;45539;Lucas Gabriel da Mata;17525186917;11785,3;TED;Bradesko;Inter;BRL;Aprovdo;57.126.87.244;São Paulo;Agência Física
+TX-103;45494;Manuela Jesus;29286644979;45250,75;Transferência;BTG Paktual;Inter;Real;Cancelado;209246154225;Rio de Janeiro;internetbanking
+TX-104;45605;Dr. Luiz Felipe Teixeira;33424344224;31654.67;DOC;Itaú;Caixa Econômica;EURO;Pendnte;99.38.141.67;São Paulo;Caixa Eletrônico
+TX-105;45657;Lara Silveira;1454845353;22963.92;Boleto;Caixa Ekonômika;Inter;EUR;Cancelada;200.201.2.107;Salvad0r;Internet Banking
+TX-106;45696;Yuri Carvalho;764.832.459-20;47056,64;TED;Caixa Econômica;Caixa Econômica;eur;Aprovdo;209246154225;Rio de Janeiro;Agência Física
+TX-107;45426;Valentina Porto;69650426560;12171,55;Depósito;Banco do Brasil;BTG P@ctu@l;EURO;Cancelada;140.121.49.200;Rio de Janeiro;Agência Física
+TX-108;45680;Sr. P3dr0 d4 M4t4;337.451.791-72;13619.27;Depósito;Itaú;It@ú;Real;Aprovda;154.196.50.24;Curitiba;Internet Banking
+TX-109;45579;Cecília Costela;39014903719;34516.93;Depósito;Itaú;Inter;eur;Aprovdo;174.187.243.46;Belo Horizonte;Agência Física
+TX-110;45422;Dr. Luiz Felipe Teixeira;33424344224;32068.23;Pix;Caixa Econômica;BTG Pactual;BR$;Cancelado;173175245113;Belo Horizonte;Caixa Eletrônico
+TX-111;45604;R4f43l S4nt0s;069.188.807-13;39591,5;TED;Itaú;Itaú;BRL;Pendnte;186.204.75.89;Salvador;Caixa Eletrônico
+TX-112;45513;Dr. Luiz Felipe Teixeira;33424344224;10872.24;Transferência;Bradesco;Bradesco;eur;Aprovda;86213210207;Porto Alegre;Agência Física
+TX-113;45545;D4vi Lucc4 d4 C0st4;42222188635;1943.60;DOC;Bradesko;BTG Pactual;BR$;Pendente;138.13.1.100;Rio de Janeiro;Agência Física
+TX-114;45428;Sra. Alice Campos;95829576634;38019,67;Boleto;Itaú;BTG P@ctu@l;Usd;Aprovada;181145218245;Sã0 Paul0;Internet Banking
+TX-115;45655;Maria Eduarda Nunes;672.197.308-95;23039.65;Boleto;Bradesco;Santander;EURO;Cancelado;195139235106;Belo Horizonte;Caixa Eletrônico
+TX-116;45398;M4rc3l4 Di4s;156.860.920-77;22171.02;Boleto;Banco do Brasil;Inter;eur;Cancelada;68.124.51.34;Rio de Janeiro;Internet Banking
+TX-117;45591;M4rc3l4 Di4s;156.860.920-77;45250,75;Pix;Caixa Ekonômika;It@ú;eur;Pendnte;44.61.49.226;Belo Horizonte;Caixa Eletrônico
+TX-118;45643;J0ã0 Guilh3rm3 C0st3l4;84842762368;17652.46;Depósito;Bradesco;Santander;Real;Pendente;181.71.150.136;Curitiba;Caixa Eletrônico
+TX-119;45562;Luiz Felipe Barros;441.300.936-01;30054,77;Boleto;Bradesco;BTG P@ctu@l;eur;Cancelada;68.124.51.34;Salvador;Agência Física
+TX-120;45608;Yasmin Oliveira;239.620.763-26;11785,3;TED;Santander;Inter;BRL;Cancelada;99.38.141.67;Rio de Janeiro;internetbanking
+TX-121;45670;Breno Pinto;53540285406;8896,81;Pix;Itaú;Inter;EUR;Aprovdo;184.63.182.128;Salvad0r;Agência Física
+TX-122;45417;Leandro Araújo;69106604613;13619.27;DOC;Caixa Econômica;It@ú;USD;Cancelado;98.70.105.37;Curitiba;agênciafísica
+TX-123;45482;Sophie Dias;3816146275;32068.23;DOC;Itaú;BTG P@ctu@l;Real;Pendente;143.65.126.190;Curitiba;Internet Banking
+TX-124;45491;Emilly da Luz;175.924.382-83;7942.05;Depósito;Itaú;It@ú;Usd;Aprovada;67.175.74.74;São Paulo;Agência Física
+TX-125;45497;Miguel Santos;020.340.036-88;41317.01;Transferência;Banco do Brasil;Itaú;BRL;Cancelada;205.1.56.232;Curitiba;Agência Física
+TX-126;45653;Dr. Luiz Felipe Teixeira;33424344224;38019,67;Boleto;Caixa Ekonômika;BTG P@ctu@l;eur;Aprovda;74.83.119.104;Curitiba;caixaeletrônico
+TX-127;45694;Sr. Carlos Eduardo da Rocha;70936145921;2594.20;Depósito;BTG Paktual;It@ú;eur;Cancelado;140.121.49.200;Rio de Janeiro;Caixa Eletrônico
+TX-128;45366;Manuela Jesus;29286644979;14964,78;DOC;Itaú;Inter;eur;Cancelada;68.124.51.34;São Paulo;internetbanking
+TX-129;45592;Vicente Costa;55472565610;12171,55;Pix;Itaú;C@ix@ Econômic@;Real;Pndente;174.187.243.46;São Paulo;Agência Física
+TX-130;45513;J0ã0 Guilh3rm3 C0st3l4;84842762368;22963.92;Boleto;Itaú;BTG P@ctu@l;BRL;Aprovdo;138.13.1.100;Salvador;Internet Banking
+TX-131;45383;Ana Lívia Azevedo;48867127519;39062,72;Depósito;BTG Paktual;Bradesco;eur;Aprovdo;149.105.122.24;Rio de Janeiro;caixaeletrônico
+TX-132;45640;Maria Castro;427.552.247-91;36410.78;Pix;Caixa Econômica;B@nco do Br@sil;BRL;Aprovdo;145220225216;Porto Alegre;internetbanking
+TX-133;45606;J0ã0 Guilh3rm3 C0st3l4;84842762368;3914.56;Transferência;Bradesco;S@nt@nder;Real;Cancelado;181145218245;Rio de Janeiro;Agência Física
+TX-134;45387;Sra. Alice Campos;95829576634;12171,55;Depósito;Banko do Brasil;Itaú;eur;Cancelado;173175245113;Belo Horizonte;internetbanking
+TX-135;45356;Valentina Porto;69650426560;41317.01;Pix;Bradesco;Br@desco;Real;Aprovdo;155.16.190.57;Salvador;Caixa Eletrônico
+TX-136;45420;Leandro Araújo;69106604613;11656,75;Pix;Itaú;Caixa Econômica;eur;Pendente;149.105.122.24;Belo Horizonte;Agência Física
+TX-137;45587;Maria Castro;427.552.247-91;12122,38;Depósito;BTG Paktual;S@nt@nder;BR$;Pndente;195139235106;Belo Horizonte;Agência Física
+TX-138;45344;Rodrigo Dias;44627071180;47056,64;TED;Inter;Caixa Econômica;EURO;Cancelada;133.217.56.81;São Paulo;Agência Física
+TX-139;45636;Valentina Costela;31278834490;31654.67;Pix;Itaú;S@nt@nder;BRL;Aprovda;23.112.58.85;Sã0 Paul0;Caixa Eletrônico
+TX-140;45670;Lorena Oliveira;13817942796;20623.38;Boleto;Itaú;Santander;EURO;Aprovdo;143.65.126.190;Salvador;agênciafísica
+TX-141;45357;Vicente Costa;55472565610;39591,5;Transferência;Santander;Inter;BRL;Pendnte;23.112.58.85;São Paulo;internetbanking
+TX-142;45423;Cecília Costela;39014903719;49149.56;TED;Caixa Econômica;Bradesco;USD;Aprovdo;43.82.222.136;Bel0 H0riz0nte;Internet Banking
+TX-143;45686;Luiz Miguel Silveira;25094710302;45250,75;Pix;Santander;Banco do Brasil;EUR;Pendente;133.52.111.176;Sã0 Paul0;Internet Banking
+TX-144;45471;Ana Lívia Azevedo;48867127519;7942.05;Pix;BTG Paktual;Santander;EURO;Cancelado;117255194225;P0rt0 Alegre;caixaeletrônico
+TX-145;45366;Sr. P3dr0 d4 M4t4;337.451.791-72;41317.01;Transferência;Banco do Brasil;BTG P@ctu@l;eur;Cancelado;156.91.58.100;Rio de Janeiro;Agência Física
+TX-146;45504;Luiz Fernando Duarte;69061082464;3238.19;TED;Itaú;Itaú;BR$;Pendente;89165229118;Rio de Janeiro;Internet Banking
+TX-147;45471;Rodrigo Dias;44627071180;32902,16;TED;BTG Paktual;It@ú;EUR;Aprovdo;140.121.49.200;Sã0 Paul0;agênciafísica
+TX-148;45380;Calebe Carvalho;095.404.041-30;49149.56;Pix;Inter;It@ú;BRL;Pendente;76.114.44.81;Rio de Janeiro;Caixa Eletrônico
+TX-149;45462;Kamilly Gonçalves;24419230218;31087,91;Boleto;Itaú;Bradesco;BR$;Aprovda;173175245113;Salvad0r;Internet Banking
+TX-150;45450;Bryan Duarte;50764955250;13619.27;TED;Itaú;It@ú;USD;Cancelado;78.33.187.186;Rio de Janeiro;Internet Banking
+TX-151;45539;Maria Eduarda Nunes;672.197.308-95;12122,38;Depósito;Itaú;S@nt@nder;USD;Cancelada;57.126.87.244;São Paulo;Internet Banking
+TX-152;45494;Ana Júlia Carvalho;54119817564;47056,64;Transferência;Inter;Caixa Econômica;BRL;Cancelado;86213210207;Belo Horizonte;Internet Banking
+TX-153;45605;Srt4. Ev3lyn C4mp0s;329.129.447-41;38019,67;Boleto;Itaú;S@nt@nder;USD;Aprovda;161.67.139.215;Sã0 Paul0;Agência Física
+TX-154;45657;André N0gu3ir4;502.653.269-39;39985.66;DOC;Banco do Brasil;Santander;Real;Pendnte;118.68.211.2;São Paulo;caixaeletrônico
+TX-155;45696;Yasmin Oliveira;239.620.763-26;31654.67;Pix;Itaú;Itaú;eur;Pndente;143.65.126.190;Salvador;Internet Banking
+TX-156;45426;Srta. Brenda Nunes;76972982739;40976,75;Boleto;Inter;Inter;USD;Aprovdo;68.124.51.34;P0rt0 Alegre;Agência Física
+TX-157;45680;Isabella da Cunha;181.721.689-96;41317.01;Transferência;Itaú;Santander;BRL;Cancelada;138.13.1.100;Salvador;Caixa Eletrônico
+TX-158;45579;Agatha Lopes;705.068.735-01;16152.09;TED;Itaú;It@ú;eur;Cancelada;146103227115;Salvador;Agência Física
+TX-159;45422;R4f43l S4nt0s;069.188.807-13;49149.56;Pix;Itaú;Br@desco;USD;Cancelada;161.67.139.215;P0rt0 Alegre;Caixa Eletrônico
+TX-160;45604;Sra. Alice Campos;95829576634;7942.05;Boleto;Itaú;Santander;BRL;Aprovada;89165229118;Salvador;Caixa Eletrônico
+TX-161;45605;Dr. Luiz Gust4v0 Lim4;31211524979;39591,5;Transferência;Banco do Brasil;Inter;eur;Pendnte;74.83.119.104;P0rt0 Alegre;internetbanking
+TX-162;45657;Sr. Carlos Eduardo da Rocha;70936145921;45250,75;TED;Bradesco;Santander;BR$;Cancelada;147.45.234.99;São Paulo;Caixa Eletrônico
+TX-163;45696;Srt4. Ev3lyn C4mp0s;329.129.447-41;36410.78;Transferência;Banco do Brasil;Inter;Real;Cancelada;205.1.56.232;P0rt0 Alegre;Agência Física
+TX-164;45426;M4rc3l4 Di4s;156.860.920-77;39985.66;Transferência;Santander;S@nt@nder;eur;Aprovdo;68.124.51.34;Curitiba;caixaeletrônico
+TX-165;45680;Gustavo Henrique Freitas;490.130.071-86;39062,72;Transferência;Caixa Ekonômika;Santander;BRL;Aprovda;74.83.119.104;Belo Horizonte;internetbanking
+TX-166;45579;J0ã0 Guilh3rm3 C0st3l4;84842762368;19794,7;DOC;Banko do Brasil;Inter;eur;Aprovada;147.45.234.99;Rio de Janeiro;Agência Física
+TX-167;45422;Lara Silveira;1454845353;3238.19;TED;Inter;Bradesco;eur;Aprovda;118.68.211.2;Rio de Janeiro;Caixa Eletrônico
+TX-168;45604;J0ã0 P3dr0 M3nd3s;76102989340;1943.60;Transferência;Banko do Brasil;Inter;Real;Pndente;181.71.150.136;Salvador;Caixa Eletrônico
+TX-169;45513;Sophie Dias;3816146275;30182.19;Boleto;Caixa Ekonômika;Itaú;BRL;Aprovdo;89165229118;Rio de Janeiro;internetbanking
+TX-170;45545;Bryan Duarte;50764955250;13619.27;Depósito;BTG Paktual;Bradesco;EURO;Pendnte;118.68.211.2;Curitiba;Agência Física
+TX-171;45428;J0ã0 P3dr0 M3nd3s;76102989340;11785,3;Depósito;Bradesco;Santander;USD;Pendente;44.61.49.226;Salvador;caixaeletrônico
+TX-172;45655;Sra. Alice Campos;95829576634;2587,57;DOC;Santander;S@nt@nder;BRL;Cancelada;143.65.126.190;Belo Horizonte;Agência Física
+TX-173;45398;Srta. Brenda Nunes;76972982739;36410.78;Boleto;BTG Paktual;It@ú;eur;Cancelado;46.16.234.145;Salvador;Internet Banking
+TX-174;45591;Miguel Santos;020.340.036-88;39062,72;DOC;Caixa Econômica;Inter;EURO;Cancelado;159241130188;São Paulo;caixaeletrônico
+TX-175;45643;André N0gu3ir4;502.653.269-39;22963.92;TED;Itaú;Santander;BR$;Aprovdo;195139235106;Curitiba;Caixa Eletrônico
+TX-176;45562;André N0gu3ir4;502.653.269-39;13619.27;Boleto;Santander;Br@desco;BRL;Aprovda;200.201.2.107;São Paulo;Internet Banking
+TX-177;45608;Maria Eduarda Nunes;672.197.308-95;39062,72;Pix;Banco do Brasil;Inter;Real;Aprovdo;98.70.105.37;Salvador;agênciafísica
+TX-178;45670;Emilly da Luz;175.924.382-83;39591,5;Depósito;Caixa Econômica;Caixa Econômica;BRL;Aprovdo;149.105.122.24;Salvador;Caixa Eletrônico
+TX-179;45417;Luiz Felipe Barros;441.300.936-01;41317.01;TED;Itaú;Caixa Econômica;EURO;Cancelado;147.45.234.99;Belo Horizonte;Agência Física
+TX-180;45482;Agatha Lopes;705.068.735-01;11435.93;Boleto;Inter;It@ú;EUR;Pendnte;28.146.72.243;São Paulo;Agência Física
+TX-181;45491;D4vi Lucc4 d4 C0st4;42222188635;12171,55;Depósito;Bradesco;Itaú;USD;Cancelado;161.67.139.215;Porto Alegre;Caixa Eletrônico
+TX-182;45497;Sr. Carlos Eduardo da Rocha;70936145921;14343,13;Depósito;Banko do Brasil;Itaú;BRL;Aprovada;147.45.234.99;Sã0 Paul0;Caixa Eletrônico
+TX-183;45653;Yasmin Oliveira;239.620.763-26;43912,81;Transferência;Banco do Brasil;Santander;Usd;Cancelada;50.107.35.236;Salvador;caixaeletrônico
+TX-184;45694;Bryan Almeida;947.959.409-14;39985.66;Boleto;Bradesco;BTG P@ctu@l;EURO;Cancelada;57.192.0.17;Salvador;Caixa Eletrônico
+TX-185;45366;Kamilly Gonçalves;24419230218;32068.23;Pix;Itaú;Inter;EURO;Pendnte;205.1.56.232;Salvador;Agência Física
+TX-186;45592;Gustavo Henrique Freitas;490.130.071-86;6003.12;Pix;Bradesco;Itaú;Real;Pendnte;167.140.10.159;Porto Alegre;Internet Banking
+TX-187;45513;Luiz Felipe Barros;441.300.936-01;19794,7;Depósito;Itaú;Santander;EUR;Aprovda;133.217.56.81;Curitiba;Agência Física
+TX-188;45383;Miguel Santos;020.340.036-88;7942.05;TED;Inter;BTG Pactual;BRL;Cancelada;99.38.141.67;Salvador;Agência Física
+TX-189;45640;Sophie Dias;3816146275;43912,81;Transferência;Santander;It@ú;eur;Pndente;28.146.72.243;Rio de Janeiro;Agência Física
+TX-190;45606;D4vi Lucc4 d4 C0st4;42222188635;10899.35;TED;Itaú;B@nco do Br@sil;eur;Pendnte;154.196.50.24;Rio de Janeiro;agênciafísica
+TX-191;45387;Luiz Fernando Duarte;69061082464;23039.65;Pix;Banco do Brasil;Bradesco;eur;Aprovda;44.61.49.226;Belo Horizonte;Caixa Eletrônico
+TX-192;45356;J0ã0 P3dr0 M3nd3s;76102989340;8896,81;Transferência;Itaú;BTG P@ctu@l;BRL;Cancelado;155.16.190.57;Curitiba;Agência Física
+TX-193;45420;Lucas Gabriel da Mata;17525186917;2587,57;DOC;Santander;Banco do Brasil;Usd;Aprovda;46.16.234.145;Salvador;Agência Física
+TX-194;45587;Calebe Carvalho;095.404.041-30;32068.23;DOC;Santander;It@ú;BRL;Aprovdo;167.140.10.159;Curitiba;Internet Banking
+TX-195;45344;Valentina Porto;69650426560;30182.19;Pix;Itaú;Inter;Real;Pndente;98.70.105.37;Salvador;Caixa Eletrônico
+TX-196;45636;Nathan Jesus;910.085.188-13;3914.56;Depósito;Bradesco;BTG P@ctu@l;BR$;Cancelado;86213210207;Belo Horizonte;Internet Banking
+TX-197;45670;Valentina Porto;69650426560;40976,75;Pix;Itaú;Caixa Econômica;Real;Pndente;98.70.105.37;São Paulo;Internet Banking
+TX-198;45357;Srt4. Ev3lyn C4mp0s;329.129.447-41;24818.46;Pix;Caixa Econômica;Caixa Econômica;BRL;Aprovda;209246154225;Belo Horizonte;Agência Física
+TX-199;45423;Ana Júlia Carvalho;54119817564;24818.46;DOC;Caixa Econômica;Banco do Brasil;EUR;Pndente;167.140.10.159;Salvad0r;Internet Banking
+TX-200;45686;Dr. Luiz Gust4v0 Lim4;31211524979;6003.12;TED;BTG Paktual;BTG P@ctu@l;USD;Aprovdo;140.201.79.192;Salvador;internetbanking
+TX-201;45471;Cecília Costela;39014903719;7942.05;Pix;Itaú;C@ix@ Econômic@;USD;Aprovdo;68.124.51.34;Belo Horizonte;Caixa Eletrônico
+TX-202;45366;M4rc3l4 Di4s;156.860.920-77;47056,64;Pix;Caixa Econômica;Santander;Real;Pendente;57.192.0.17;Sã0 Paul0;Internet Banking
+TX-203;45504;Bryan Duarte;50764955250;32068.23;Pix;Caixa Ekonômika;Inter;USD;Pndente;138.13.1.100;Salvador;Agência Física
+TX-204;45471;Miguel Santos;020.340.036-88;39591,5;Boleto;Caixa Ekonômika;Banco do Brasil;eur;Pndente;98.70.105.37;Belo Horizonte;Agência Física
+TX-205;45380;Yuri Carvalho;764.832.459-20;43912,81;Transferência;Itaú;Br@desco;EURO;Aprovdo;154.196.50.24;Belo Horizonte;Internet Banking
+TX-206;45462;Srta. Brenda Nunes;76972982739;24818.46;Transferência;Banco do Brasil;Banco do Brasil;USD;Aprovda;98.70.105.37;Salvador;Caixa Eletrônico
+TX-207;45450;Renan Novaes;421.591.214-79;17652.46;TED;BTG Paktual;BTG P@ctu@l;USD;Pendnte;149.105.122.24;Curitiba;Caixa Eletrônico
+TX-208;45539;J0ã0 P3dr0 M3nd3s;76102989340;47531,9;Transferência;Caixa Econômica;Inter;EUR;Pendnte;195139235106;Salvador;Caixa Eletrônico
+TX-209;45494;Nathan Jesus;910.085.188-13;39062,72;Transferência;Itaú;Caixa Econômica;EUR;Aprovada;78.33.187.186;Curitiba;Internet Banking
+TX-210;45605;Gustavo Henrique Freitas;490.130.071-86;39985.66;Depósito;Caixa Econômica;BTG Pactual;USD;Aprovada;23.112.58.85;Salvador;Caixa Eletrônico
+TX-211;45657;Ana Lívia Azevedo;48867127519;36410.78;Boleto;Bradesco;It@ú;Usd;Cancelado;174.187.243.46;Rio de Janeiro;caixaeletrônico
+TX-212;45696;Srt4. Ev3lyn C4mp0s;329.129.447-41;14964,78;Depósito;BTG Pactual;Caixa Econômica;Real;Cancelada;146103227115;Curitiba;Agência Física
+TX-213;45426;Yuri Carvalho;764.832.459-20;38019,67;Boleto;Bradesco;Inter;BRL;Cancelado;46.16.234.145;São Paulo;Agência Física
+TX-214;45680;Srt4. Ev3lyn C4mp0s;329.129.447-41;22171.02;Transferência;Bradesko;Bradesco;USD;Aprovada;44.61.49.226;Belo Horizonte;internetbanking
+TX-215;45420;Nathan Jesus;910.085.188-13;12171,55;Transferência;Itaú;S@nt@nder;EURO;Pndente;67.175.74.74;Salvador;agênciafísica
+TX-216;45587;Maria Castro;427.552.247-91;32902,16;TED;BTG Paktual;Caixa Econômica;eur;Cancelada;145220225216;Curitiba;Caixa Eletrônico
+TX-217;45344;Valentina Porto;69650426560;22171.02;Boleto;BTG Paktual;Caixa Econômica;USD;Aprovdo;98.70.105.37;Curitiba;Agência Física
+TX-218;45636;Maria Castro;427.552.247-91;32902,16;Depósito;Bradesko;Banco do Brasil;BRL;Cancelada;155.16.190.57;Salvad0r;Internet Banking
+TX-219;45670;Gustavo Henrique Freitas;490.130.071-86;2594.20;TED;BTG Pactual;Caixa Econômica;BR$;Aprovda;205.1.56.232;Porto Alegre;Internet Banking
+TX-220;45357;André N0gu3ir4;502.653.269-39;40976,75;TED;Bradesco;Itaú;EUR;Aprovdo;50.107.35.236;P0rt0 Alegre;Agência Física
+TX-221;45423;Dr. Luiz Felipe Teixeira;33424344224;3914.56;Transferência;Itaú;Santander;EURO;Pendnte;143.65.126.190;Salvador;Agência Física
+TX-222;45686;Rafaela Gomes;871.846.715-91;23039.65;Transferência;Inter;Banco do Brasil;eur;Cancelado;5.21.2.161;Curitiba;Agência Física
+TX-223;45471;Maysa Castro;90570852729;47531,9;TED;Banco do Brasil;C@ix@ Econômic@;BRL;Aprovada;151.94.193.13;P0rt0 Alegre;Agência Física
+TX-224;45366;Yuri Carvalho;764.832.459-20;17652.46;Transferência;Itaú;Santander;BR$;Pendnte;161.67.139.215;São Paulo;Agência Física
+TX-225;45504;Isabella da Cunha;181.721.689-96;47056,64;Transferência;Inter;Santander;EUR;Cancelado;28.146.72.243;Rio de Janeiro;caixaeletrônico
+TX-226;45471;Rodrigo Dias;44627071180;32902,16;TED;Banko do Brasil;BTG P@ctu@l;EURO;Cancelado;41.25.20.251;Belo Horizonte;Agência Física
+TX-227;45380;Srta. Brenda Nunes;76972982739;4615,03;Depósito;Itaú;Br@desco;Real;Aprovda;159241130188;Rio de Janeiro;Agência Física
+TX-228;45462;R4f43l S4nt0s;069.188.807-13;31654.67;Transferência;BTG Paktual;Itaú;EUR;Aprovda;151.94.193.13;Curitiba;Agência Física
+TX-229;45450;Ana Lívia Azevedo;48867127519;11435.93;Transferência;Inter;S@nt@nder;Usd;Cancelada;156.91.58.100;Porto Alegre;caixaeletrônico
+TX-230;45539;João Felipe Silva;1123173968;30197.47;Pix;Itaú;C@ix@ Econômic@;eur;Cancelada;98.70.105.37;Belo Horizonte;Internet Banking
+TX-231;45494;Lara Silveira;1454845353;39062,72;Boleto;Santander;BTG P@ctu@l;Real;Aprovdo;195139235106;Belo Horizonte;Agência Física
+TX-232;45605;Sr. Carlos Eduardo da Rocha;70936145921;39985.66;Depósito;Santander;It@ú;BRL;Aprovda;138.13.1.100;Curitiba;internetbanking
+TX-233;45657;Lucas Gabriel da Mata;17525186917;34516.93;DOC;BTG Paktual;Inter;EUR;Aprovdo;149.105.122.24;Salvador;Agência Física
+TX-234;45696;Luiz Fernando Duarte;69061082464;14343,13;TED;Inter;Bradesco;EURO;Aprovdo;195139235106;P0rt0 Alegre;caixaeletrônico
+TX-235;45426;J0ã0 P3dr0 M3nd3s;76102989340;45250,75;TED;Caixa Ekonômika;Inter;EUR;Aprovada;5.21.2.161;Rio de Janeiro;Caixa Eletrônico
+TX-236;45680;Yuri Carvalho;764.832.459-20;11656,75;DOC;Santander;Inter;Real;Aprovada;23.112.58.85;Rio de Janeiro;Internet Banking
+TX-237;45579;Luiz Miguel Silveira;25094710302;14964,78;Pix;Itaú;C@ix@ Econômic@;BR$;Cancelada;155.16.190.57;Belo Horizonte;caixaeletrônico
+TX-238;45422;Maria Castro;427.552.247-91;39591,5;Pix;Inter;It@ú;Usd;Pendente;186.204.75.89;Curitiba;Agência Física
+TX-239;45604;R4f43l S4nt0s;069.188.807-13;16995.53;Transferência;Itaú;It@ú;Real;Cancelada;184.63.182.128;São Paulo;internetbanking
+TX-240;45513;Renan Novaes;421.591.214-79;19794,7;TED;Caixa Ekonômika;Inter;BRL;Aprovda;23.112.58.85;Curitiba;Internet Banking
+TX-241;45545;Gustavo Henrique Freitas;490.130.071-86;41317.01;Transferência;Itaú;Inter;BRL;Aprovdo;5.21.2.161;Sã0 Paul0;Agência Física
+TX-242;45428;Emilly da Luz;175.924.382-83;20623.38;Depósito;Caixa Econômica;BTG Pactual;Real;Pendnte;151.94.193.13;Salvador;Agência Física
+TX-243;45655;André N0gu3ir4;502.653.269-39;23039.65;Depósito;Caixa Ekonômika;Caixa Econômica;EURO;Pndente;43.82.222.136;Belo Horizonte;Internet Banking
+TX-244;45398;Manuela Jesus;29286644979;43618.64;Depósito;Bradesco;Itaú;Real;Pendnte;28.146.72.243;Salvador;Internet Banking
+TX-245;45591;Leandro Araújo;69106604613;11656,75;TED;Banco do Brasil;It@ú;BR$;Aprovdo;181145218245;Porto Alegre;Agência Física
+TX-246;45643;Sra. Alice Campos;95829576634;31087,91;Transferência;Caixa Ekonômika;Bradesco;eur;Pendente;145220225216;Rio de Janeiro;Caixa Eletrônico
+TX-247;45562;Sophie Dias;3816146275;16995.53;Depósito;Santander;S@nt@nder;BR$;Aprovdo;43.82.222.136;Salvad0r;Agência Física
+TX-248;45608;Sra. Alice Campos;95829576634;45250,75;Pix;Santander;S@nt@nder;EURO;Aprovada;133.52.111.176;Curitiba;Agência Física
+TX-249;45670;Bryan Almeida;947.959.409-14;11435.93;Depósito;BTG Paktual;It@ú;USD;Pendente;43.82.222.136;Porto Alegre;Internet Banking
+TX-250;45417;Vicente Costa;55472565610;14964,78;TED;Caixa Ekonômika;Bradesco;USD;Cancelada;200.201.2.107;Porto Alegre;Agência Física
+TX-251;45482;Sra. Alice Campos;95829576634;7942.05;Depósito;Banko do Brasil;It@ú;BR$;Cancelada;43.82.222.136;Salvador;Agência Física
+TX-252;45491;Ana Júlia Carvalho;54119817564;49149.56;Boleto;BTG Paktual;S@nt@nder;BR$;Cancelada;43.82.222.136;São Paulo;Caixa Eletrônico
+TX-253;45497;Luiz Miguel Silveira;25094710302;47531,9;Boleto;Itaú;Caixa Econômica;EURO;Aprovdo;173175245113;Porto Alegre;caixaeletrônico
+TX-254;45653;João Pedro Rodrigues;653.490.064-88;23039.65;Depósito;Itaú;BTG Pactual;BRL;Cancelado;46.16.234.145;Curitiba;internetbanking
+TX-255;45694;Gustavo Henrique Freitas;490.130.071-86;20623.38;TED;Santander;Itaú;USD;Aprovada;78.33.187.186;São Paulo;Internet Banking
+TX-256;45366;Isabella da Cunha;181.721.689-96;20623.38;Pix;Inter;Caixa Econômica;BR$;Pndente;118.68.211.2;Salvador;internetbanking
+TX-257;45592;Srt4. Ev3lyn C4mp0s;329.129.447-41;11435.93;TED;Itaú;Banco do Brasil;Real;Pndente;154.196.50.24;Rio de Janeiro;Agência Física
+TX-258;45513;Sophie Dias;3816146275;44296.21;Pix;BTG Pactual;It@ú;EUR;Aprovda;28.146.72.243;Curitiba;Caixa Eletrônico
+TX-259;45383;Calebe Carvalho;095.404.041-30;23039.65;DOC;BTG Paktual;Inter;eur;Cancelada;181.71.150.136;Curitiba;Internet Banking
+TX-260;45640;Maria Castro;427.552.247-91;10872.24;TED;Santander;S@nt@nder;EUR;Pendnte;151.94.193.13;Curitiba;Caixa Eletrônico
+TX-261;45606;Lucas Gabriel da Mata;17525186917;30182.19;Transferência;Banco do Brasil;Inter;EUR;Aprovada;156.91.58.100;Salvador;Agência Física
+TX-262;45387;Gustavo Henrique Freitas;490.130.071-86;32068.23;DOC;Itaú;Inter;Real;Aprovdo;89165229118;Curitiba;Caixa Eletrônico
+TX-263;45356;Ana Júlia Carvalho;54119817564;43912,81;Pix;Banco do Brasil;Banco do Brasil;USD;Cancelado;44.61.49.226;Salvador;Agência Física
+TX-264;45625;Calebe Carvalho;095.404.041-30;10872.24;Pix;Banco do Brasil;S@nt@nder;EUR;Pndente;174.187.243.46;Rio de Janeiro;Agência Física
+TX-265;45450;André N0gu3ir4;502.653.269-39;31654.67;Depósito;Itaú;Santander;Real;Pndente;140.201.79.192;São Paulo;Agência Física
+TX-266;45539;Breno Pinto;53540285406;11656,75;Depósito;Inter;Inter;BRL;Aprovdo;118.68.211.2;Salvador;Agência Física
+TX-267;45494;Luiz Miguel Silveira;25094710302;11785,3;Depósito;Itaú;Inter;EURO;Aprovada;181.71.150.136;Rio de Janeiro;Internet Banking
+TX-268;45605;Maysa Castro;90570852729;12171,55;TED;Itaú;Inter;Real;Aprovdo;181.71.150.136;Rio de Janeiro;Agência Física
+TX-269;45657;Luiz Felipe Barros;441.300.936-01;30197.47;Pix;Itaú;Caixa Econômica;USD;Pendente;57.192.0.17;Salvador;Agência Física
+TX-270;45696;Dr. Luiz Felipe Teixeira;33424344224;30182.19;TED;Caixa Ekonômika;Inter;BRL;Cancelada;5.21.2.161;Salvad0r;internetbanking
+TX-271;45426;Sra. Alice Campos;95829576634;1943.60;TED;Itaú;It@ú;Real;Aprovada;147.45.234.99;P0rt0 Alegre;Internet Banking
+TX-272;45680;Sophie Dias;3816146275;30182.19;Transferência;Itaú;Itaú;USD;Pendente;118.68.211.2;São Paulo;Internet Banking
+TX-273;45579;João Felipe Silva;1123173968;41317.01;Depósito;Santander;It@ú;USD;Cancelada;143.65.126.190;Salvador;internetbanking
+TX-274;45422;Ana Júlia Carvalho;54119817564;39591,5;DOC;Inter;Caixa Econômica;eur;Cancelado;78.33.187.186;Salvador;Internet Banking
+TX-275;45604;Maria Eduarda Nunes;672.197.308-95;3238.19;DOC;Santander;BTG P@ctu@l;Real;Pendente;41.25.20.251;Rio de Janeiro;caixaeletrônico
+TX-276;45513;L3vi d4 R0ch4;825.015.143-74;14964,78;Transferência;Itaú;Banco do Brasil;Real;Cancelado;181.71.150.136;Rio de Janeiro;Internet Banking
+TX-277;45545;Valentina Porto;69650426560;16995.53;Pix;Itaú;Br@desco;BRL;Pndente;57.126.87.244;Curitiba;Agência Física
+TX-278;45428;Sra. Alice Campos;95829576634;47531,9;Pix;Inter;Inter;BRL;Aprovda;133.217.56.81;Curitiba;Internet Banking
+TX-279;45655;Maria Eduarda Nunes;672.197.308-95;2587,57;Depósito;Bradesco;Caixa Econômica;eur;Aprovda;184.63.182.128;Salvador;Agência Física
+TX-280;45398;D4vi Lucc4 d4 C0st4;42222188635;31087,91;Depósito;BTG Paktual;Bradesco;BR$;Pendnte;145220225216;Curitiba;Caixa Eletrônico
+TX-281;45591;Rodrigo Dias;44627071180;13619.27;DOC;Banco do Brasil;Banco do Brasil;BRL;Aprovdo;209246154225;Rio de Janeiro;Caixa Eletrônico
+TX-282;45643;L3vi d4 R0ch4;825.015.143-74;43618.64;Boleto;Caixa Ekonômika;It@ú;eur;Pendente;78.33.187.186;São Paulo;Agência Física
+TX-283;45562;Isabella da Cunha;181.721.689-96;17652.46;TED;Caixa Econômica;Santander;eur;Pndente;181145218245;Porto Alegre;caixaeletrônico
+TX-284;45608;Maria Castro;427.552.247-91;7942.05;DOC;Bradesco;Santander;BRL;Aprovdo;76.114.44.81;Curitiba;Agência Física
+TX-285;45670;Calebe Carvalho;095.404.041-30;13619.27;TED;Itaú;Banco do Brasil;BRL;Aprovda;118.68.211.2;São Paulo;Caixa Eletrônico
+TX-286;45417;Rafaela Gomes;871.846.715-91;16995.53;DOC;Inter;Itaú;eur;Cancelada;159241130188;Sã0 Paul0;caixaeletrônico
+TX-287;45482;Yasmin Oliveira;239.620.763-26;3914.56;TED;Itaú;Br@desco;BR$;Cancelado;98.70.105.37;Belo Horizonte;Agência Física
+TX-288;45491;L3vi d4 R0ch4;825.015.143-74;11656,75;Pix;BTG Pactual;Itaú;EURO;Pndente;181145218245;São Paulo;Internet Banking
+TX-289;45497;Isabella da Cunha;181.721.689-96;3238.19;Pix;Itaú;It@ú;eur;Aprovada;74.83.119.104;Sã0 Paul0;Internet Banking
+TX-290;45653;L3vi d4 R0ch4;825.015.143-74;10872.24;Transferência;Itaú;S@nt@nder;EURO;Cancelada;167.140.10.159;P0rt0 Alegre;Agência Física
+TX-291;45694;Maysa Castro;90570852729;45250,75;Depósito;Banco do Brasil;Bradesco;BR$;Cancelada;146103227115;Curitiba;Agência Física
+TX-292;45366;Renan Novaes;421.591.214-79;10899.35;Transferência;Bradesko;It@ú;BRL;Aprovda;133.217.56.81;São Paulo;internetbanking
+TX-293;45592;Rodrigo Dias;44627071180;36410.78;Boleto;BTG Paktual;Banco do Brasil;EURO;Aprovada;133.217.56.81;Salvador;internetbanking
+TX-294;45513;Isabella da Cunha;181.721.689-96;24818.46;Transferência;Itaú;BTG P@ctu@l;EUR;Aprovdo;174.187.243.46;São Paulo;caixaeletrônico
+TX-295;45383;Luiz Felipe Barros;441.300.936-01;11656,75;Depósito;Itaú;BTG P@ctu@l;BRL;Aprovada;98.70.105.37;Curitiba;Internet Banking
+TX-296;45640;Dr. Luiz Felipe Teixeira;33424344224;22171.02;Pix;BTG Pactual;Bradesco;Usd;Aprovda;133.52.111.176;Curitiba;Caixa Eletrônico
+TX-297;45606;Luiz Miguel Silveira;25094710302;32902,16;Pix;Santander;Inter;BRL;Aprovdo;78.33.187.186;Rio de Janeiro;Caixa Eletrônico
+TX-298;45387;Srt4. Ev3lyn C4mp0s;329.129.447-41;30054,77;Transferência;Inter;Itaú;USD;Pndente;133.52.111.176;Salvador;Caixa Eletrônico
+TX-299;45356;Srta. Brenda Nunes;76972982739;12122,38;TED;Bradesco;Inter;BR$;Aprovdo;200.201.2.107;Curitiba;Agência Física
+TX-300;45420;Yuri Carvalho;764.832.459-20;7942.05;Depósito;BTG Paktual;Caixa Econômica;BRL;Cancelada;118.68.211.2;Rio de Janeiro;caixaeletrônico
+TX-301;45587;Ana Lívia Azevedo;48867127519;47531,9;DOC;Itaú;BTG P@ctu@l;eur;Aprovdo;57.192.0.17;Belo Horizonte;Caixa Eletrônico
+TX-302;45344;Agatha Lopes;705.068.735-01;22171.02;Transferência;Banko do Brasil;BTG P@ctu@l;eur;Cancelada;57.192.0.17;P0rt0 Alegre;Internet Banking
+TX-303;45636;Vicente Costa;55472565610;41317.01;Boleto;Santander;BTG P@ctu@l;Real;Pendente;117255194225;Rio de Janeiro;Caixa Eletrônico
+TX-304;45670;Rafaela Gomes;871.846.715-91;22171.02;Boleto;Itaú;Santander;Usd;Cancelado;46.16.234.145;São Paulo;Caixa Eletrônico
+TX-305;45357;Bryan Almeida;947.959.409-14;19794,7;TED;Bradesko;Banco do Brasil;Usd;Cancelada;41.25.20.251;Salvador;caixaeletrônico
+TX-306;45423;R4f43l S4nt0s;069.188.807-13;32068.23;Depósito;Bradesco;Banco do Brasil;USD;Pndente;23.112.58.85;Rio de Janeiro;Caixa Eletrônico
+TX-307;45686;J0ã0 Guilh3rm3 C0st3l4;84842762368;34516.93;Boleto;Inter;It@ú;BRL;Pendnte;41.25.20.251;Salvador;caixaeletrônico
+TX-308;45471;Luiz Fernando Duarte;69061082464;30197.47;TED;Itaú;BTG P@ctu@l;USD;Aprovdo;151.94.193.13;Rio de Janeiro;Agência Física
+TX-309;45366;Dr. Luiz Gust4v0 Lim4;31211524979;16995.53;Transferência;Caixa Econômica;Br@desco;BRL;Aprovda;195139235106;Bel0 H0riz0nte;Internet Banking
+TX-310;45504;Yuri Carvalho;764.832.459-20;30197.47;Pix;Banko do Brasil;Caixa Econômica;BR$;Pendente;133.52.111.176;Curitiba;Internet Banking
+TX-311;45471;Kamilly Gonçalves;24419230218;13619.27;Pix;Santander;Itaú;EUR;Aprovdo;195139235106;São Paulo;Agência Física
+TX-312;45380;Maria Eduarda Nunes;672.197.308-95;22963.92;Boleto;Caixa Ekonômika;S@nt@nder;BR$;Aprovdo;140.121.49.200;Curitiba;Agência Física
+TX-313;45462;R4f43l S4nt0s;069.188.807-13;45250,75;Depósito;BTG Paktual;It@ú;BRL;Pndente;205.1.56.232;Curitiba;agênciafísica
+TX-314;45450;M4rc3l4 Di4s;156.860.920-77;34516.93;DOC;Banco do Brasil;Inter;EUR;Pendente;167.140.10.159;Curitiba;Agência Física
+TX-315;45539;Cecília Costela;39014903719;14343,13;TED;Inter;It@ú;eur;Pndente;117255194225;Porto Alegre;Internet Banking
+TX-316;45494;J0ã0 Guilh3rm3 C0st3l4;84842762368;17652.46;Depósito;BTG Paktual;Caixa Econômica;BR$;Aprovdo;209246154225;Salvad0r;Agência Física
+TX-317;45605;Yasmin Oliveira;239.620.763-26;30182.19;TED;Banco do Brasil;Bradesco;Real;Aprovada;156.91.58.100;Belo Horizonte;caixaeletrônico
+TX-318;45657;Luiz Miguel Silveira;25094710302;11656,75;TED;Caixa Ekonômika;Inter;Real;Cancelada;57.126.87.244;Curitiba;Internet Banking
+TX-319;45696;Luiz Felipe Barros;441.300.936-01;39591,5;Depósito;Bradesco;Santander;BRL;Aprovda;209246154225;Bel0 H0riz0nte;Caixa Eletrônico
+TX-320;45426;Luiz Fernando Duarte;69061082464;38019,67;DOC;Itaú;Santander;eur;Cancelado;195139235106;Rio de Janeiro;Caixa Eletrônico
+TX-321;45680;Bryan Almeida;947.959.409-14;38019,67;TED;Banco do Brasil;Banco do Brasil;BRL;Aprovdo;23.112.58.85;Rio de Janeiro;Internet Banking
+TX-322;45579;Renan Novaes;421.591.214-79;14343,13;Depósito;Banco do Brasil;Itaú;USD;Aprovada;27.213.174.49;São Paulo;Caixa Eletrônico
+TX-323;45422;Valentina Costela;31278834490;24818.46;Depósito;Bradesco;It@ú;Real;Cancelada;195139235106;Sã0 Paul0;Agência Física
+TX-324;45604;Yasmin Oliveira;239.620.763-26;12122,38;Transferência;Santander;Itaú;BRL;Cancelada;195139235106;Salvador;Agência Física
+TX-325;45605;Lucas Gabriel da Mata;17525186917;43912,81;DOC;BTG Paktual;Santander;eur;Cancelada;28.146.72.243;Belo Horizonte;Agência Física
+TX-326;45657;Lorena Oliveira;13817942796;2587,57;Depósito;Inter;Caixa Econômica;BRL;Cancelado;67.175.74.74;Rio de Janeiro;Internet Banking
+TX-327;45696;Lucas Gabriel da Mata;17525186917;7942.05;TED;BTG Paktual;S@nt@nder;BR$;Pendnte;156.91.58.100;Sã0 Paul0;Internet Banking
+TX-328;45426;Agatha Lopes;705.068.735-01;12171,55;Transferência;Itaú;Caixa Econômica;USD;Cancelada;27.213.174.49;Curitiba;Caixa Eletrônico
+TX-329;45680;Valentina Porto;69650426560;31087,91;Depósito;Santander;It@ú;BR$;Cancelada;28.146.72.243;P0rt0 Alegre;Caixa Eletrônico
+TX-330;45579;Sr. Carlos Eduardo da Rocha;70936145921;39062,72;TED;BTG Pactual;S@nt@nder;eur;Cancelada;138.13.1.100;Curitiba;Agência Física
+TX-331;45422;Lorena Oliveira;13817942796;22963.92;Pix;Banko do Brasil;Banco do Brasil;Real;Cancelada;161.67.139.215;Sã0 Paul0;Internet Banking
+TX-332;45604;Agatha Lopes;705.068.735-01;22171.02;Transferência;Inter;Itaú;Real;Pndente;23.112.58.85;Belo Horizonte;Agência Física
+TX-333;45513;Rafaela Gomes;871.846.715-91;10899.35;Boleto;Bradesco;S@nt@nder;Real;Cancelada;195139235106;Sã0 Paul0;caixaeletrônico
+TX-334;45545;Lara Silveira;1454845353;24818.46;Pix;Itaú;Inter;USD;Pendnte;200.201.2.107;Curitiba;Internet Banking
+TX-335;45428;Bryan Duarte;50764955250;22171.02;Depósito;Bradesco;Inter;Real;Aprovda;138.13.1.100;Belo Horizonte;Caixa Eletrônico
+TX-336;45655;Breno Pinto;53540285406;45250,75;TED;Itaú;Bradesco;BR$;Aprovada;43.82.222.136;Rio de Janeiro;Agência Física
+TX-337;45398;Srta. Brenda Nunes;76972982739;36410.78;TED;Caixa Econômica;Itaú;EURO;Aprovdo;68.124.51.34;Curitiba;Internet Banking
+TX-338;45591;Calebe Carvalho;095.404.041-30;22963.92;TED;Inter;Bradesco;BR$;Cancelado;140.201.79.192;Salvador;Agência Física
+TX-339;45643;Maria Castro;427.552.247-91;43912,81;Boleto;BTG Paktual;Santander;BR$;Cancelada;41.25.20.251;Porto Alegre;Agência Física
+TX-340;45562;Sr. P3dr0 d4 M4t4;337.451.791-72;2587,57;TED;Itaú;Inter;Real;Pendnte;161.67.139.215;Curitiba;Agência Física
+TX-341;45608;Calebe Carvalho;095.404.041-30;43912,81;Transferência;BTG Paktual;BTG P@ctu@l;Real;Cancelado;205.1.56.232;Porto Alegre;Agência Física
+TX-342;45670;L3vi d4 R0ch4;825.015.143-74;7942.05;Depósito;Bradesco;Caixa Econômica;Real;Aprovdo;44.61.49.226;São Paulo;Internet Banking
+TX-343;45417;Nathan Jesus;910.085.188-13;24818.46;Depósito;Itaú;B@nco do Br@sil;BR$;Pndente;151.94.193.13;Rio de Janeiro;Caixa Eletrônico
+TX-344;45482;Maria Eduarda Nunes;672.197.308-95;10872.24;TED;Itaú;Bradesco;BRL;Aprovada;140.201.79.192;Rio de Janeiro;Agência Física
+TX-345;45491;Luiz Miguel Silveira;25094710302;43912,81;Pix;Caixa Ekonômika;Inter;BRL;Aprovdo;23.112.58.85;Salvad0r;caixaeletrônico
+TX-346;45497;Sr. Carlos Eduardo da Rocha;70936145921;47056,64;TED;Banco do Brasil;Itaú;EURO;Cancelado;149.105.122.24;Curitiba;caixaeletrônico
+TX-347;45653;Maysa Castro;90570852729;34516.93;TED;Itaú;Itaú;Real;Aprovdo;63.18.248.20;Salvador;caixaeletrônico
+TX-348;45694;Lara Silveira;1454845353;47531,9;Transferência;Santander;Bradesco;Real;Cancelada;44.61.49.226;Rio de Janeiro;Caixa Eletrônico
+TX-349;45366;J0ã0 P3dr0 M3nd3s;76102989340;19794,7;TED;Banco do Brasil;Santander;Real;Pendnte;99.38.141.67;Salvador;internetbanking
+TX-350;45592;Maysa Castro;90570852729;30054,77;Pix;Inter;S@nt@nder;EURO;Pndente;57.192.0.17;Salvador;Caixa Eletrônico
+TX-351;45513;Breno Pinto;53540285406;32902,16;Depósito;Banco do Brasil;Banco do Brasil;USD;Cancelado;200.201.2.107;São Paulo;Caixa Eletrônico
+TX-352;45383;R4f43l S4nt0s;069.188.807-13;31654.67;Pix;Santander;Inter;BRL;Pndente;186.204.75.89;Salvad0r;Agência Física
+TX-353;45640;Bryan Almeida;947.959.409-14;12171,55;Boleto;Banco do Brasil;BTG Pactual;eur;Cancelada;89165229118;Rio de Janeiro;Agência Física
+TX-354;45606;Cecília Costela;39014903719;32902,16;TED;Inter;BTG Pactual;EURO;Cancelada;186.204.75.89;Rio de Janeiro;caixaeletrônico
+TX-355;45387;Agatha Lopes;705.068.735-01;44296.21;Pix;Bradesco;Banco do Brasil;eur;Aprovdo;133.217.56.81;Curitiba;Agência Física
+TX-356;45356;Leandro Araújo;69106604613;13619.27;Transferência;Bradesko;S@nt@nder;BR$;Pendente;195139235106;Salvador;Agência Física
+TX-357;45420;Luiz Felipe Barros;441.300.936-01;20623.38;Pix;Inter;C@ix@ Econômic@;Real;Aprovda;143.65.126.190;Curitiba;Caixa Eletrônico
+TX-358;45587;Sr. Carlos Eduardo da Rocha;70936145921;12171,55;Boleto;Itaú;BTG P@ctu@l;BR$;Pendente;184.63.182.128;Salvador;Caixa Eletrônico
+TX-359;45344;Lorena Oliveira;13817942796;16152.09;Depósito;Bradesco;BTG Pactual;BR$;Cancelado;5.21.2.161;Rio de Janeiro;Agência Física
+TX-360;45636;Rodrigo Dias;44627071180;30197.47;TED;Banco do Brasil;BTG Pactual;EUR;Cancelada;117255194225;Porto Alegre;Internet Banking
+TX-361;45670;D4vi Lucc4 d4 C0st4;42222188635;30182.19;Boleto;Itaú;Santander;USD;Aprovdo;209246154225;Salvador;caixaeletrônico
+TX-362;45357;Nathan Jesus;910.085.188-13;3238.19;TED;Santander;BTG Pactual;USD;Aprovdo;151.94.193.13;Rio de Janeiro;caixaeletrônico
+TX-363;45423;Luiz Fernando Duarte;69061082464;16152.09;Depósito;Santander;S@nt@nder;USD;Cancelada;146103227115;Porto Alegre;Agência Física
+TX-364;45686;M4rc3l4 Di4s;156.860.920-77;11435.93;Depósito;Itaú;Caixa Econômica;USD;Cancelada;143.65.126.190;Salvador;Internet Banking
+TX-365;45471;Ana Lívia Azevedo;48867127519;31087,91;Transferência;Itaú;S@nt@nder;EUR;Pendnte;154.196.50.24;Porto Alegre;agênciafísica
+TX-366;45366;Kamilly Gonçalves;24419230218;22963.92;Pix;Itaú;BTG Pactual;USD;Cancelada;147.45.234.99;Rio de Janeiro;Internet Banking
+TX-367;45504;Breno Pinto;53540285406;32068.23;Boleto;Inter;Santander;BR$;Aprovada;117255194225;Sã0 Paul0;Agência Física
+TX-368;45471;Sra. Alice Campos;95829576634;39985.66;TED;Caixa Econômica;It@ú;Real;Aprovda;140.121.49.200;Curitiba;Agência Física
+TX-369;45380;J0ã0 Guilh3rm3 C0st3l4;84842762368;49149.56;Pix;Bradesco;BTG Pactual;Real;Pendente;138.13.1.100;Rio de Janeiro;Agência Física
+TX-370;45462;L3vi d4 R0ch4;825.015.143-74;44296.21;Pix;Banco do Brasil;Itaú;BRL;Aprovdo;195139235106;Rio de Janeiro;Caixa Eletrônico
+TX-371;45450;Gustavo Henrique Freitas;490.130.071-86;6003.12;TED;Itaú;C@ix@ Econômic@;EUR;Cancelada;133.217.56.81;Belo Horizonte;Caixa Eletrônico
+TX-372;45539;Sra. Alice Campos;95829576634;30182.19;Depósito;Itaú;Bradesco;Real;Aprovdo;209246154225;Belo Horizonte;Agência Física
+TX-373;45494;Kamilly Gonçalves;24419230218;6003.12;TED;Santander;It@ú;eur;Aprovdo;173175245113;São Paulo;caixaeletrônico
+TX-374;45605;Sr. P3dr0 d4 M4t4;337.451.791-72;32902,16;Pix;Santander;Santander;eur;Cancelado;5.21.2.161;Rio de Janeiro;Internet Banking
+TX-375;45657;Maria Castro;427.552.247-91;13619.27;Depósito;Banko do Brasil;It@ú;BRL;Aprovada;205.1.56.232;Salvador;Agência Física
+TX-376;45696;Isabella da Cunha;181.721.689-96;34516.93;Pix;Itaú;Inter;eur;Aprovdo;5.21.2.161;Rio de Janeiro;caixaeletrônico
+TX-377;45426;Valentina Costela;31278834490;36410.78;Depósito;Bradesco;Santander;EUR;Aprovada;98.70.105.37;Rio de Janeiro;Caixa Eletrônico
+TX-378;45680;Kamilly Gonçalves;24419230218;49149.56;TED;Itaú;It@ú;BR$;Pndente;78.33.187.186;Salvad0r;Internet Banking
+TX-379;45420;Isabella da Cunha;181.721.689-96;6003.12;Depósito;Banco do Brasil;Caixa Econômica;EUR;Pendnte;99.38.141.67;Curitiba;Agência Física
+TX-380;45587;Maria Castro;427.552.247-91;2594.20;Depósito;Caixa Econômica;C@ix@ Econômic@;eur;Pndente;200.201.2.107;Salvad0r;Caixa Eletrônico
+TX-381;45344;Manuela Jesus;29286644979;11435.93;Depósito;BTG Paktual;It@ú;EURO;Cancelada;205.1.56.232;Curitiba;Agência Física
+TX-382;45636;André N0gu3ir4;502.653.269-39;44296.21;DOC;Itaú;Itaú;Real;Pendnte;159241130188;Sã0 Paul0;Caixa Eletrônico
+TX-383;45670;J0ã0 P3dr0 M3nd3s;76102989340;14343,13;TED;Itaú;Inter;USD;Aprovdo;200.201.2.107;São Paulo;Internet Banking
+TX-384;45357;L3vi d4 R0ch4;825.015.143-74;16152.09;Depósito;Caixa Econômica;Caixa Econômica;EURO;Pendnte;50.107.35.236;Rio de Janeiro;internetbanking
+TX-385;45423;Calebe Carvalho;095.404.041-30;12171,55;DOC;BTG Pactual;It@ú;Real;Pndente;133.52.111.176;Belo Horizonte;Agência Física
+TX-386;45686;Lara Silveira;1454845353;31654.67;Depósito;Inter;Itaú;eur;Aprovada;67.175.74.74;Salvador;Internet Banking
+TX-387;45471;J0ã0 Guilh3rm3 C0st3l4;84842762368;14343,13;DOC;Itaú;Bradesco;BRL;Pendente;27.213.174.49;Sã0 Paul0;Agência Física
+TX-388;45366;Sr. Carlos Eduardo da Rocha;70936145921;16152.09;Pix;Banco do Brasil;Banco do Brasil;eur;Pendente;133.217.56.81;Curitiba;Agência Física
+TX-389;45504;Leandro Araújo;69106604613;6003.12;Depósito;Banco do Brasil;Inter;BRL;Cancelado;147.45.234.99;Salvador;Agência Física
+TX-390;45471;Maria Eduarda Nunes;672.197.308-95;43618.64;DOC;Caixa Econômica;Santander;BRL;Pendente;76.114.44.81;Belo Horizonte;Agência Física
+TX-391;45380;João Pedro Rodrigues;653.490.064-88;22171.02;Transferência;BTG Paktual;It@ú;Real;Aprovdo;167.140.10.159;Belo Horizonte;Internet Banking
+TX-392;45462;Luiz Miguel Silveira;25094710302;17652.46;Boleto;Caixa Ekonômika;C@ix@ Econômic@;Real;Aprovada;145220225216;P0rt0 Alegre;Agência Física
+TX-393;45450;Agatha Lopes;705.068.735-01;4615,03;Boleto;Itaú;Inter;BRL;Pendnte;28.146.72.243;P0rt0 Alegre;Caixa Eletrônico
+TX-394;45539;D4vi Lucc4 d4 C0st4;42222188635;1943.60;Depósito;BTG Pactual;B@nco do Br@sil;BR$;Cancelada;140.121.49.200;São Paulo;Caixa Eletrônico
+TX-395;45494;Sra. Alice Campos;95829576634;12171,55;TED;Bradesco;BTG Pactual;BR$;Aprovada;146103227115;Belo Horizonte;Agência Física
+TX-396;45605;Maysa Castro;90570852729;17652.46;Boleto;Itaú;Santander;BR$;Aprovdo;181.71.150.136;Porto Alegre;caixaeletrônico
+TX-397;45657;Gustavo Henrique Freitas;490.130.071-86;39591,5;TED;Bradesko;Santander;Real;Pndente;147.45.234.99;Rio de Janeiro;Agência Física
+TX-398;45696;Miguel Santos;020.340.036-88;12122,38;DOC;Itaú;Inter;BR$;Aprovda;200.201.2.107;Salvad0r;Caixa Eletrônico
+TX-399;45426;Vicente Costa;55472565610;31087,91;TED;BTG Paktual;Santander;BR$;Pndente;117255194225;Curitiba;Agência Física
+TX-400;45680;Srta. Brenda Nunes;76972982739;49149.56;Pix;Santander;Itaú;BRL;Aprovada;133.217.56.81;Belo Horizonte;Internet Banking
+TX-401;45579;Luiz Miguel Silveira;25094710302;38019,67;Boleto;Caixa Econômica;Santander;EUR;Cancelado;117255194225;Curitiba;Agência Física
+TX-402;45422;Sra. Alice Campos;95829576634;3238.19;Depósito;BTG Pactual;Itaú;eur;Aprovdo;173175245113;Salvador;Caixa Eletrônico
+TX-403;45604;L3vi d4 R0ch4;825.015.143-74;43618.64;DOC;Banco do Brasil;Caixa Econômica;USD;Aprovdo;43.82.222.136;Salvador;Agência Física
+TX-404;45513;Calebe Carvalho;095.404.041-30;2587,57;TED;Banco do Brasil;Banco do Brasil;EURO;Aprovdo;27.213.174.49;Rio de Janeiro;internetbanking
+TX-405;45545;D4vi Lucc4 d4 C0st4;42222188635;39062,72;Boleto;Itaú;Bradesco;eur;Aprovada;133.217.56.81;Salvador;Internet Banking
+TX-406;45428;Srta. Brenda Nunes;76972982739;22963.92;Depósito;Banco do Brasil;BTG P@ctu@l;BRL;Cancelado;147.45.234.99;Belo Horizonte;caixaeletrônico
+TX-407;45655;Rafaela Gomes;871.846.715-91;6003.12;TED;BTG Pactual;It@ú;BRL;Cancelada;145220225216;Rio de Janeiro;Caixa Eletrônico
+TX-408;45398;Calebe Carvalho;095.404.041-30;49149.56;TED;Itaú;Caixa Econômica;Real;Aprovdo;181145218245;Curitiba;Agência Física
+TX-409;45591;Dr. Luiz Felipe Teixeira;33424344224;14964,78;Pix;Banco do Brasil;Santander;USD;Pendnte;57.126.87.244;P0rt0 Alegre;Internet Banking
+TX-410;45643;Renan Novaes;421.591.214-79;39985.66;Transferência;Bradesko;Banco do Brasil;EURO;Pendente;57.192.0.17;Belo Horizonte;Agência Física
+TX-411;45562;Rodrigo Dias;44627071180;20623.38;TED;BTG Pactual;S@nt@nder;Real;Pendente;57.126.87.244;Rio de Janeiro;Caixa Eletrônico
+TX-412;45608;Manuela Jesus;29286644979;22963.92;Boleto;Bradesco;Caixa Econômica;Real;Aprovdo;147.45.234.99;P0rt0 Alegre;Internet Banking
+TX-413;45670;Renan Novaes;421.591.214-79;12171,55;Depósito;Bradesco;It@ú;Real;Pndente;41.25.20.251;Rio de Janeiro;Internet Banking
+TX-414;45417;Dr. Luiz Felipe Teixeira;33424344224;39985.66;DOC;Itaú;Santander;Real;Pendnte;186.204.75.89;Salvador;Internet Banking
+TX-415;45482;J0ã0 Guilh3rm3 C0st3l4;84842762368;32902,16;TED;Bradesko;Br@desco;EUR;Cancelada;145220225216;Curitiba;internetbanking
+TX-416;45491;Lara Silveira;1454845353;10872.24;Transferência;Caixa Econômica;Banco do Brasil;EUR;Pndente;167.140.10.159;Curitiba;agênciafísica
+TX-417;45497;Bryan Duarte;50764955250;47531,9;Boleto;Inter;Caixa Econômica;eur;Aprovada;57.192.0.17;Curitiba;agênciafísica
+TX-418;45653;Valentina Porto;69650426560;32068.23;Depósito;BTG Paktual;BTG P@ctu@l;BR$;Pndente;76.114.44.81;Curitiba;Agência Física
+TX-419;45694;Valentina Porto;69650426560;45250,75;Depósito;BTG Paktual;Santander;EURO;Pendnte;41.25.20.251;Sã0 Paul0;Agência Física
+TX-420;45366;Sra. Alice Campos;95829576634;14343,13;DOC;Santander;Santander;BRL;Aprovdo;98.70.105.37;Salvador;Agência Física
+TX-421;45592;Sra. Alice Campos;95829576634;34516.93;Pix;Itaú;BTG Pactual;BRL;Aprovdo;173175245113;Rio de Janeiro;caixaeletrônico
+TX-422;45513;Lorena Oliveira;13817942796;30197.47;Transferência;Itaú;Santander;Real;Cancelado;173175245113;Rio de Janeiro;agênciafísica
+TX-423;45383;João Pedro Rodrigues;653.490.064-88;6003.12;Depósito;Bradesco;It@ú;EUR;Pendnte;186.204.75.89;Porto Alegre;Caixa Eletrônico
+TX-424;45640;R4f43l S4nt0s;069.188.807-13;39985.66;DOC;BTG Paktual;Santander;Real;Pendnte;159241130188;Rio de Janeiro;Internet Banking
+TX-425;45606;Calebe Carvalho;095.404.041-30;8896,81;Boleto;BTG Pactual;Inter;Real;Cancelada;67.175.74.74;Sã0 Paul0;internetbanking
+TX-426;45387;Agatha Lopes;705.068.735-01;12122,38;Transferência;Itaú;Santander;eur;Aprovdo;78.33.187.186;Salvador;Internet Banking
+TX-427;45356;Sr. P3dr0 d4 M4t4;337.451.791-72;23039.65;Pix;Itaú;BTG Pactual;USD;Pendnte;184.63.182.128;Sã0 Paul0;Caixa Eletrônico
+TX-428;45625;Isabella da Cunha;181.721.689-96;14343,13;TED;Santander;Banco do Brasil;EURO;Aprovda;27.213.174.49;Bel0 H0riz0nte;Agência Física
+TX-429;45450;Yasmin Oliveira;239.620.763-26;3238.19;TED;Bradesco;Santander;eur;Pendnte;159241130188;Curitiba;Caixa Eletrônico
+TX-430;45539;Maysa Castro;90570852729;47531,9;Depósito;Bradesko;C@ix@ Econômic@;EUR;Cancelado;140.201.79.192;Sã0 Paul0;Internet Banking
+TX-431;45494;Maria Eduarda Nunes;672.197.308-95;19794,7;Depósito;Inter;Itaú;USD;Cancelada;200.201.2.107;P0rt0 Alegre;Internet Banking
+TX-432;45605;Agatha Lopes;705.068.735-01;13619.27;TED;Banco do Brasil;It@ú;eur;Cancelado;67.175.74.74;Rio de Janeiro;Caixa Eletrônico
+TX-433;45657;Maria Castro;427.552.247-91;32068.23;Pix;Bradesko;Bradesco;Real;Cancelado;46.16.234.145;Curitiba;Caixa Eletrônico
+TX-434;45696;Sophie Dias;3816146275;2587,57;Boleto;Banko do Brasil;Banco do Brasil;eur;Pendnte;167.140.10.159;Salvador;internetbanking
+TX-435;45426;M4rc3l4 Di4s;156.860.920-77;34516.93;Transferência;Bradesko;Inter;Real;Pendente;41.25.20.251;Rio de Janeiro;agênciafísica
+TX-436;45680;Valentina Porto;69650426560;30054,77;Depósito;Banco do Brasil;Inter;EURO;Cancelado;147.45.234.99;Rio de Janeiro;internetbanking
+TX-437;45579;Luiz Felipe Barros;441.300.936-01;14964,78;TED;Banco do Brasil;BTG Pactual;USD;Aprovdo;156.91.58.100;Curitiba;Agência Física
+TX-438;45422;Valentina Porto;69650426560;1943.60;TED;Caixa Econômica;It@ú;EUR;Pndente;74.83.119.104;Rio de Janeiro;Agência Física
+TX-439;45604;Ana Júlia Carvalho;54119817564;40976,75;Transferência;Banco do Brasil;Santander;USD;Aprovdo;5.21.2.161;Salvad0r;Caixa Eletrônico
+TX-440;45513;Sra. Alice Campos;95829576634;24818.46;Transferência;Itaú;Caixa Econômica;Real;Cancelada;74.83.119.104;Curitiba;Agência Física
+TX-441;45545;Lorena Oliveira;13817942796;11656,75;Boleto;Banco do Brasil;Inter;BR$;Aprovada;133.52.111.176;Curitiba;Internet Banking
+TX-442;45428;Srt4. Ev3lyn C4mp0s;329.129.447-41;22963.92;Depósito;Caixa Econômica;Santander;Real;Cancelada;67.175.74.74;Salvador;Internet Banking
+TX-443;45655;Isabella da Cunha;181.721.689-96;16995.53;DOC;Caixa Ekonômika;S@nt@nder;USD;Aprovada;50.107.35.236;Salvador;Agência Física
+TX-444;45398;Srt4. Ev3lyn C4mp0s;329.129.447-41;39062,72;Boleto;Bradesco;Banco do Brasil;BR$;Aprovdo;50.107.35.236;Curitiba;internetbanking
+TX-445;45591;Rafaela Gomes;871.846.715-91;12171,55;Pix;Itaú;It@ú;Real;Aprovda;117255194225;Curitiba;internetbanking
+TX-446;45643;Lorena Oliveira;13817942796;10872.24;Pix;Itaú;BTG Pactual;BRL;Cancelada;78.33.187.186;Sã0 Paul0;Caixa Eletrônico
+TX-447;45562;Lorena Oliveira;13817942796;44296.21;Boleto;Banco do Brasil;C@ix@ Econômic@;Usd;Cancelada;161.67.139.215;Salvador;agênciafísica
+TX-448;45608;Manuela Jesus;29286644979;41317.01;Transferência;BTG Paktual;S@nt@nder;EURO;Pendnte;67.175.74.74;Salvad0r;internetbanking
+TX-449;45670;André N0gu3ir4;502.653.269-39;2587,57;DOC;Bradesco;It@ú;BRL;Aprovda;78.33.187.186;Sã0 Paul0;Internet Banking
+TX-450;45417;R4f43l S4nt0s;069.188.807-13;41317.01;TED;BTG Paktual;It@ú;Real;Aprovdo;118.68.211.2;Salvador;Caixa Eletrônico
+TX-451;45482;Breno Pinto;53540285406;36410.78;TED;Itaú;C@ix@ Econômic@;BR$;Pendnte;27.213.174.49;Curitiba;caixaeletrônico
+TX-452;45491;Luiz Fernando Duarte;69061082464;13619.27;Transferência;Caixa Econômica;Itaú;BRL;Cancelada;149.105.122.24;Curitiba;caixaeletrônico
+TX-453;45497;Kamilly Gonçalves;24419230218;12122,38;Pix;Itaú;Inter;EURO;Cancelada;27.213.174.49;Salvador;Internet Banking
+TX-454;45653;Agatha Lopes;705.068.735-01;16995.53;Transferência;Itaú;Santander;BRL;Cancelada;118.68.211.2;São Paulo;Internet Banking
+TX-455;45694;Luiz Fernando Duarte;69061082464;3914.56;Depósito;Caixa Econômica;Banco do Brasil;BRL;Pndente;173175245113;Salvador;Agência Física
+TX-456;45366;J0ã0 Guilh3rm3 C0st3l4;84842762368;16995.53;Boleto;Itaú;Bradesco;USD;Cancelada;89165229118;P0rt0 Alegre;Agência Física
+TX-457;45592;Manuela Jesus;29286644979;1943.60;Pix;Santander;B@nco do Br@sil;BR$;Aprovdo;67.175.74.74;Salvador;Caixa Eletrônico
+TX-458;45513;Bryan Almeida;947.959.409-14;43912,81;TED;Inter;It@ú;BR$;Pendnte;200.201.2.107;Rio de Janeiro;Agência Física
+TX-459;45383;Srta. Brenda Nunes;76972982739;24818.46;Depósito;BTG Paktual;Caixa Econômica;eur;Pendente;151.94.193.13;Belo Horizonte;Caixa Eletrônico
+TX-460;45640;João Pedro Rodrigues;653.490.064-88;8896,81;Depósito;Inter;It@ú;BR$;Aprovdo;186.204.75.89;Curitiba;agênciafísica
+TX-461;45606;Sr. Carlos Eduardo da Rocha;70936145921;16152.09;Depósito;Santander;Inter;BRL;Pendnte;133.52.111.176;São Paulo;agênciafísica
+TX-462;45387;Sophie Dias;3816146275;4615,03;Boleto;Inter;Inter;USD;Aprovdo;117255194225;Salvad0r;Internet Banking
+TX-463;45356;Lara Silveira;1454845353;44296.21;Depósito;Bradesko;Bradesco;USD;Pndente;86213210207;Curitiba;Agência Física
+TX-464;45420;Lorena Oliveira;13817942796;38019,67;Transferência;Banco do Brasil;Santander;eur;Pendente;173175245113;Salvador;Caixa Eletrônico
+TX-465;45587;Miguel Santos;020.340.036-88;43912,81;Boleto;Itaú;Itaú;BRL;Pendente;195139235106;Curitiba;Internet Banking
+TX-466;45344;Lorena Oliveira;13817942796;45250,75;TED;Banco do Brasil;It@ú;EUR;Pndente;174.187.243.46;Salvador;caixaeletrônico
+TX-467;45636;Gustavo Henrique Freitas;490.130.071-86;14964,78;Boleto;Santander;BTG Pactual;BRL;Pndente;89165229118;Salvador;Caixa Eletrônico
+TX-468;45670;Sr. Carlos Eduardo da Rocha;70936145921;30182.19;Depósito;Banko do Brasil;BTG P@ctu@l;BRL;Pndente;159241130188;Belo Horizonte;internetbanking
+TX-469;45357;L3vi d4 R0ch4;825.015.143-74;13619.27;Transferência;Banco do Brasil;Inter;BRL;Aprovada;133.217.56.81;Salvad0r;caixaeletrônico
+TX-470;45423;Dr. Luiz Felipe Teixeira;33424344224;39985.66;Pix;Inter;Caixa Econômica;Real;Aprovdo;151.94.193.13;Rio de Janeiro;Internet Banking
+TX-471;45686;Valentina Costela;31278834490;17652.46;Pix;Santander;Banco do Brasil;Usd;Cancelada;99.38.141.67;Salvador;Internet Banking
+TX-472;45471;Isabella da Cunha;181.721.689-96;32068.23;Depósito;Itaú;It@ú;Real;Pndente;186.204.75.89;Curitiba;internetbanking
+TX-473;45366;Breno Pinto;53540285406;2594.20;Depósito;Inter;BTG P@ctu@l;USD;Cancelada;27.213.174.49;Curitiba;Caixa Eletrônico
+TX-474;45504;Valentina Porto;69650426560;49149.56;Boleto;BTG Paktual;BTG P@ctu@l;Real;Aprovda;28.146.72.243;Salvador;Internet Banking
+TX-475;45471;Cecília Costela;39014903719;38019,67;Boleto;Banko do Brasil;BTG P@ctu@l;USD;Aprovdo;140.121.49.200;Rio de Janeiro;Caixa Eletrônico
+TX-476;45380;Agatha Lopes;705.068.735-01;11785,3;TED;Caixa Econômica;Inter;USD;Cancelado;5.21.2.161;Salvador;Agência Física
+TX-477;45462;Ana Lívia Azevedo;48867127519;39985.66;Depósito;Caixa Ekonômika;S@nt@nder;BR$;Cancelada;140.201.79.192;Salvad0r;Internet Banking
+TX-478;45450;J0ã0 P3dr0 M3nd3s;76102989340;14343,13;Depósito;Santander;Itaú;Real;Aprovda;145220225216;São Paulo;Caixa Eletrônico
+TX-479;45539;Valentina Costela;31278834490;41317.01;Transferência;Caixa Econômica;S@nt@nder;eur;Aprovda;99.38.141.67;Rio de Janeiro;Caixa Eletrônico
+TX-480;45494;Luiz Fernando Duarte;69061082464;45250,75;TED;Banco do Brasil;Itaú;EUR;Aprovdo;133.217.56.81;Salvador;Caixa Eletrônico
+TX-481;45605;J0ã0 P3dr0 M3nd3s;76102989340;6003.12;TED;Itaú;Inter;BRL;Cancelado;63.18.248.20;Curitiba;Internet Banking
+TX-482;45657;Nathan Jesus;910.085.188-13;22171.02;Pix;Inter;Inter;Usd;Pendente;46.16.234.145;Belo Horizonte;caixaeletrônico
+TX-483;45696;Yasmin Oliveira;239.620.763-26;16152.09;Transferência;Banco do Brasil;Caixa Econômica;BR$;Aprovda;181145218245;Salvador;Agência Física
+TX-484;45426;João Pedro Rodrigues;653.490.064-88;4615,03;Transferência;Itaú;Bradesco;EUR;Pendnte;173175245113;Porto Alegre;Agência Física
+TX-485;45680;Maria Eduarda Nunes;672.197.308-95;11785,3;Transferência;BTG Pactual;B@nco do Br@sil;BR$;Cancelado;156.91.58.100;Curitiba;Internet Banking
+TX-486;45579;J0ã0 P3dr0 M3nd3s;76102989340;11785,3;Depósito;Inter;Inter;USD;Cancelada;23.112.58.85;Salvad0r;caixaeletrônico
+TX-487;45422;Yuri Carvalho;764.832.459-20;7942.05;Depósito;Caixa Econômica;S@nt@nder;USD;Cancelada;28.146.72.243;Curitiba;caixaeletrônico
+TX-488;45604;Emilly da Luz;175.924.382-83;47531,9;Depósito;Caixa Econômica;Santander;Real;Pendente;63.18.248.20;P0rt0 Alegre;Internet Banking
+TX-489;45605;Calebe Carvalho;095.404.041-30;34516.93;Transferência;Santander;Banco do Brasil;USD;Aprovada;184.63.182.128;P0rt0 Alegre;Internet Banking
+TX-490;45657;Dr. Luiz Felipe Teixeira;33424344224;11785,3;Depósito;Caixa Ekonômika;Itaú;BR$;Aprovda;146103227115;Rio de Janeiro;caixaeletrônico
+TX-491;45696;Dr. Luiz Gust4v0 Lim4;31211524979;30197.47;DOC;Itaú;Itaú;EURO;Cancelada;28.146.72.243;Salvador;Agência Física
+TX-492;45426;Sra. Alice Campos;95829576634;4615,03;Transferência;Banco do Brasil;C@ix@ Econômic@;EUR;Pendnte;186.204.75.89;Curitiba;agênciafísica
+TX-493;45680;Maria Eduarda Nunes;672.197.308-95;14964,78;Pix;Banko do Brasil;Bradesco;EUR;Cancelado;28.146.72.243;Rio de Janeiro;Internet Banking
+TX-494;45579;Maria Eduarda Nunes;672.197.308-95;31087,91;Boleto;Banco do Brasil;Itaú;EUR;Pendnte;147.45.234.99;Rio de Janeiro;Agência Física
+TX-495;45422;Lorena Oliveira;13817942796;38019,67;TED;Bradesko;Santander;Real;Aprovada;5.21.2.161;Salvador;Agência Física
+TX-496;45604;Valentina Costela;31278834490;12122,38;Depósito;Santander;Caixa Econômica;EURO;Pendente;41.25.20.251;Curitiba;internetbanking
+TX-497;45513;Maria Castro;427.552.247-91;14964,78;Boleto;Banco do Brasil;Caixa Econômica;eur;Cancelada;181145218245;Bel0 H0riz0nte;agênciafísica
+TX-498;45545;Maria Eduarda Nunes;672.197.308-95;39062,72;Depósito;Santander;Santander;USD;Cancelado;181.71.150.136;São Paulo;Agência Física
+TX-499;45428;Ana Lívia Azevedo;48867127519;30054,77;TED;Itaú;S@nt@nder;Real;Cancelada;140.121.49.200;São Paulo;caixaeletrônico
+TX-500;45655;Agatha Lopes;705.068.735-01;34516.93;Boleto;Inter;Caixa Econômica;BR$;Pndente;205.1.56.232;Salvador;caixaeletrônico
+TX-501;45398;Dr. Luiz Felipe Teixeira;33424344224;24818.46;TED;Itaú;Bradesco;BRL;Aprovdo;145220225216;Rio de Janeiro;Caixa Eletrônico
+TX-502;45591;João Felipe Silva;1123173968;10899.35;Boleto;Bradesco;Itaú;EURO;Pendente;156.91.58.100;Sã0 Paul0;Agência Física
+TX-503;45643;Yasmin Oliveira;239.620.763-26;39591,5;TED;Santander;Banco do Brasil;Real;Pendente;147.45.234.99;São Paulo;Agência Física
+TX-504;45562;Valentina Costela;31278834490;39591,5;Depósito;Caixa Ekonômika;It@ú;BRL;Aprovdo;146103227115;Salvador;caixaeletrônico
+TX-505;45608;Lara Silveira;1454845353;13619.27;Depósito;Bradesco;Itaú;USD;Pendnte;195139235106;Salvador;Caixa Eletrônico
+TX-506;45670;L3vi d4 R0ch4;825.015.143-74;8896,81;Pix;Banco do Brasil;Inter;Real;Aprovdo;174.187.243.46;Sã0 Paul0;Internet Banking
+TX-507;45417;Kamilly Gonçalves;24419230218;39062,72;Boleto;Inter;Bradesco;BRL;Pendnte;159241130188;Salvador;Internet Banking
+TX-508;45482;Lucas Gabriel da Mata;17525186917;12122,38;DOC;Itaú;BTG Pactual;BR$;Pndente;89165229118;Rio de Janeiro;Caixa Eletrônico
+TX-509;45491;André N0gu3ir4;502.653.269-39;40976,75;TED;Caixa Ekonômika;It@ú;BR$;Cancelada;133.217.56.81;Curitiba;Caixa Eletrônico
+TX-510;45497;Cecília Costela;39014903719;30197.47;Depósito;Inter;Banco do Brasil;USD;Pendnte;43.82.222.136;Porto Alegre;Caixa Eletrônico
+TX-511;45653;Isabella da Cunha;181.721.689-96;31087,91;Depósito;Itaú;Caixa Econômica;EURO;Aprovada;155.16.190.57;Rio de Janeiro;caixaeletrônico
+TX-512;45694;Maria Castro;427.552.247-91;4615,03;DOC;Caixa Econômica;BTG Pactual;EUR;Pendnte;67.175.74.74;Rio de Janeiro;Agência Física
+TX-513;45366;Sr. P3dr0 d4 M4t4;337.451.791-72;14343,13;TED;Itaú;Bradesco;BRL;Aprovdo;156.91.58.100;Salvad0r;Internet Banking
+TX-514;45592;M4rc3l4 Di4s;156.860.920-77;30182.19;Transferência;Banco do Brasil;B@nco do Br@sil;BRL;Aprovda;167.140.10.159;Salvad0r;Internet Banking
+TX-515;45513;Agatha Lopes;705.068.735-01;6003.12;TED;Banco do Brasil;Bradesco;EURO;Cancelado;151.94.193.13;Salvad0r;Internet Banking
+TX-516;45383;Maria Castro;427.552.247-91;12171,55;TED;BTG Pactual;Inter;BRL;Pendente;133.217.56.81;Salvador;Internet Banking
+TX-517;45640;J0ã0 Guilh3rm3 C0st3l4;84842762368;12122,38;Depósito;Itaú;Caixa Econômica;BR$;Pendente;205.1.56.232;Salvador;Caixa Eletrônico
+TX-518;45606;Dr. Luiz Felipe Teixeira;33424344224;45250,75;TED;BTG Paktual;Santander;EURO;Pndente;89165229118;Salvador;Agência Física
+TX-519;45387;Renan Novaes;421.591.214-79;43618.64;Transferência;Banco do Brasil;Banco do Brasil;Real;Aprovda;63.18.248.20;Salvad0r;Agência Física
+TX-520;45356;Maysa Castro;90570852729;10872.24;Pix;Bradesco;Bradesco;USD;Pendnte;140.201.79.192;Belo Horizonte;Caixa Eletrônico
+TX-521;45420;Srt4. Ev3lyn C4mp0s;329.129.447-41;30182.19;TED;Inter;Inter;Usd;Pndente;99.38.141.67;Rio de Janeiro;Caixa Eletrônico
+TX-522;45587;Bryan Duarte;50764955250;7942.05;Transferência;Itaú;Inter;BRL;Pendnte;140.201.79.192;Belo Horizonte;Internet Banking
+TX-523;45344;Manuela Jesus;29286644979;10872.24;TED;BTG Paktual;BTG P@ctu@l;USD;Aprovda;99.38.141.67;São Paulo;Caixa Eletrônico
+TX-524;45636;Bryan Duarte;50764955250;23039.65;Boleto;Bradesco;Caixa Econômica;Real;Aprovada;89165229118;Rio de Janeiro;caixaeletrônico
+TX-525;45670;J0ã0 P3dr0 M3nd3s;76102989340;11785,3;TED;Inter;Santander;eur;Pendente;57.126.87.244;P0rt0 Alegre;Agência Física
+TX-526;45357;Lara Silveira;1454845353;30182.19;Pix;BTG Pactual;Inter;Real;Cancelada;145220225216;Rio de Janeiro;Caixa Eletrônico
+TX-527;45423;L3vi d4 R0ch4;825.015.143-74;3238.19;Depósito;Caixa Econômica;Santander;BRL;Pendnte;5.21.2.161;Salvador;Caixa Eletrônico
+TX-528;45686;João Pedro Rodrigues;653.490.064-88;43618.64;DOC;Itaú;It@ú;USD;Pndente;145220225216;Rio de Janeiro;caixaeletrônico
+TX-529;45471;Valentina Costela;31278834490;10899.35;TED;Banco do Brasil;Bradesco;eur;Pendente;200.201.2.107;São Paulo;Agência Física
+TX-530;45366;L3vi d4 R0ch4;825.015.143-74;47531,9;DOC;Santander;It@ú;eur;Cancelado;76.114.44.81;Curitiba;Agência Física
+TX-531;45504;Nathan Jesus;910.085.188-13;39985.66;Depósito;Banco do Brasil;BTG P@ctu@l;eur;Pendnte;50.107.35.236;Salvador;Caixa Eletrônico
+TX-532;45471;Maysa Castro;90570852729;8896,81;Transferência;Itaú;Inter;Real;Pndente;57.126.87.244;São Paulo;Internet Banking
+TX-533;45380;Valentina Costela;31278834490;23039.65;Boleto;Itaú;Itaú;EUR;Aprovada;161.67.139.215;São Paulo;Caixa Eletrônico
+TX-534;45462;Maria Castro;427.552.247-91;24818.46;Boleto;BTG Paktual;BTG Pactual;BRL;Cancelado;181.71.150.136;Rio de Janeiro;Internet Banking
+TX-535;45450;Valentina Porto;69650426560;3238.19;Depósito;Santander;S@nt@nder;eur;Aprovada;156.91.58.100;Bel0 H0riz0nte;Caixa Eletrônico
+TX-536;45539;Lucas Gabriel da Mata;17525186917;3238.19;Pix;Banco do Brasil;Itaú;BR$;Aprovada;154.196.50.24;Curitiba;Internet Banking
+TX-537;45494;Lucas Gabriel da Mata;17525186917;47531,9;Transferência;Caixa Econômica;BTG Pactual;BRL;Cancelado;86213210207;Porto Alegre;Caixa Eletrônico
+TX-538;45605;Valentina Costela;31278834490;32068.23;DOC;Banco do Brasil;It@ú;EURO;Pendente;118.68.211.2;Curitiba;Caixa Eletrônico
+TX-539;45657;Agatha Lopes;705.068.735-01;13619.27;Pix;Inter;It@ú;EUR;Pndente;89165229118;Porto Alegre;Agência Física
+TX-540;45696;Vicente Costa;55472565610;47056,64;TED;Santander;BTG Pactual;EURO;Aprovdo;161.67.139.215;Salvador;Agência Física
+TX-541;45426;Bryan Duarte;50764955250;10899.35;Boleto;Itaú;Banco do Brasil;EUR;Pendnte;146103227115;P0rt0 Alegre;Agência Física
+TX-542;45680;Lara Silveira;1454845353;2594.20;Boleto;Banko do Brasil;Banco do Brasil;BR$;Cancelado;149.105.122.24;Salvador;Agência Física
+TX-543;45587;Maria Castro;427.552.247-91;47056,64;Transferência;Itaú;Inter;eur;Cancelado;154.196.50.24;Porto Alegre;Caixa Eletrônico
+TX-544;45344;Vicente Costa;55472565610;6003.12;DOC;Itaú;It@ú;eur;Aprovdo;50.107.35.236;Salvador;Caixa Eletrônico
+TX-545;45636;Calebe Carvalho;095.404.041-30;23039.65;TED;Santander;Inter;USD;Cancelado;57.192.0.17;Salvador;Internet Banking
+TX-546;45670;R4f43l S4nt0s;069.188.807-13;11785,3;Depósito;BTG Paktual;Inter;BR$;Pendente;57.126.87.244;Salvador;caixaeletrônico
+TX-547;45357;M4rc3l4 Di4s;156.860.920-77;12171,55;Boleto;Bradesco;Inter;EURO;Aprovdo;143.65.126.190;Porto Alegre;Agência Física
+TX-548;45423;Valentina Costela;31278834490;39985.66;Boleto;Banco do Brasil;Itaú;eur;Cancelado;195139235106;Rio de Janeiro;Agência Física
+TX-549;45686;Miguel Santos;020.340.036-88;31654.67;TED;Santander;Santander;BR$;Aprovda;99.38.141.67;Rio de Janeiro;caixaeletrônico
+TX-550;45471;Sr. Carlos Eduardo da Rocha;70936145921;31087,91;Transferência;Banko do Brasil;Caixa Econômica;EUR;Cancelado;181145218245;Salvador;Agência Física
+TX-551;45366;Luiz Miguel Silveira;25094710302;16995.53;Pix;Bradesco;Itaú;BR$;Pndente;86213210207;Rio de Janeiro;Internet Banking
+TX-552;45504;Lorena Oliveira;13817942796;14343,13;TED;Inter;BTG P@ctu@l;BR$;Aprovda;68.124.51.34;Salvad0r;caixaeletrônico
+TX-553;45471;Vicente Costa;55472565610;14343,13;Depósito;Caixa Ekonômika;B@nco do Br@sil;BR$;Pendnte;28.146.72.243;Belo Horizonte;Agência Física
+TX-554;45380;Srt4. Ev3lyn C4mp0s;329.129.447-41;30182.19;Boleto;Banco do Brasil;It@ú;USD;Pndente;133.52.111.176;São Paulo;Agência Física
+TX-555;45462;Emilly da Luz;175.924.382-83;39062,72;Transferência;BTG Pactual;Banco do Brasil;EURO;Aprovdo;76.114.44.81;São Paulo;Caixa Eletrônico
+TX-556;45450;Lucas Gabriel da Mata;17525186917;43912,81;Depósito;Santander;It@ú;BRL;Pendnte;118.68.211.2;P0rt0 Alegre;Agência Física
+TX-557;45539;Lara Silveira;1454845353;22963.92;Transferência;Bradesko;Bradesco;BRL;Pndente;118.68.211.2;Rio de Janeiro;Agência Física
+TX-558;45494;Bryan Duarte;50764955250;39591,5;Pix;Caixa Econômica;It@ú;Real;Cancelada;118.68.211.2;Belo Horizonte;agênciafísica
+TX-559;45605;Sra. Alice Campos;95829576634;30182.19;Boleto;BTG Pactual;It@ú;eur;Aprovdo;146103227115;Salvador;Caixa Eletrônico
+TX-560;45657;Breno Pinto;53540285406;13619.27;Depósito;Caixa Econômica;Inter;EUR;Pendente;133.52.111.176;Curitiba;caixaeletrônico
+TX-561;45696;M4rc3l4 Di4s;156.860.920-77;1943.60;Depósito;BTG Pactual;It@ú;USD;Aprovda;154.196.50.24;Rio de Janeiro;Agência Física
+TX-562;45426;Dr. Luiz Felipe Teixeira;33424344224;6003.12;Depósito;BTG Paktual;S@nt@nder;USD;Pndente;76.114.44.81;Rio de Janeiro;Caixa Eletrônico
+TX-563;45680;J0ã0 P3dr0 M3nd3s;76102989340;22171.02;TED;Itaú;Br@desco;USD;Aprovdo;147.45.234.99;Salvad0r;Agência Física
+TX-564;45579;Srta. Brenda Nunes;76972982739;49149.56;Pix;Banco do Brasil;Inter;EURO;Cancelado;98.70.105.37;Belo Horizonte;caixaeletrônico
+TX-565;45422;Miguel Santos;020.340.036-88;2594.20;TED;Santander;Caixa Econômica;USD;Aprovdo;161.67.139.215;Sã0 Paul0;internetbanking
+TX-566;45604;Miguel Santos;020.340.036-88;41317.01;Boleto;Santander;Inter;USD;Pendnte;181.71.150.136;Curitiba;caixaeletrônico
+TX-567;45605;Srt4. Ev3lyn C4mp0s;329.129.447-41;43912,81;Depósito;Bradesko;Santander;eur;Cancelada;27.213.174.49;Rio de Janeiro;Internet Banking
+TX-568;45657;J0ã0 P3dr0 M3nd3s;76102989340;11785,3;Depósito;BTG Pactual;Banco do Brasil;eur;Aprovdo;181145218245;São Paulo;internetbanking
+TX-569;45696;Luiz Felipe Barros;441.300.936-01;31087,91;Depósito;Inter;Caixa Econômica;BRL;Pndente;133.217.56.81;Rio de Janeiro;Agência Física
+TX-570;45426;André N0gu3ir4;502.653.269-39;10899.35;Transferência;Caixa Econômica;BTG P@ctu@l;BR$;Aprovada;86213210207;Rio de Janeiro;Internet Banking
+TX-571;45680;Rafaela Gomes;871.846.715-91;39062,72;DOC;Bradesco;Bradesco;USD;Pndente;209246154225;Curitiba;caixaeletrônico
+TX-572;45579;Gustavo Henrique Freitas;490.130.071-86;3238.19;TED;Bradesco;Banco do Brasil;BRL;Aprovda;200.201.2.107;Salvador;Agência Física
+TX-573;45422;Lara Silveira;1454845353;11656,75;Depósito;Caixa Econômica;Bradesco;BRL;Pndente;68.124.51.34;Curitiba;Caixa Eletrônico
+TX-574;45604;João Pedro Rodrigues;653.490.064-88;23039.65;Transferência;Itaú;Santander;Real;Pendnte;181.71.150.136;Sã0 Paul0;Caixa Eletrônico
+TX-575;45513;Agatha Lopes;705.068.735-01;41317.01;TED;Bradesco;Caixa Econômica;EURO;Pendnte;173175245113;Porto Alegre;Internet Banking
+TX-576;45545;André N0gu3ir4;502.653.269-39;12171,55;TED;Inter;It@ú;BRL;Pendente;154.196.50.24;Rio de Janeiro;Agência Física
+TX-577;45428;Luiz Miguel Silveira;25094710302;31654.67;Pix;Caixa Econômica;Caixa Econômica;BRL;Cancelada;149.105.122.24;Sã0 Paul0;Internet Banking
+TX-578;45655;Valentina Porto;69650426560;32902,16;Transferência;Caixa Econômica;S@nt@nder;Real;Pendente;184.63.182.128;Salvador;internetbanking
+TX-579;45398;Gustavo Henrique Freitas;490.130.071-86;40976,75;Boleto;Itaú;C@ix@ Econômic@;BRL;Aprovda;186.204.75.89;Porto Alegre;Agência Física
+TX-580;45591;Sr. P3dr0 d4 M4t4;337.451.791-72;16152.09;Pix;Caixa Ekonômika;S@nt@nder;BRL;Cancelado;155.16.190.57;Rio de Janeiro;Internet Banking
+TX-581;45643;Rodrigo Dias;44627071180;30054,77;Boleto;Itaú;Bradesco;BRL;Pendente;133.217.56.81;Salvador;Internet Banking
+TX-582;45562;M4rc3l4 Di4s;156.860.920-77;36410.78;TED;Itaú;It@ú;BRL;Cancelada;41.25.20.251;Sã0 Paul0;Caixa Eletrônico
+TX-583;45608;J0ã0 P3dr0 M3nd3s;76102989340;30182.19;Depósito;BTG Paktual;C@ix@ Econômic@;eur;Aprovdo;98.70.105.37;Rio de Janeiro;Caixa Eletrônico
+TX-584;45670;Nathan Jesus;910.085.188-13;32902,16;Pix;Caixa Ekonômika;Caixa Econômica;eur;Pendnte;57.126.87.244;Curitiba;Internet Banking
+TX-585;45417;R4f43l S4nt0s;069.188.807-13;20623.38;TED;Banco do Brasil;Banco do Brasil;EUR;Aprovdo;167.140.10.159;Sã0 Paul0;Caixa Eletrônico
+TX-586;45482;Cecília Costela;39014903719;23039.65;Depósito;Santander;Bradesco;BRL;Aprovada;138.13.1.100;Rio de Janeiro;caixaeletrônico
+TX-587;45491;Luiz Miguel Silveira;25094710302;4615,03;Pix;Santander;Inter;EURO;Aprovdo;195139235106;São Paulo;Agência Física
+TX-588;45497;Calebe Carvalho;095.404.041-30;44296.21;Boleto;Banco do Brasil;Inter;EURO;Cancelada;140.121.49.200;São Paulo;Internet Banking
+TX-589;45653;J0ã0 P3dr0 M3nd3s;76102989340;7942.05;Transferência;Itaú;B@nco do Br@sil;BR$;Pendnte;98.70.105.37;Rio de Janeiro;Caixa Eletrônico
+TX-590;45694;Dr. Luiz Gust4v0 Lim4;31211524979;10872.24;DOC;Caixa Econômica;Bradesco;Real;Pndente;57.192.0.17;Curitiba;Agência Física
+TX-591;45366;Srt4. Ev3lyn C4mp0s;329.129.447-41;2594.20;Depósito;Santander;Bradesco;BR$;Pndente;140.201.79.192;São Paulo;Agência Física
+TX-592;45592;Lara Silveira;1454845353;2587,57;Transferência;Caixa Ekonômika;Caixa Econômica;Real;Aprovdo;155.16.190.57;Rio de Janeiro;Agência Física
+TX-593;45513;Manuela Jesus;29286644979;8896,81;Boleto;Itaú;Br@desco;BRL;Aprovada;50.107.35.236;Salvador;agênciafísica
+TX-594;45383;L3vi d4 R0ch4;825.015.143-74;3914.56;Depósito;Santander;BTG Pactual;BR$;Cancelada;147.45.234.99;Salvad0r;Caixa Eletrônico
+TX-595;45640;Valentina Porto;69650426560;49149.56;Transferência;Bradesco;Caixa Econômica;BRL;Pndente;156.91.58.100;P0rt0 Alegre;caixaeletrônico
+TX-596;45606;Luiz Miguel Silveira;25094710302;16995.53;TED;Itaú;BTG P@ctu@l;BRL;Pendente;5.21.2.161;Rio de Janeiro;Internet Banking
+TX-597;45387;Maria Eduarda Nunes;672.197.308-95;8896,81;Transferência;BTG Paktual;Santander;BR$;Cancelado;133.217.56.81;Rio de Janeiro;Caixa Eletrônico
+TX-598;45356;Calebe Carvalho;095.404.041-30;45250,75;Depósito;Bradesco;Itaú;BRL;Aprovda;140.201.79.192;Salvador;caixaeletrônico
+TX-599;45420;André N0gu3ir4;502.653.269-39;8896,81;TED;Banco do Brasil;Inter;BR$;Pndente;43.82.222.136;Salvador;Agência Física
+TX-600;45587;M4rc3l4 Di4s;156.860.920-77;3238.19;Boleto;Caixa Ekonômika;Itaú;BRL;Aprovda;143.65.126.190;Salvador;internetbanking
+TX-601;45344;Bryan Duarte;50764955250;39591,5;Transferência;Bradesco;Inter;BR$;Aprovda;167.140.10.159;Salvador;Agência Física
+TX-602;45636;Renan Novaes;421.591.214-79;22963.92;Pix;BTG Pactual;Inter;EURO;Cancelado;117255194225;Belo Horizonte;Caixa Eletrônico
+TX-603;45670;Vicente Costa;55472565610;2594.20;TED;Inter;BTG Pactual;Usd;Aprovdo;205.1.56.232;Curitiba;caixaeletrônico
+TX-604;45357;Gustavo Henrique Freitas;490.130.071-86;16995.53;Depósito;Inter;It@ú;eur;Cancelada;99.38.141.67;Belo Horizonte;caixaeletrônico
+TX-605;45423;Miguel Santos;020.340.036-88;8896,81;Depósito;Caixa Ekonômika;Inter;eur;Cancelada;44.61.49.226;Curitiba;Internet Banking
+TX-606;45686;Breno Pinto;53540285406;4615,03;DOC;Bradesco;Bradesco;BRL;Aprovada;74.83.119.104;Bel0 H0riz0nte;Agência Física
+TX-607;45471;Lorena Oliveira;13817942796;1943.60;Transferência;Banco do Brasil;Santander;BR$;Cancelado;23.112.58.85;Salvad0r;caixaeletrônico
+TX-608;45366;Lara Silveira;1454845353;47531,9;Boleto;BTG Pactual;Santander;USD;Pndente;68.124.51.34;São Paulo;caixaeletrônico
+TX-609;45504;L3vi d4 R0ch4;825.015.143-74;32068.23;Boleto;Inter;Caixa Econômica;BRL;Pndente;50.107.35.236;Porto Alegre;Internet Banking
+TX-610;45471;João Felipe Silva;1123173968;13619.27;Depósito;Caixa Econômica;C@ix@ Econômic@;EURO;Pndente;133.52.111.176;Salvador;Internet Banking
+TX-611;45380;Sr. P3dr0 d4 M4t4;337.451.791-72;41317.01;Depósito;Bradesco;Itaú;EURO;Pendente;159241130188;Rio de Janeiro;Agência Física
+TX-612;45462;João Pedro Rodrigues;653.490.064-88;22963.92;Transferência;Santander;Itaú;EURO;Pndente;173175245113;Curitiba;Caixa Eletrônico
+TX-613;45450;Nathan Jesus;910.085.188-13;36410.78;Transferência;BTG Paktual;Santander;BRL;Aprovada;200.201.2.107;Belo Horizonte;Agência Física
+TX-614;45539;J0ã0 Guilh3rm3 C0st3l4;84842762368;16995.53;Depósito;Bradesko;Santander;eur;Aprovdo;155.16.190.57;Salvad0r;Internet Banking
+TX-615;45494;Cecília Costela;39014903719;20623.38;Depósito;Caixa Econômica;Santander;BRL;Aprovdo;205.1.56.232;São Paulo;internetbanking
+TX-616;45605;André N0gu3ir4;502.653.269-39;8896,81;TED;Itaú;Bradesco;USD;Aprovdo;57.192.0.17;Porto Alegre;Agência Física
+TX-617;45657;Sr. Carlos Eduardo da Rocha;70936145921;36410.78;TED;Santander;Caixa Econômica;BRL;Pendnte;145220225216;Salvad0r;internetbanking
+TX-618;45696;Sophie Dias;3816146275;12171,55;TED;BTG Paktual;Inter;Usd;Pendnte;149.105.122.24;São Paulo;Internet Banking
+TX-619;45426;Lorena Oliveira;13817942796;31654.67;Pix;Itaú;Caixa Econômica;Usd;Pndente;184.63.182.128;Curitiba;internetbanking
+TX-620;45680;R4f43l S4nt0s;069.188.807-13;3914.56;TED;Santander;Inter;EUR;Aprovdo;63.18.248.20;São Paulo;Internet Banking
+TX-621;45587;Cecília Costela;39014903719;38019,67;Depósito;Itaú;Inter;Real;Aprovdo;50.107.35.236;Salvador;Internet Banking
+TX-622;45344;Bryan Almeida;947.959.409-14;47056,64;Transferência;Caixa Econômica;BTG P@ctu@l;Real;Cancelado;5.21.2.161;Belo Horizonte;Agência Física
+TX-623;45636;Emilly da Luz;175.924.382-83;16152.09;Depósito;Inter;S@nt@nder;BR$;Pendnte;28.146.72.243;São Paulo;Internet Banking
+TX-624;45670;Dr. Luiz Felipe Teixeira;33424344224;22171.02;Pix;Bradesco;Inter;EUR;Pndente;205.1.56.232;Sã0 Paul0;agênciafísica
+TX-625;45357;Breno Pinto;53540285406;11785,3;Transferência;Itaú;Inter;BRL;Pendnte;173175245113;Sã0 Paul0;Caixa Eletrônico
+TX-626;45423;João Felipe Silva;1123173968;30197.47;Depósito;Itaú;Bradesco;EURO;Pendente;143.65.126.190;Porto Alegre;Agência Física
+TX-627;45686;Rafaela Gomes;871.846.715-91;16152.09;Depósito;Bradesco;Inter;EURO;Aprovda;5.21.2.161;São Paulo;Internet Banking
+TX-628;45471;Rafaela Gomes;871.846.715-91;11785,3;TED;Santander;Banco do Brasil;Real;Cancelada;181145218245;Salvad0r;Internet Banking
+TX-629;45366;Kamilly Gonçalves;24419230218;47056,64;DOC;Caixa Econômica;B@nco do Br@sil;Real;Pendente;138.13.1.100;Rio de Janeiro;caixaeletrônico
+TX-630;45504;Manuela Jesus;29286644979;34516.93;TED;Banko do Brasil;Santander;Usd;Cancelada;181145218245;Salvador;agênciafísica
+TX-631;45471;Nathan Jesus;910.085.188-13;3238.19;Transferência;Bradesco;Bradesco;Real;Aprovda;44.61.49.226;Bel0 H0riz0nte;Caixa Eletrônico
+TX-632;45380;Maysa Castro;90570852729;14964,78;Transferência;Bradesco;It@ú;Real;Cancelada;5.21.2.161;Rio de Janeiro;Agência Física
+TX-633;45462;Srt4. Ev3lyn C4mp0s;329.129.447-41;16995.53;Depósito;BTG Paktual;Inter;BR$;Pendnte;181.71.150.136;Salvador;Caixa Eletrônico
+TX-634;45450;Bryan Duarte;50764955250;39062,72;TED;Bradesko;Bradesco;eur;Aprovda;76.114.44.81;Salvador;agênciafísica
+TX-635;45539;Lara Silveira;1454845353;47056,64;TED;Bradesco;S@nt@nder;EUR;Pendnte;41.25.20.251;Rio de Janeiro;Internet Banking
+TX-636;45494;Rodrigo Dias;44627071180;31087,91;TED;Santander;Santander;eur;Pendente;23.112.58.85;Salvador;Agência Física
+TX-637;45605;J0ã0 P3dr0 M3nd3s;76102989340;13619.27;DOC;Banco do Brasil;Bradesco;BRL;Cancelada;209246154225;Salvador;caixaeletrônico
+TX-638;45657;Rafaela Gomes;871.846.715-91;31654.67;Depósito;Santander;Caixa Econômica;USD;Aprovdo;23.112.58.85;Rio de Janeiro;Agência Física
+TX-639;45696;Emilly da Luz;175.924.382-83;13619.27;Boleto;Inter;Santander;BR$;Aprovdo;133.52.111.176;Salvador;Agência Física
+TX-640;45426;Calebe Carvalho;095.404.041-30;45250,75;Pix;Inter;C@ix@ Econômic@;Real;Aprovda;155.16.190.57;Sã0 Paul0;Agência Física
+TX-641;45680;Manuela Jesus;29286644979;31087,91;Transferência;Banco do Brasil;Santander;BRL;Aprovada;99.38.141.67;Salvador;Agência Física
+TX-642;45579;R4f43l S4nt0s;069.188.807-13;43912,81;DOC;Bradesco;BTG P@ctu@l;BR$;Cancelada;99.38.141.67;Salvad0r;Internet Banking
+TX-643;45422;Maria Eduarda Nunes;672.197.308-95;40976,75;Pix;Bradesco;Caixa Econômica;BRL;Cancelado;156.91.58.100;P0rt0 Alegre;internetbanking
+TX-644;45604;J0ã0 P3dr0 M3nd3s;76102989340;12122,38;Pix;Banco do Brasil;B@nco do Br@sil;EURO;Cancelada;156.91.58.100;Curitiba;Agência Física
+TX-645;45605;Emilly da Luz;175.924.382-83;44296.21;Boleto;Itaú;Itaú;Usd;Pndente;86213210207;P0rt0 Alegre;Agência Física
+TX-646;45657;Yasmin Oliveira;239.620.763-26;10872.24;Boleto;Caixa Ekonômika;Inter;BRL;Cancelado;209246154225;Salvad0r;caixaeletrônico
+TX-647;45696;Isabella da Cunha;181.721.689-96;47531,9;DOC;Itaú;Bradesco;USD;Pendnte;155.16.190.57;Salvador;Agência Física
+TX-648;45426;Calebe Carvalho;095.404.041-30;44296.21;Pix;Caixa Econômica;Caixa Econômica;eur;Aprovda;41.25.20.251;Salvad0r;Internet Banking
+TX-649;45680;André N0gu3ir4;502.653.269-39;23039.65;Depósito;BTG Paktual;Caixa Econômica;USD;Pendnte;28.146.72.243;São Paulo;Internet Banking
+TX-650;45579;Breno Pinto;53540285406;30054,77;TED;Bradesko;Inter;USD;Aprovda;205.1.56.232;Belo Horizonte;Agência Física
+TX-651;45422;Valentina Porto;69650426560;49149.56;Boleto;Itaú;Santander;USD;Cancelada;76.114.44.81;Curitiba;Agência Física
+TX-652;45604;Calebe Carvalho;095.404.041-30;2594.20;TED;Bradesco;Inter;BR$;Pndente;146103227115;Curitiba;Agência Física
+TX-653;45513;Ana Lívia Azevedo;48867127519;47531,9;Pix;Caixa Econômica;B@nco do Br@sil;EURO;Pndente;23.112.58.85;Curitiba;Caixa Eletrônico
+TX-654;45545;Maria Eduarda Nunes;672.197.308-95;32068.23;Pix;Banco do Brasil;Banco do Brasil;Usd;Pndente;147.45.234.99;São Paulo;Agência Física
+TX-655;45428;Rafaela Gomes;871.846.715-91;47056,64;TED;Bradesco;Banco do Brasil;USD;Pendnte;89165229118;Rio de Janeiro;internetbanking
+TX-656;45655;Renan Novaes;421.591.214-79;36410.78;Pix;Caixa Ekonômika;Inter;Real;Cancelada;78.33.187.186;Salvador;Caixa Eletrônico
+TX-657;45398;Leandro Araújo;69106604613;30182.19;Boleto;Banco do Brasil;Banco do Brasil;BR$;Aprovdo;44.61.49.226;Sã0 Paul0;Caixa Eletrônico
+TX-658;45591;Breno Pinto;53540285406;36410.78;TED;Inter;B@nco do Br@sil;Usd;Aprovda;174.187.243.46;Belo Horizonte;Agência Física
+TX-659;45643;Calebe Carvalho;095.404.041-30;2594.20;DOC;Caixa Ekonômika;Inter;BR$;Cancelado;147.45.234.99;São Paulo;Internet Banking
+TX-660;45562;Luiz Miguel Silveira;25094710302;12122,38;TED;BTG Paktual;Banco do Brasil;eur;Pndente;186.204.75.89;Belo Horizonte;Caixa Eletrônico
+TX-661;45608;Valentina Costela;31278834490;30182.19;Boleto;Bradesco;Banco do Brasil;eur;Pendente;27.213.174.49;Porto Alegre;Internet Banking
+TX-662;45670;Lucas Gabriel da Mata;17525186917;47531,9;TED;Itaú;Bradesco;Usd;Aprovda;143.65.126.190;Salvador;Internet Banking
+TX-663;45417;Isabella da Cunha;181.721.689-96;4615,03;TED;Itaú;Inter;eur;Pendnte;99.38.141.67;Curitiba;Internet Banking
+TX-664;45482;Valentina Costela;31278834490;31654.67;Transferência;Inter;BTG P@ctu@l;BRL;Pendnte;173175245113;Belo Horizonte;Agência Física
+TX-665;45491;Breno Pinto;53540285406;24818.46;TED;Bradesco;BTG P@ctu@l;USD;Cancelado;86213210207;P0rt0 Alegre;caixaeletrônico
+TX-666;45497;Luiz Miguel Silveira;25094710302;39985.66;TED;Bradesco;C@ix@ Econômic@;EUR;Aprovada;43.82.222.136;Curitiba;Agência Física
+TX-667;45653;Yasmin Oliveira;239.620.763-26;11785,3;Boleto;Santander;It@ú;Real;Pendente;156.91.58.100;São Paulo;Agência Física
+TX-668;45694;Luiz Felipe Barros;441.300.936-01;41317.01;Depósito;Itaú;Itaú;BRL;Aprovdo;133.217.56.81;São Paulo;Caixa Eletrônico
+TX-669;45366;Gustavo Henrique Freitas;490.130.071-86;47056,64;Boleto;Santander;Caixa Econômica;eur;Pendnte;195139235106;Curitiba;Agência Física
+TX-670;45592;Maria Eduarda Nunes;672.197.308-95;6003.12;TED;Santander;Santander;EUR;Aprovda;143.65.126.190;Curitiba;Internet Banking
+TX-671;45513;Renan Novaes;421.591.214-79;12122,38;Boleto;Inter;Banco do Brasil;BR$;Aprovada;50.107.35.236;Rio de Janeiro;Internet Banking
+TX-672;45383;Kamilly Gonçalves;24419230218;19794,7;Boleto;Itaú;Santander;USD;Aprovada;133.217.56.81;Salvador;internetbanking
+TX-673;45640;Leandro Araújo;69106604613;8896,81;Pix;Itaú;Banco do Brasil;eur;Cancelada;140.121.49.200;Sã0 Paul0;Caixa Eletrônico
+TX-674;45606;Sr. P3dr0 d4 M4t4;337.451.791-72;2594.20;Boleto;Itaú;BTG Pactual;BRL;Cancelada;186.204.75.89;Rio de Janeiro;caixaeletrônico
+TX-675;45387;Lucas Gabriel da Mata;17525186917;6003.12;Boleto;Bradesco;Santander;USD;Aprovdo;205.1.56.232;São Paulo;Internet Banking
+TX-676;45356;Valentina Porto;69650426560;3914.56;TED;Itaú;Inter;USD;Cancelada;154.196.50.24;P0rt0 Alegre;Agência Física
+TX-677;45420;Ana Lívia Azevedo;48867127519;31654.67;Pix;Banco do Brasil;C@ix@ Econômic@;Real;Cancelado;140.201.79.192;Salvador;internetbanking
+TX-678;45587;Dr. Luiz Felipe Teixeira;33424344224;17652.46;Transferência;Itaú;Inter;Real;Aprovdo;99.38.141.67;Bel0 H0riz0nte;internetbanking
+TX-679;45344;Manuela Jesus;29286644979;3238.19;TED;Inter;Inter;BRL;Aprovdo;143.65.126.190;Rio de Janeiro;Internet Banking
+TX-680;45636;Sr. Carlos Eduardo da Rocha;70936145921;2594.20;Depósito;BTG Paktual;Inter;eur;Aprovdo;140.121.49.200;Sã0 Paul0;Agência Física
+TX-681;45670;João Pedro Rodrigues;653.490.064-88;24818.46;Pix;Caixa Ekonômika;Santander;EURO;Cancelada;209246154225;P0rt0 Alegre;agênciafísica
+TX-682;45357;Renan Novaes;421.591.214-79;17652.46;Transferência;Banco do Brasil;Inter;eur;Aprovdo;57.192.0.17;Rio de Janeiro;Internet Banking
+TX-683;45423;Isabella da Cunha;181.721.689-96;19794,7;TED;Inter;Inter;BR$;Cancelada;46.16.234.145;Salvador;Caixa Eletrônico
+TX-684;45686;R4f43l S4nt0s;069.188.807-13;8896,81;TED;Bradesco;BTG P@ctu@l;eur;Aprovda;151.94.193.13;Rio de Janeiro;Caixa Eletrônico
+TX-685;45471;Luiz Fernando Duarte;69061082464;30182.19;TED;Bradesco;Santander;Real;Cancelada;195139235106;Belo Horizonte;caixaeletrônico
+TX-686;45366;Miguel Santos;020.340.036-88;31087,91;Transferência;Caixa Econômica;Inter;EURO;Aprovdo;186.204.75.89;Belo Horizonte;internetbanking
+TX-687;45504;Lorena Oliveira;13817942796;43618.64;TED;Itaú;Inter;USD;Cancelado;167.140.10.159;Rio de Janeiro;Agência Física
+TX-688;45471;Ana Júlia Carvalho;54119817564;39062,72;Boleto;BTG Paktual;Itaú;EURO;Cancelado;143.65.126.190;Belo Horizonte;Agência Física
+TX-689;45380;Sr. P3dr0 d4 M4t4;337.451.791-72;34516.93;Boleto;Caixa Econômica;Itaú;BRL;Cancelada;23.112.58.85;Salvador;Agência Física
+TX-690;45462;Ana Júlia Carvalho;54119817564;4615,03;Pix;Banko do Brasil;Banco do Brasil;USD;Aprovda;151.94.193.13;Rio de Janeiro;agênciafísica
+TX-691;45450;Maria Eduarda Nunes;672.197.308-95;14343,13;DOC;Bradesco;BTG P@ctu@l;Real;Cancelado;156.91.58.100;Belo Horizonte;Agência Física
+TX-692;45539;Vicente Costa;55472565610;14964,78;TED;Santander;Santander;USD;Pndente;27.213.174.49;Salvador;caixaeletrônico
+TX-693;45494;R4f43l S4nt0s;069.188.807-13;22963.92;TED;Caixa Ekonômika;It@ú;USD;Aprovda;78.33.187.186;São Paulo;Caixa Eletrônico
+TX-694;45605;Breno Pinto;53540285406;11785,3;DOC;Bradesko;S@nt@nder;Real;Pndente;140.121.49.200;São Paulo;Caixa Eletrônico
+TX-695;45657;Ana Júlia Carvalho;54119817564;13619.27;Pix;Santander;Bradesco;Usd;Cancelada;174.187.243.46;Salvador;Internet Banking
+TX-696;45696;Dr. Luiz Gust4v0 Lim4;31211524979;34516.93;TED;Banco do Brasil;Inter;USD;Aprovda;147.45.234.99;São Paulo;Caixa Eletrônico
+TX-697;45426;Lorena Oliveira;13817942796;16152.09;Boleto;Caixa Ekonômika;It@ú;Real;Pndente;200.201.2.107;Belo Horizonte;Internet Banking
+TX-698;45680;Kamilly Gonçalves;24419230218;2587,57;Depósito;BTG Paktual;S@nt@nder;EURO;Pndente;149.105.122.24;Salvador;Caixa Eletrônico
+TX-699;45587;Valentina Porto;69650426560;23039.65;DOC;Caixa Ekonômika;Inter;EUR;Cancelado;184.63.182.128;Sã0 Paul0;Agência Física
+TX-700;45344;Miguel Santos;020.340.036-88;36410.78;Transferência;Inter;Santander;eur;Pndente;205.1.56.232;Belo Horizonte;Agência Física
+TX-701;45636;Luiz Fernando Duarte;69061082464;34516.93;Transferência;Caixa Econômica;Br@desco;eur;Pendnte;117255194225;Curitiba;Caixa Eletrônico
+TX-702;45670;L3vi d4 R0ch4;825.015.143-74;6003.12;DOC;Itaú;Itaú;EUR;Aprovada;44.61.49.226;Bel0 H0riz0nte;Agência Física
+TX-703;45357;M4rc3l4 Di4s;156.860.920-77;30182.19;TED;Itaú;Bradesco;EURO;Aprovada;50.107.35.236;Belo Horizonte;Agência Física
+TX-704;45423;Sr. Carlos Eduardo da Rocha;70936145921;45250,75;Pix;Caixa Econômica;S@nt@nder;eur;Pndente;149.105.122.24;Salvador;Caixa Eletrônico
+TX-705;45686;Luiz Miguel Silveira;25094710302;3238.19;Pix;Banco do Brasil;Inter;USD;Pendente;156.91.58.100;Rio de Janeiro;Agência Física
+TX-706;45471;Leandro Araújo;69106604613;34516.93;Boleto;Caixa Ekonômika;Banco do Brasil;USD;Aprovdo;63.18.248.20;Porto Alegre;internetbanking
+TX-707;45366;Miguel Santos;020.340.036-88;3238.19;Depósito;Santander;Inter;USD;Aprovdo;154.196.50.24;Curitiba;internetbanking
+TX-708;45504;Valentina Costela;31278834490;16152.09;DOC;BTG Pactual;Banco do Brasil;USD;Aprovdo;186.204.75.89;Salvad0r;Caixa Eletrônico
+TX-709;45471;Rafaela Gomes;871.846.715-91;19794,7;Depósito;BTG Paktual;Santander;EUR;Aprovada;41.25.20.251;São Paulo;Agência Física
+TX-710;45380;João Felipe Silva;1123173968;1943.60;Boleto;Bradesco;Banco do Brasil;USD;Aprovada;5.21.2.161;P0rt0 Alegre;Caixa Eletrônico
+TX-711;45462;Sophie Dias;3816146275;30182.19;Boleto;Itaú;Caixa Econômica;eur;Pendente;140.201.79.192;Salvador;Agência Física
+TX-712;45450;Breno Pinto;53540285406;1943.60;Depósito;Itaú;S@nt@nder;BRL;Aprovda;181.71.150.136;São Paulo;internetbanking
+TX-713;45539;Ana Júlia Carvalho;54119817564;24818.46;TED;BTG Paktual;S@nt@nder;USD;Cancelada;200.201.2.107;Rio de Janeiro;Agência Física
+TX-714;45494;Sr. P3dr0 d4 M4t4;337.451.791-72;40976,75;Transferência;Inter;Caixa Econômica;USD;Pndente;174.187.243.46;Rio de Janeiro;Agência Física
+TX-715;45605;Maria Castro;427.552.247-91;22963.92;Transferência;Santander;Inter;eur;Pndente;133.217.56.81;Salvador;Internet Banking
+TX-716;45657;Sr. Carlos Eduardo da Rocha;70936145921;38019,67;Depósito;Bradesko;It@ú;EURO;Pendente;181.71.150.136;Salvad0r;Agência Física
+TX-717;45696;Emilly da Luz;175.924.382-83;41317.01;Depósito;Itaú;Banco do Brasil;eur;Aprovdo;133.52.111.176;Salvador;caixaeletrônico
+TX-718;45426;Rafaela Gomes;871.846.715-91;13619.27;Depósito;Santander;Bradesco;EUR;Cancelada;74.83.119.104;Salvador;internetbanking
+TX-719;45680;Valentina Costela;31278834490;2587,57;Pix;Caixa Econômica;Inter;Usd;Aprovdo;147.45.234.99;Curitiba;Agência Física
+TX-720;45579;Renan Novaes;421.591.214-79;12171,55;Boleto;Bradesco;Banco do Brasil;BR$;Cancelado;5.21.2.161;Curitiba;internetbanking
+TX-721;45422;Kamilly Gonçalves;24419230218;19794,7;Pix;Banco do Brasil;Itaú;eur;Pndente;50.107.35.236;Curitiba;Agência Física
+TX-722;45604;Lara Silveira;1454845353;39062,72;Transferência;Caixa Ekonômika;Itaú;eur;Pendente;174.187.243.46;Belo Horizonte;Internet Banking
+TX-723;45605;Sr. P3dr0 d4 M4t4;337.451.791-72;23039.65;Pix;Inter;Inter;EUR;Pendnte;173175245113;São Paulo;Internet Banking
+TX-724;45657;João Felipe Silva;1123173968;3238.19;DOC;Itaú;Caixa Econômica;USD;Cancelado;159241130188;Curitiba;Agência Física
+TX-725;45696;Ana Lívia Azevedo;48867127519;24818.46;Boleto;Itaú;Caixa Econômica;USD;Pndente;151.94.193.13;Porto Alegre;Agência Física
+TX-726;45426;Srt4. Ev3lyn C4mp0s;329.129.447-41;43618.64;TED;Itaú;Inter;Real;Cancelado;133.217.56.81;Salvador;Caixa Eletrônico
+TX-727;45680;Manuela Jesus;29286644979;22171.02;Transferência;Itaú;Itaú;EURO;Cancelada;63.18.248.20;Curitiba;Internet Banking
+TX-728;45579;Rodrigo Dias;44627071180;39591,5;Pix;Banco do Brasil;BTG Pactual;BRL;Aprovdo;149.105.122.24;Curitiba;internetbanking
+TX-729;45422;Dr. Luiz Felipe Teixeira;33424344224;31654.67;Transferência;Caixa Econômica;Santander;USD;Pndente;41.25.20.251;São Paulo;agênciafísica
+TX-730;45604;Maria Eduarda Nunes;672.197.308-95;47531,9;Pix;Banco do Brasil;Inter;BR$;Cancelado;5.21.2.161;Rio de Janeiro;Internet Banking
+TX-731;45513;Vicente Costa;55472565610;14343,13;DOC;Inter;S@nt@nder;BR$;Aprovdo;23.112.58.85;São Paulo;Agência Física
+TX-732;45545;Srt4. Ev3lyn C4mp0s;329.129.447-41;16152.09;Boleto;Bradesco;Inter;BRL;Pndente;145220225216;Belo Horizonte;Agência Física
+TX-733;45428;Lucas Gabriel da Mata;17525186917;32902,16;Transferência;Bradesco;It@ú;EUR;Aprovda;181145218245;Salvador;Agência Física
+TX-734;45655;Luiz Fernando Duarte;69061082464;32068.23;TED;BTG Pactual;Br@desco;EUR;Pndente;143.65.126.190;Salvador;Agência Física
+TX-735;45398;Ana Lívia Azevedo;48867127519;1943.60;Transferência;Itaú;Banco do Brasil;eur;Pndente;118.68.211.2;Salvador;Agência Física
+TX-736;45591;Miguel Santos;020.340.036-88;22963.92;TED;Banko do Brasil;BTG Pactual;Real;Cancelada;184.63.182.128;São Paulo;Internet Banking
+TX-737;45643;Srt4. Ev3lyn C4mp0s;329.129.447-41;4615,03;TED;Itaú;C@ix@ Econômic@;USD;Aprovdo;57.192.0.17;Curitiba;caixaeletrônico
+TX-738;45562;Srt4. Ev3lyn C4mp0s;329.129.447-41;34516.93;Depósito;Santander;Santander;eur;Cancelada;98.70.105.37;São Paulo;Agência Física
+TX-739;45608;J0ã0 P3dr0 M3nd3s;76102989340;39591,5;Transferência;Bradesco;S@nt@nder;EUR;Pendnte;149.105.122.24;Curitiba;Internet Banking
+TX-740;45670;Sr. P3dr0 d4 M4t4;337.451.791-72;2587,57;Depósito;Itaú;Caixa Econômica;Real;Pendnte;133.52.111.176;Salvad0r;Agência Física
+TX-741;45417;Valentina Porto;69650426560;32902,16;TED;BTG Paktual;BTG Pactual;eur;Aprovda;195139235106;P0rt0 Alegre;Agência Física
+TX-742;45482;Renan Novaes;421.591.214-79;19794,7;Boleto;BTG Paktual;Inter;Real;Aprovda;74.83.119.104;Salvador;Agência Física
+TX-743;45491;João Pedro Rodrigues;653.490.064-88;12171,55;Pix;Santander;BTG P@ctu@l;BR$;Aprovdo;155.16.190.57;Curitiba;agênciafísica
+TX-744;45497;R4f43l S4nt0s;069.188.807-13;31654.67;TED;Bradesco;Itaú;Real;Cancelado;145220225216;Belo Horizonte;Agência Física
+TX-745;45653;Lucas Gabriel da Mata;17525186917;12171,55;Pix;Bradesco;Bradesco;Real;Cancelado;117255194225;Salvador;Caixa Eletrônico
+TX-746;45694;Lorena Oliveira;13817942796;13619.27;DOC;Itaú;Caixa Econômica;eur;Pndente;174.187.243.46;Curitiba;Agência Física
+TX-747;45366;Luiz Miguel Silveira;25094710302;30197.47;Transferência;Itaú;Banco do Brasil;BR$;Pendnte;167.140.10.159;Salvador;Agência Física
+TX-748;45592;Ana Lívia Azevedo;48867127519;16152.09;TED;BTG Pactual;Santander;BR$;Aprovdo;46.16.234.145;Salvador;Caixa Eletrônico
+TX-749;45513;Yuri Carvalho;764.832.459-20;39062,72;Boleto;Caixa Econômica;Inter;BR$;Aprovdo;181.71.150.136;Belo Horizonte;Caixa Eletrônico
+TX-750;45383;Breno Pinto;53540285406;39985.66;DOC;Santander;Santander;Real;Cancelado;143.65.126.190;Salvador;Agência Física
+TX-751;45640;Bryan Duarte;50764955250;44296.21;Transferência;Bradesko;BTG P@ctu@l;Real;Pndente;74.83.119.104;Rio de Janeiro;Internet Banking
+TX-752;45606;Calebe Carvalho;095.404.041-30;19794,7;Pix;Itaú;Inter;BRL;Aprovda;200.201.2.107;Curitiba;Agência Física
+TX-753;45387;Luiz Fernando Duarte;69061082464;49149.56;DOC;Inter;It@ú;Real;Aprovdo;46.16.234.145;Bel0 H0riz0nte;Agência Física
+TX-754;45356;Maria Castro;427.552.247-91;11435.93;Boleto;Itaú;BTG P@ctu@l;Real;Pendnte;76.114.44.81;Salvador;internetbanking
+TX-755;45420;Lorena Oliveira;13817942796;3238.19;Depósito;Caixa Econômica;Inter;EUR;Pendente;43.82.222.136;Belo Horizonte;agênciafísica
+TX-756;45587;Dr. Luiz Felipe Teixeira;33424344224;20623.38;DOC;Inter;BTG P@ctu@l;Usd;Pndente;5.21.2.161;Bel0 H0riz0nte;Caixa Eletrônico
+TX-757;45344;Nathan Jesus;910.085.188-13;2587,57;TED;Santander;Inter;USD;Cancelado;67.175.74.74;Rio de Janeiro;Caixa Eletrônico
+TX-758;45636;Kamilly Gonçalves;24419230218;34516.93;Boleto;Itaú;Caixa Econômica;Usd;Cancelado;149.105.122.24;P0rt0 Alegre;Internet Banking
+TX-759;45670;Bryan Almeida;947.959.409-14;1943.60;Boleto;Caixa Econômica;Caixa Econômica;EURO;Aprovdo;133.217.56.81;Salvad0r;Internet Banking
+TX-760;45357;Bryan Duarte;50764955250;19794,7;DOC;Banko do Brasil;Santander;USD;Aprovda;27.213.174.49;Rio de Janeiro;Internet Banking
+TX-761;45423;João Pedro Rodrigues;653.490.064-88;8896,81;Transferência;Banco do Brasil;It@ú;Real;Cancelada;89165229118;São Paulo;Agência Física
+TX-762;45686;Srt4. Ev3lyn C4mp0s;329.129.447-41;45250,75;TED;Inter;S@nt@nder;EUR;Aprovda;28.146.72.243;P0rt0 Alegre;caixaeletrônico
+TX-763;45471;Leandro Araújo;69106604613;2594.20;Transferência;Itaú;It@ú;Real;Cancelado;184.63.182.128;Sã0 Paul0;Internet Banking
+TX-764;45366;Rodrigo Dias;44627071180;11435.93;Transferência;Itaú;Itaú;eur;Pndente;68.124.51.34;Salvador;Agência Física
+TX-765;45504;Lucas Gabriel da Mata;17525186917;13619.27;Transferência;Caixa Econômica;Inter;Real;Aprovdo;43.82.222.136;Curitiba;internetbanking
+TX-766;45471;Lucas Gabriel da Mata;17525186917;43618.64;Depósito;Banko do Brasil;Caixa Econômica;BRL;Cancelado;145220225216;Sã0 Paul0;internetbanking
+TX-767;45380;Renan Novaes;421.591.214-79;22963.92;Transferência;Caixa Econômica;Banco do Brasil;EUR;Aprovda;67.175.74.74;Rio de Janeiro;Agência Física
+TX-768;45462;Rafaela Gomes;871.846.715-91;39591,5;TED;Itaú;BTG P@ctu@l;EURO;Pendente;181145218245;Rio de Janeiro;Internet Banking
+TX-769;45450;João Pedro Rodrigues;653.490.064-88;39591,5;Boleto;Bradesco;Banco do Brasil;BR$;Pendente;154.196.50.24;Salvador;Agência Física
+TX-770;45539;Vicente Costa;55472565610;30054,77;TED;Itaú;Caixa Econômica;Real;Cancelado;159241130188;Porto Alegre;Agência Física
+TX-771;45494;Gustavo Henrique Freitas;490.130.071-86;39591,5;Pix;Caixa Econômica;Caixa Econômica;BR$;Pendnte;184.63.182.128;Rio de Janeiro;Internet Banking
+TX-772;45605;Maria Castro;427.552.247-91;30197.47;Transferência;Banco do Brasil;Inter;Usd;Pendnte;133.52.111.176;Curitiba;caixaeletrônico
+TX-773;45657;Luiz Miguel Silveira;25094710302;40976,75;Pix;Itaú;Inter;Real;Pndente;145220225216;São Paulo;caixaeletrônico
+TX-774;45696;Valentina Porto;69650426560;31654.67;Depósito;Banco do Brasil;Santander;BRL;Aprovda;86213210207;Rio de Janeiro;Internet Banking
+TX-775;45426;Rodrigo Dias;44627071180;43912,81;Transferência;Banco do Brasil;It@ú;EURO;Aprovda;74.83.119.104;Sã0 Paul0;Agência Física
+TX-776;45680;Nathan Jesus;910.085.188-13;2594.20;Boleto;Caixa Ekonômika;Caixa Econômica;EUR;Aprovdo;78.33.187.186;Belo Horizonte;Caixa Eletrônico
+TX-777;45462;João Felipe Silva;1123173968;22171.02;Depósito;Itaú;Bradesco;Real;Cancelada;205.1.56.232;Curitiba;internetbanking
+TX-778;45606;Yasmin Oliveira;239.620.763-26;13619.27;Depósito;Itaú;Santander;USD;Aprovdo;133.217.56.81;Salvador;Caixa Eletrônico
+TX-779;45482;Rafaela Gomes;871.846.715-91;2587,57;Pix;Bradesko;Banco do Brasil;BRL;Aprovada;143.65.126.190;Porto Alegre;Agência Física
+TX-780;45471;Breno Pinto;53540285406;36410.78;TED;Santander;Caixa Econômica;Real;Pendente;68.124.51.34;Salvador;caixaeletrônico
+TX-781;45494;Luiz Felipe Barros;441.300.936-01;32068.23;DOC;Caixa Ekonômika;Inter;Real;Cancelada;27.213.174.49;São Paulo;Agência Física
+TX-782;45450;Renan Novaes;421.591.214-79;11785,3;Transferência;Bradesco;Santander;USD;Cancelada;143.65.126.190;Belo Horizonte;Agência Física
+TX-783;45387;Gustavo Henrique Freitas;490.130.071-86;11785,3;TED;Caixa Econômica;Santander;BRL;Aprovada;154.196.50.24;P0rt0 Alegre;Internet Banking
+TX-784;45398;Breno Pinto;53540285406;11785,3;DOC;Banco do Brasil;Santander;USD;Aprovdo;181145218245;Salvador;Agência Física
+TX-785;45387;Rodrigo Dias;44627071180;13619.27;Pix;Caixa Econômica;Inter;BRL;Cancelado;28.146.72.243;Rio de Janeiro;Agência Física
+TX-786;45513;Breno Pinto;53540285406;24818.46;Transferência;Bradesco;BTG P@ctu@l;BRL;Cancelada;140.201.79.192;Rio de Janeiro;Caixa Eletrônico
+TX-787;45426;Srt4. Ev3lyn C4mp0s;329.129.447-41;1943.60;Depósito;Banco do Brasil;Santander;EURO;Aprovdo;63.18.248.20;Sã0 Paul0;Internet Banking
+TX-788;45383;Luiz Fernando Duarte;69061082464;23039.65;Pix;Inter;Caixa Econômica;EUR;Pendnte;167.140.10.159;Curitiba;Agência Física
+TX-789;45696;Calebe Carvalho;095.404.041-30;38019,67;DOC;Itaú;BTG Pactual;BRL;Pendente;200.201.2.107;Rio de Janeiro;Agência Física
+TX-790;45670;Valentina Costela;31278834490;3238.19;Boleto;Bradesco;Itaú;EUR;Pendente;155.16.190.57;Salvador;Internet Banking
+TX-791;45450;Kamilly Gonçalves;24419230218;30054,77;TED;Itaú;S@nt@nder;Real;Aprovda;133.52.111.176;São Paulo;caixaeletrônico
+TX-792;45694;João Felipe Silva;1123173968;31654.67;TED;Inter;It@ú;BR$;Aprovada;184.63.182.128;São Paulo;Internet Banking
+TX-793;45383;Vicente Costa;55472565610;10899.35;TED;Bradesco;Inter;Real;Aprovada;147.45.234.99;Salvador;Internet Banking
+TX-794;45398;Breno Pinto;53540285406;44296.21;Depósito;Bradesko;Caixa Econômica;EUR;Cancelada;151.94.193.13;Salvad0r;Internet Banking
+TX-795;45562;Rodrigo Dias;44627071180;14964,78;Boleto;Caixa Ekonômika;Inter;Real;Aprovada;161.67.139.215;São Paulo;Agência Física
+TX-796;45387;J0ã0 Guilh3rm3 C0st3l4;84842762368;16995.53;Boleto;Itaú;S@nt@nder;BRL;Cancelada;159241130188;Rio de Janeiro;internetbanking
+TX-797;45357;Maysa Castro;90570852729;39062,72;Boleto;Banco do Brasil;Santander;BRL;Pndente;146103227115;Rio de Janeiro;internetbanking
+TX-798;45471;João Felipe Silva;1123173968;7942.05;TED;BTG Paktual;Bradesco;Real;Aprovdo;205.1.56.232;P0rt0 Alegre;Caixa Eletrônico
+TX-799;45471;Luiz Felipe Barros;441.300.936-01;14343,13;Transferência;Caixa Econômica;Inter;eur;Aprovdo;173175245113;Sã0 Paul0;Agência Física
+TX-800;45686;Luiz Miguel Silveira;25094710302;47056,64;Pix;Inter;Inter;BRL;Cancelado;67.175.74.74;Salvador;internetbanking
+TX-801;45587;André N0gu3ir4;502.653.269-39;49149.56;TED;Santander;It@ú;BR$;Pendente;156.91.58.100;Rio de Janeiro;Internet Banking
+TX-802;45398;Renan Novaes;421.591.214-79;2594.20;Pix;Bradesco;Santander;EUR;Pndente;89165229118;Salvador;internetbanking
+TX-803;45494;Ana Júlia Carvalho;54119817564;43618.64;Pix;Itaú;Caixa Econômica;BR$;Aprovdo;159241130188;Belo Horizonte;Internet Banking
+TX-804;45608;Breno Pinto;53540285406;43912,81;DOC;BTG Paktual;It@ú;eur;Aprovda;57.126.87.244;São Paulo;Agência Física
+TX-805;45387;Breno Pinto;53540285406;24818.46;Boleto;Caixa Ekonômika;It@ú;BR$;Aprovada;133.52.111.176;Sã0 Paul0;Internet Banking
+TX-806;45428;Bryan Duarte;50764955250;7942.05;Pix;BTG Paktual;S@nt@nder;BRL;Aprovda;159241130188;Rio de Janeiro;Agência Física
+TX-807;45450;Nathan Jesus;910.085.188-13;7942.05;Pix;Bradesco;Itaú;EURO;Aprovdo;99.38.141.67;Porto Alegre;Agência Física
+TX-808;45482;Yuri Carvalho;764.832.459-20;14343,13;Pix;Itaú;B@nco do Br@sil;eur;Aprovada;140.121.49.200;Belo Horizonte;agênciafísica
+TX-809;45366;Breno Pinto;53540285406;3914.56;TED;Santander;Inter;EUR;Aprovda;86213210207;P0rt0 Alegre;Caixa Eletrônico
+TX-810;45608;Leandro Araújo;69106604613;12122,38;Transferência;Banco do Brasil;BTG P@ctu@l;BRL;Aprovda;205.1.56.232;Porto Alegre;Agência Física
+TX-811;45383;Bryan Almeida;947.959.409-14;11785,3;TED;Bradesco;Caixa Econômica;USD;Aprovdo;118.68.211.2;Rio de Janeiro;Internet Banking
+TX-812;45356;Leandro Araújo;69106604613;1943.60;Depósito;Santander;Itaú;BRL;Aprovdo;74.83.119.104;Salvador;Agência Física
+TX-813;45482;Srta. Brenda Nunes;76972982739;32902,16;TED;Santander;Inter;eur;Cancelado;181145218245;São Paulo;Caixa Eletrônico
+TX-814;45545;Dr. Luiz Felipe Teixeira;33424344224;11656,75;Transferência;Inter;Caixa Econômica;USD;Aprovdo;67.175.74.74;Bel0 H0riz0nte;Agência Física
+TX-815;45513;Cecília Costela;39014903719;39062,72;Depósito;Bradesco;Br@desco;USD;Cancelada;67.175.74.74;Porto Alegre;caixaeletrônico
+TX-816;45696;Maysa Castro;90570852729;32068.23;Pix;Inter;Bradesco;BR$;Cancelada;78.33.187.186;Bel0 H0riz0nte;caixaeletrônico
+TX-817;45513;J0ã0 P3dr0 M3nd3s;76102989340;44296.21;Pix;Itaú;Caixa Econômica;eur;Pendnte;143.65.126.190;Curitiba;Agência Física
+TX-818;45592;Emilly da Luz;175.924.382-83;30182.19;Depósito;Itaú;Caixa Econômica;BRL;Cancelada;149.105.122.24;São Paulo;Agência Física
+TX-819;45513;Rodrigo Dias;44627071180;30054,77;DOC;Banco do Brasil;Santander;BRL;Pendente;151.94.193.13;P0rt0 Alegre;Internet Banking
+TX-820;45494;Ana Júlia Carvalho;54119817564;23039.65;Transferência;Inter;Itaú;Real;Pendente;143.65.126.190;Porto Alegre;agênciafísica
+TX-821;45591;Vicente Costa;55472565610;22171.02;TED;Itaú;S@nt@nder;Real;Aprovada;50.107.35.236;Rio de Janeiro;Internet Banking
+TX-822;45513;Agatha Lopes;705.068.735-01;11435.93;Transferência;Santander;Bradesco;USD;Aprovdo;195139235106;Sã0 Paul0;Agência Física
+TX-823;45643;M4rc3l4 Di4s;156.860.920-77;13619.27;Transferência;BTG Paktual;Banco do Brasil;BR$;Pndente;181145218245;Rio de Janeiro;caixaeletrônico
+TX-824;45591;Maria Castro;427.552.247-91;2594.20;TED;BTG Paktual;It@ú;EURO;Aprovdo;143.65.126.190;Rio de Janeiro;Agência Física
+TX-825;45398;D4vi Lucc4 d4 C0st4;42222188635;22171.02;Transferência;Inter;Inter;BRL;Pendnte;138.13.1.100;Belo Horizonte;Internet Banking
+TX-826;45606;Lara Silveira;1454845353;39062,72;Depósito;Bradesco;C@ix@ Econômic@;BRL;Aprovda;98.70.105.37;Curitiba;Agência Física
+TX-827;45417;João Felipe Silva;1123173968;34516.93;TED;Itaú;Bradesco;BRL;Pendente;181145218245;Salvador;Caixa Eletrônico
+TX-828;45605;M4rc3l4 Di4s;156.860.920-77;4615,03;Depósito;Itaú;S@nt@nder;EUR;Cancelada;156.91.58.100;Rio de Janeiro;internetbanking
+TX-829;45366;Isabella da Cunha;181.721.689-96;4615,03;Transferência;Itaú;Banco do Brasil;eur;Cancelada;76.114.44.81;Belo Horizonte;Agência Física
+TX-830;45417;M4rc3l4 Di4s;156.860.920-77;24818.46;Pix;Inter;BTG Pactual;BR$;Pendente;133.52.111.176;Curitiba;Agência Física
+TX-831;45504;Maria Eduarda Nunes;672.197.308-95;24818.46;Pix;Itaú;Bradesco;EUR;Cancelada;76.114.44.81;Salvad0r;Internet Banking
+TX-832;45471;Emilly da Luz;175.924.382-83;30182.19;DOC;Bradesco;It@ú;BR$;Cancelada;78.33.187.186;São Paulo;Agência Física
+TX-833;45655;Renan Novaes;421.591.214-79;32902,16;Transferência;Inter;Itaú;eur;Aprovda;133.217.56.81;Salvador;Agência Física
+TX-834;45513;André N0gu3ir4;502.653.269-39;39591,5;Depósito;Bradesco;Banco do Brasil;eur;Aprovda;209246154225;Rio de Janeiro;Internet Banking
+TX-835;45450;Kamilly Gonçalves;24419230218;30197.47;Pix;Caixa Econômica;S@nt@nder;BR$;Aprovda;167.140.10.159;Belo Horizonte;Internet Banking
+TX-836;45491;M4rc3l4 Di4s;156.860.920-77;49149.56;Transferência;Caixa Econômica;Banco do Brasil;eur;Pndente;184.63.182.128;P0rt0 Alegre;Agência Física
+TX-837;45513;Valentina Costela;31278834490;30197.47;TED;Itaú;B@nco do Br@sil;Real;Pendente;23.112.58.85;Salvador;Caixa Eletrônico
+TX-838;45640;Manuela Jesus;29286644979;16995.53;Depósito;Inter;S@nt@nder;eur;Cancelado;140.121.49.200;Salvador;Agência Física
+TX-839;45643;Nathan Jesus;910.085.188-13;3238.19;Pix;Itaú;Inter;Usd;Pendnte;145220225216;Belo Horizonte;Agência Física
+TX-840;45426;Renan Novaes;421.591.214-79;10899.35;TED;Inter;BTG P@ctu@l;BRL;Pendnte;63.18.248.20;Salvador;Caixa Eletrônico
+TX-841;45422;Luiz Felipe Barros;441.300.936-01;43912,81;Transferência;Banco do Brasil;Banco do Brasil;EUR;Cancelada;181.71.150.136;Salvador;Caixa Eletrônico
+TX-842;45694;Cecília Costela;39014903719;45250,75;Boleto;Santander;Br@desco;EURO;Aprovdo;155.16.190.57;Porto Alegre;Agência Física
+TX-843;45426;Dr. Luiz Felipe Teixeira;33424344224;7942.05;Transferência;Bradesco;B@nco do Br@sil;Real;Aprovda;74.83.119.104;São Paulo;Caixa Eletrônico
+TX-844;45513;J0ã0 Guilh3rm3 C0st3l4;84842762368;19794,7;TED;Bradesco;Banco do Brasil;USD;Aprovada;78.33.187.186;Sã0 Paul0;caixaeletrônico
+TX-845;45694;Maria Castro;427.552.247-91;39985.66;Depósito;Bradesco;Santander;BRL;Aprovdo;99.38.141.67;Salvador;internetbanking
+TX-846;45643;Luiz Fernando Duarte;69061082464;24818.46;Transferência;Itaú;B@nco do Br@sil;BRL;Cancelada;209246154225;Rio de Janeiro;Caixa Eletrônico
+TX-847;45513;Luiz Felipe Barros;441.300.936-01;24818.46;Boleto;Caixa Econômica;S@nt@nder;EURO;Aprovdo;133.217.56.81;Salvador;Caixa Eletrônico
+TX-848;45655;M4rc3l4 Di4s;156.860.920-77;3914.56;Boleto;Caixa Econômica;BTG Pactual;eur;Cancelado;43.82.222.136;Sã0 Paul0;Agência Física
+TX-849;45417;João Pedro Rodrigues;653.490.064-88;31654.67;DOC;BTG Pactual;BTG P@ctu@l;Real;Aprovada;27.213.174.49;Rio de Janeiro;caixaeletrônico
+TX-850;45491;Sra. Alice Campos;95829576634;4615,03;Pix;Banco do Brasil;S@nt@nder;EURO;Aprovdo;76.114.44.81;Curitiba;Agência Física
+TX-851;45605;Srta. Brenda Nunes;76972982739;32068.23;Pix;Banko do Brasil;Banco do Brasil;eur;Aprovada;57.126.87.244;Salvador;internetbanking
+TX-852;45417;Lorena Oliveira;13817942796;31654.67;TED;Itaú;Banco do Brasil;BRL;Aprovdo;133.217.56.81;Curitiba;Agência Física
+TX-853;45636;Valentina Costela;31278834490;41317.01;Transferência;Caixa Econômica;Bradesco;Real;Pendnte;140.201.79.192;Salvador;internetbanking
+TX-854;45694;Lara Silveira;1454845353;32902,16;TED;Caixa Ekonômika;Inter;EURO;Pendnte;195139235106;São Paulo;internetbanking
+TX-855;45539;Luiz Felipe Barros;441.300.936-01;31654.67;Pix;BTG Pactual;S@nt@nder;BR$;Pndente;76.114.44.81;Bel0 H0riz0nte;Caixa Eletrônico
+TX-856;45387;Cecília Costela;39014903719;8896,81;TED;Caixa Econômica;BTG Pactual;BRL;Pendente;173175245113;Salvador;Agência Física
+TX-857;45670;Maria Eduarda Nunes;672.197.308-95;19794,7;Transferência;Caixa Ekonômika;Caixa Econômica;BRL;Pendente;43.82.222.136;Salvad0r;internetbanking
+TX-858;45636;Ana Lívia Azevedo;48867127519;4615,03;Depósito;Caixa Econômica;BTG Pactual;USD;Pendente;181.71.150.136;Salvador;Agência Física
+TX-859;45417;Maysa Castro;90570852729;16152.09;Transferência;Itaú;Inter;eur;Pendnte;133.52.111.176;Sã0 Paul0;Internet Banking
+TX-860;45653;Ana Júlia Carvalho;54119817564;45250,75;Pix;Bradesco;Santander;BR$;Aprovada;181145218245;P0rt0 Alegre;agênciafísica
+TX-861;45344;L3vi d4 R0ch4;825.015.143-74;11656,75;Depósito;Caixa Econômica;Itaú;BRL;Pndente;68.124.51.34;Salvador;Internet Banking
+TX-862;45491;Yasmin Oliveira;239.620.763-26;11435.93;Boleto;Caixa Econômica;Santander;EUR;Cancelada;159241130188;Salvador;Agência Física
+TX-863;45606;Manuela Jesus;29286644979;11435.93;Depósito;BTG Pactual;BTG Pactual;BR$;Aprovada;76.114.44.81;Rio de Janeiro;Internet Banking
+TX-864;45366;Bryan Duarte;50764955250;43912,81;TED;Itaú;Caixa Econômica;Real;Aprovada;57.192.0.17;São Paulo;Agência Física
+TX-865;45608;Renan Novaes;421.591.214-79;19794,7;TED;BTG Pactual;Itaú;Real;Aprovdo;86213210207;Curitiba;Caixa Eletrônico
+TX-866;45420;Luiz Fernando Duarte;69061082464;12171,55;Transferência;Inter;Caixa Econômica;BR$;Pendnte;28.146.72.243;Rio de Janeiro;Internet Banking
+TX-867;45428;Luiz Fernando Duarte;69061082464;2587,57;Pix;Bradesco;BTG Pactual;EUR;Aprovada;117255194225;Belo Horizonte;internetbanking
+TX-868;45562;Vicente Costa;55472565610;16995.53;TED;Inter;S@nt@nder;EURO;Cancelada;28.146.72.243;Salvador;Caixa Eletrônico
+TX-869;45471;Lara Silveira;1454845353;19794,7;TED;Santander;S@nt@nder;BRL;Cancelada;27.213.174.49;Curitiba;Caixa Eletrônico
+TX-870;45545;Emilly da Luz;175.924.382-83;30197.47;Pix;Santander;BTG Pactual;EUR;Cancelado;195139235106;Rio de Janeiro;caixaeletrônico
+TX-871;45398;Vicente Costa;55472565610;24818.46;Pix;Itaú;Banco do Brasil;eur;Cancelado;133.217.56.81;Salvad0r;Agência Física
+TX-872;45513;Breno Pinto;53540285406;2594.20;Boleto;Inter;S@nt@nder;BRL;Pndente;181.71.150.136;Salvador;Agência Física
+TX-873;45513;Isabella da Cunha;181.721.689-96;30197.47;Pix;Santander;Itaú;BRL;Pendente;133.217.56.81;Porto Alegre;Agência Física
+TX-874;45670;Maysa Castro;90570852729;39591,5;Pix;Itaú;S@nt@nder;BRL;Aprovdo;133.52.111.176;Belo Horizonte;Agência Física
+TX-875;45670;M4rc3l4 Di4s;156.860.920-77;10872.24;Depósito;BTG Pactual;Santander;eur;Cancelada;50.107.35.236;Sã0 Paul0;Internet Banking
+TX-876;45504;Valentina Porto;69650426560;49149.56;Boleto;Itaú;Inter;BR$;Pendnte;173175245113;Curitiba;Agência Física
+TX-877;45423;Lorena Oliveira;13817942796;30182.19;TED;Bradesco;BTG P@ctu@l;Usd;Aprovada;27.213.174.49;Salvador;Agência Física
+TX-878;45471;Bryan Duarte;50764955250;31654.67;Boleto;BTG Paktual;Santander;eur;Pndente;76.114.44.81;Rio de Janeiro;caixaeletrônico
+TX-879;45545;Sr. Carlos Eduardo da Rocha;70936145921;3238.19;TED;Banco do Brasil;Inter;EUR;Aprovdo;173175245113;Salvador;Internet Banking
+TX-880;45545;Emilly da Luz;175.924.382-83;20623.38;DOC;Bradesco;S@nt@nder;BRL;Aprovada;147.45.234.99;Salvador;caixaeletrônico
+TX-881;45513;Manuela Jesus;29286644979;43618.64;Depósito;Banco do Brasil;BTG Pactual;eur;Aprovdo;68.124.51.34;Rio de Janeiro;caixaeletrônico
+TX-882;45482;Luiz Felipe Barros;441.300.936-01;23039.65;Depósito;Santander;Santander;BR$;Cancelado;138.13.1.100;São Paulo;agênciafísica
+TX-883;45670;Rodrigo Dias;44627071180;12122,38;DOC;Santander;Banco do Brasil;EURO;Cancelado;174.187.243.46;Rio de Janeiro;Agência Física
+TX-884;45344;Cecília Costela;39014903719;2587,57;DOC;Itaú;Bradesco;BRL;Pendnte;145220225216;Curitiba;Agência Física
+TX-885;45657;Miguel Santos;020.340.036-88;39062,72;DOC;Bradesco;Itaú;USD;Aprovda;167.140.10.159;São Paulo;Caixa Eletrônico
+TX-886;45606;R4f43l S4nt0s;069.188.807-13;23039.65;TED;Itaú;S@nt@nder;Usd;Aprovda;173175245113;Salvador;Agência Física
+TX-887;45513;Lorena Oliveira;13817942796;31087,91;Boleto;Caixa Ekonômika;Banco do Brasil;eur;Pendnte;44.61.49.226;Rio de Janeiro;Caixa Eletrônico
+TX-888;45604;Yasmin Oliveira;239.620.763-26;43618.64;DOC;BTG Pactual;Santander;Usd;Pendnte;151.94.193.13;Salvador;Agência Física
+TX-889;45504;Agatha Lopes;705.068.735-01;4615,03;Transferência;Caixa Ekonômika;S@nt@nder;eur;Aprovda;23.112.58.85;Belo Horizonte;Caixa Eletrônico
+TX-890;45422;Nathan Jesus;910.085.188-13;11785,3;TED;Inter;Itaú;Real;Cancelada;186.204.75.89;Rio de Janeiro;Agência Física
+TX-891;45636;Sra. Alice Campos;95829576634;41317.01;TED;Santander;Bradesco;EURO;Pendente;195139235106;Sã0 Paul0;agênciafísica
+TX-892;45686;Maria Castro;427.552.247-91;12122,38;Transferência;Bradesco;BTG P@ctu@l;Usd;Pndente;118.68.211.2;São Paulo;internetbanking
+TX-893;45494;Valentina Porto;69650426560;49149.56;Boleto;Banko do Brasil;Bradesco;BRL;Cancelada;23.112.58.85;São Paulo;Internet Banking
+TX-894;45417;R4f43l S4nt0s;069.188.807-13;11435.93;TED;Bradesko;Inter;USD;Pendnte;209246154225;Salvador;Internet Banking
+TX-895;45539;Cecília Costela;39014903719;14964,78;Transferência;Banko do Brasil;Inter;BR$;Pndente;86213210207;Rio de Janeiro;Agência Física
+TX-896;45625;Emilly da Luz;175.924.382-83;30182.19;Depósito;Bradesco;Caixa Econômica;eur;Pndente;156.91.58.100;Sã0 Paul0;Internet Banking
+TX-897;45694;Lara Silveira;1454845353;11656,75;Transferência;Inter;Santander;Real;Aprovada;155.16.190.57;Salvador;caixaeletrônico
+TX-898;45587;Leandro Araújo;69106604613;14343,13;Depósito;BTG Paktual;BTG P@ctu@l;BRL;Aprovdo;174.187.243.46;São Paulo;Agência Física
+TX-899;45491;Rafaela Gomes;871.846.715-91;14343,13;Pix;Itaú;Banco do Brasil;Real;Aprovda;67.175.74.74;Sã0 Paul0;Agência Física
+TX-900;45513;Maria Eduarda Nunes;672.197.308-95;3238.19;Transferência;Itaú;Itaú;BRL;Aprovdo;118.68.211.2;São Paulo;internetbanking
+TX-901;45383;João Felipe Silva;1123173968;16995.53;Pix;Itaú;BTG P@ctu@l;EUR;Aprovda;68.124.51.34;São Paulo;Agência Física
+TX-902;45494;Nathan Jesus;910.085.188-13;16152.09;TED;Caixa Econômica;Itaú;BRL;Cancelada;140.201.79.192;Porto Alegre;Agência Física
+TX-903;45428;Isabella da Cunha;181.721.689-96;10899.35;TED;Itaú;It@ú;Real;Aprovdo;140.121.49.200;Rio de Janeiro;Caixa Eletrônico
+TX-904;45606;Srt4. Ev3lyn C4mp0s;329.129.447-41;14343,13;Depósito;Banco do Brasil;Bradesco;BR$;Pendente;133.52.111.176;Curitiba;Internet Banking
+TX-905;45670;Yasmin Oliveira;239.620.763-26;31654.67;TED;Itaú;Banco do Brasil;USD;Pndente;181.71.150.136;Salvador;Caixa Eletrônico
+TX-906;45608;Isabella da Cunha;181.721.689-96;23039.65;TED;Itaú;Santander;eur;Pndente;50.107.35.236;Salvador;Caixa Eletrônico
+TX-907;45670;Leandro Araújo;69106604613;31087,91;Transferência;Itaú;Caixa Econômica;eur;Pendente;68.124.51.34;São Paulo;Internet Banking
+TX-908;45450;Luiz Miguel Silveira;25094710302;4615,03;Pix;Itaú;It@ú;EUR;Cancelado;28.146.72.243;São Paulo;Internet Banking
+TX-909;45562;Nathan Jesus;910.085.188-13;43618.64;Pix;Santander;Santander;EUR;Pendnte;143.65.126.190;Porto Alegre;caixaeletrônico
+TX-910;45344;Maria Eduarda Nunes;672.197.308-95;44296.21;DOC;Inter;Itaú;BR$;Aprovada;143.65.126.190;Rio de Janeiro;internetbanking
+TX-911;45579;J0ã0 Guilh3rm3 C0st3l4;84842762368;47531,9;Boleto;Bradesko;It@ú;BR$;Pndente;23.112.58.85;P0rt0 Alegre;Caixa Eletrônico
+TX-912;45587;Miguel Santos;020.340.036-88;14964,78;TED;Santander;Inter;eur;Aprovdo;181.71.150.136;Salvad0r;Agência Física
+TX-913;45686;Nathan Jesus;910.085.188-13;22963.92;Boleto;Itaú;It@ú;BR$;Cancelada;145220225216;São Paulo;agênciafísica
+TX-914;45670;Renan Novaes;421.591.214-79;12122,38;Transferência;Itaú;Santander;eur;Cancelada;28.146.72.243;Curitiba;Internet Banking
+TX-915;45423;Srta. Brenda Nunes;76972982739;2594.20;Depósito;Santander;Santander;USD;Pndente;184.63.182.128;Rio de Janeiro;Caixa Eletrônico
+TX-916;45670;Sr. P3dr0 d4 M4t4;337.451.791-72;4615,03;Transferência;Itaú;BTG P@ctu@l;USD;Aprovdo;140.201.79.192;Rio de Janeiro;Caixa Eletrônico
+TX-917;45497;Sr. P3dr0 d4 M4t4;337.451.791-72;32902,16;TED;Itaú;Bradesco;BRL;Aprovda;209246154225;Curitiba;Agência Física
+TX-918;45604;Breno Pinto;53540285406;44296.21;Boleto;BTG Paktual;It@ú;BR$;Cancelada;181.71.150.136;São Paulo;caixaeletrônico
+TX-919;45657;Sra. Alice Campos;95829576634;16995.53;DOC;Santander;Bradesco;EURO;Aprovdo;46.16.234.145;Salvador;Agência Física
+TX-920;45387;M4rc3l4 Di4s;156.860.920-77;38019,67;Transferência;BTG Paktual;Itaú;EUR;Pndente;57.192.0.17;Sã0 Paul0;caixaeletrônico
+TX-921;45640;João Pedro Rodrigues;653.490.064-88;12122,38;Transferência;Itaú;BTG Pactual;USD;Aprovada;99.38.141.67;Salvador;Internet Banking
+TX-922;45657;Sra. Alice Campos;95829576634;30054,77;TED;Caixa Econômica;Caixa Econômica;EURO;Cancelada;149.105.122.24;Sã0 Paul0;Agência Física
+TX-923;45398;Sra. Alice Campos;95829576634;30182.19;Boleto;BTG Paktual;C@ix@ Econômic@;EUR;Pendnte;118.68.211.2;P0rt0 Alegre;internetbanking
+TX-924;45383;Nathan Jesus;910.085.188-13;12122,38;Depósito;Caixa Econômica;S@nt@nder;USD;Aprovda;28.146.72.243;Belo Horizonte;Agência Física
+TX-925;45686;Bryan Almeida;947.959.409-14;22171.02;Boleto;Caixa Ekonômika;Inter;BRL;Aprovda;140.201.79.192;Curitiba;Agência Física
+TX-926;45387;J0ã0 P3dr0 M3nd3s;76102989340;4615,03;TED;Itaú;It@ú;eur;Aprovda;133.217.56.81;Bel0 H0riz0nte;Internet Banking
+TX-927;45398;Lara Silveira;1454845353;47531,9;Pix;Bradesco;Inter;BRL;Cancelada;155.16.190.57;Salvador;Agência Física
+TX-928;45366;Emilly da Luz;175.924.382-83;16152.09;Transferência;Caixa Ekonômika;It@ú;Usd;Pndente;146103227115;São Paulo;Agência Física
+TX-929;45497;Valentina Porto;69650426560;47531,9;Transferência;Santander;BTG P@ctu@l;BRL;Cancelada;50.107.35.236;Rio de Janeiro;Internet Banking
+TX-930;45344;André N0gu3ir4;502.653.269-39;17652.46;Pix;Itaú;Banco do Brasil;EUR;Cancelada;138.13.1.100;Rio de Janeiro;Internet Banking
+TX-931;45696;Renan Novaes;421.591.214-79;13619.27;TED;Banco do Brasil;Caixa Econômica;Real;Aprovada;98.70.105.37;Porto Alegre;Agência Física
+TX-932;45696;Agatha Lopes;705.068.735-01;11785,3;Depósito;Santander;Santander;eur;Aprovada;138.13.1.100;Salvador;caixaeletrônico
+TX-933;45579;Breno Pinto;53540285406;43912,81;Boleto;BTG Pactual;Itaú;USD;Aprovdo;68.124.51.34;Curitiba;Agência Física
+TX-934;45504;Renan Novaes;421.591.214-79;11656,75;TED;Caixa Econômica;S@nt@nder;BR$;Pendente;118.68.211.2;Porto Alegre;internetbanking
+TX-935;45344;Luiz Felipe Barros;441.300.936-01;20623.38;DOC;Santander;Caixa Econômica;eur;Aprovdo;140.121.49.200;Curitiba;Agência Física
+TX-936;45366;Srta. Brenda Nunes;76972982739;23039.65;TED;Itaú;It@ú;BRL;Aprovdo;147.45.234.99;São Paulo;Agência Física
+TX-937;45482;Valentina Porto;69650426560;22171.02;TED;Banco do Brasil;Santander;Real;Cancelada;41.25.20.251;Bel0 H0riz0nte;Caixa Eletrônico
+TX-938;45417;Breno Pinto;53540285406;11785,3;Boleto;Banco do Brasil;Itaú;BRL;Cancelada;89165229118;Salvad0r;Internet Banking
+TX-939;45482;Emilly da Luz;175.924.382-83;30054,77;DOC;Bradesco;Itaú;EURO;Pndente;181.71.150.136;Curitiba;Caixa Eletrônico
+TX-940;45655;Bryan Almeida;947.959.409-14;43618.64;TED;Santander;Santander;USD;Aprovdo;167.140.10.159;Porto Alegre;caixaeletrônico
+TX-941;45696;Dr. Luiz Gust4v0 Lim4;31211524979;16152.09;Transferência;BTG Paktual;Santander;eur;Pendnte;138.13.1.100;Curitiba;Agência Física
+TX-942;45357;Kamilly Gonçalves;24419230218;19794,7;Transferência;BTG Paktual;It@ú;USD;Cancelado;174.187.243.46;Rio de Janeiro;Internet Banking
+TX-943;45387;Cecília Costela;39014903719;10899.35;Boleto;Santander;Inter;eur;Pendnte;27.213.174.49;Curitiba;Agência Física
+TX-944;45471;Isabella da Cunha;181.721.689-96;12122,38;Boleto;Bradesco;Bradesco;USD;Cancelada;146103227115;São Paulo;Agência Física
+TX-945;45428;Sr. Carlos Eduardo da Rocha;70936145921;47056,64;TED;Itaú;Caixa Econômica;EUR;Cancelada;57.126.87.244;Curitiba;Agência Física
+TX-946;45655;J0ã0 P3dr0 M3nd3s;76102989340;41317.01;TED;Banko do Brasil;Bradesco;eur;Pndente;43.82.222.136;Sã0 Paul0;Agência Física
+TX-947;45380;D4vi Lucc4 d4 C0st4;42222188635;30197.47;TED;Bradesko;Inter;BRL;Aprovda;44.61.49.226;Salvador;Internet Banking
+TX-948;45494;Agatha Lopes;705.068.735-01;43618.64;Depósito;Inter;Caixa Econômica;EUR;Aprovdo;67.175.74.74;Belo Horizonte;agênciafísica
+TX-949;45640;Maria Eduarda Nunes;672.197.308-95;11785,3;TED;BTG Paktual;B@nco do Br@sil;Real;Aprovda;118.68.211.2;Sã0 Paul0;Agência Física
+TX-950;45420;Maysa Castro;90570852729;22171.02;Depósito;Santander;Itaú;EUR;Aprovda;181.71.150.136;Salvad0r;Agência Física
+TX-951;45417;Bryan Almeida;947.959.409-14;32068.23;Transferência;Bradesco;Itaú;USD;Pendente;161.67.139.215;Rio de Janeiro;Internet Banking
+TX-952;45592;Luiz Miguel Silveira;25094710302;41317.01;TED;Itaú;Inter;eur;Cancelado;67.175.74.74;Porto Alegre;Agência Física
+TX-953;45606;D4vi Lucc4 d4 C0st4;42222188635;45250,75;Pix;Santander;Santander;BR$;Pndente;27.213.174.49;Rio de Janeiro;Caixa Eletrônico
+TX-954;45450;Luiz Miguel Silveira;25094710302;32902,16;Transferência;Banko do Brasil;Itaú;BR$;Aprovdo;209246154225;Rio de Janeiro;Agência Física
+TX-955;45604;Emilly da Luz;175.924.382-83;39985.66;Depósito;Inter;Bradesco;eur;Cancelado;147.45.234.99;Rio de Janeiro;Caixa Eletrônico
+TX-956;45471;Sr. P3dr0 d4 M4t4;337.451.791-72;10872.24;TED;Itaú;Bradesco;Real;Aprovdo;43.82.222.136;São Paulo;agênciafísica
+TX-957;45482;Lucas Gabriel da Mata;17525186917;36410.78;TED;Bradesco;S@nt@nder;Usd;Cancelado;174.187.243.46;Rio de Janeiro;Internet Banking
+TX-958;45491;Nathan Jesus;910.085.188-13;13619.27;Pix;Inter;Inter;Real;Aprovdo;209246154225;Belo Horizonte;internetbanking
+TX-959;45366;Maria Castro;427.552.247-91;23039.65;Transferência;Caixa Ekonômika;Santander;BR$;Cancelada;44.61.49.226;Belo Horizonte;Internet Banking
+TX-960;45592;Agatha Lopes;705.068.735-01;2594.20;TED;Caixa Econômica;It@ú;BRL;Cancelado;173175245113;Rio de Janeiro;Internet Banking
+TX-961;45504;Bryan Duarte;50764955250;2594.20;Boleto;Bradesco;Santander;BRL;Aprovdo;41.25.20.251;Porto Alegre;Agência Física
+TX-962;45366;Srt4. Ev3lyn C4mp0s;329.129.447-41;13619.27;Boleto;Santander;Inter;BRL;Cancelado;159241130188;Salvador;Agência Física
+TX-963;45426;M4rc3l4 Di4s;156.860.920-77;8896,81;Boleto;Banco do Brasil;Itaú;eur;Cancelada;161.67.139.215;Sã0 Paul0;Agência Física
+TX-964;45579;Renan Novaes;421.591.214-79;32068.23;Transferência;BTG Pactual;Inter;eur;Cancelada;154.196.50.24;São Paulo;Internet Banking
+TX-965;45366;R4f43l S4nt0s;069.188.807-13;34516.93;DOC;Caixa Ekonômika;C@ix@ Econômic@;Real;Pndente;173175245113;Sã0 Paul0;Internet Banking
+TX-966;45387;M4rc3l4 Di4s;156.860.920-77;16152.09;Depósito;Caixa Econômica;BTG Pactual;EUR;Cancelada;154.196.50.24;Rio de Janeiro;Internet Banking
+TX-967;45366;Yasmin Oliveira;239.620.763-26;14343,13;Boleto;Itaú;BTG Pactual;BR$;Aprovda;86213210207;Porto Alegre;Internet Banking
+TX-968;45606;Bryan Duarte;50764955250;4615,03;DOC;Bradesco;Itaú;BRL;Pndente;67.175.74.74;Sã0 Paul0;Caixa Eletrônico
+TX-969;45450;Sra. Alice Campos;95829576634;38019,67;Depósito;Itaú;BTG Pactual;BR$;Aprovada;41.25.20.251;São Paulo;Agência Física
+TX-970;45625;Maria Castro;427.552.247-91;39062,72;Pix;Itaú;Santander;EUR;Pndente;173175245113;Belo Horizonte;internetbanking
+TX-971;45625;Isabella da Cunha;181.721.689-96;16995.53;Depósito;Itaú;Inter;BR$;Cancelado;133.217.56.81;Curitiba;Caixa Eletrônico
+TX-972;45636;Lara Silveira;1454845353;10899.35;Transferência;Itaú;Itaú;BRL;Aprovda;46.16.234.145;Rio de Janeiro;caixaeletrônico
+TX-973;45422;Kamilly Gonçalves;24419230218;2594.20;TED;Santander;Santander;Real;Aprovada;117255194225;Porto Alegre;Internet Banking
+TX-974;45356;Rodrigo Dias;44627071180;30197.47;Pix;Itaú;Santander;EURO;Aprovda;167.140.10.159;Rio de Janeiro;caixaeletrônico
+TX-975;45450;Leandro Araújo;69106604613;16995.53;TED;Itaú;Inter;Real;Aprovada;43.82.222.136;Salvador;Caixa Eletrônico
+TX-976;45655;Manuela Jesus;29286644979;31654.67;Transferência;Itaú;Inter;Real;Pendnte;74.83.119.104;Rio de Janeiro;Caixa Eletrônico
+TX-977;45422;Sra. Alice Campos;95829576634;23039.65;Pix;Bradesco;S@nt@nder;Real;Cancelado;140.121.49.200;Bel0 H0riz0nte;Agência Física
+TX-978;45670;André N0gu3ir4;502.653.269-39;2594.20;Depósito;Santander;Inter;BRL;Cancelada;186.204.75.89;São Paulo;Agência Física
+TX-979;45657;Ana Lívia Azevedo;48867127519;34516.93;Boleto;Santander;Itaú;eur;Aprovdo;57.192.0.17;Curitiba;Internet Banking
+TX-980;45513;Ana Júlia Carvalho;54119817564;39062,72;Depósito;Bradesko;Itaú;BRL;Pndente;186.204.75.89;Bel0 H0riz0nte;Agência Física
+TX-981;45562;M4rc3l4 Di4s;156.860.920-77;43618.64;Transferência;Santander;Banco do Brasil;BR$;Cancelada;140.121.49.200;Salvador;Caixa Eletrônico
+TX-982;45491;Miguel Santos;020.340.036-88;19794,7;DOC;Caixa Econômica;BTG P@ctu@l;eur;Pndente;99.38.141.67;Rio de Janeiro;caixaeletrônico
+TX-983;45670;Maria Castro;427.552.247-91;39985.66;TED;Santander;Banco do Brasil;EURO;Aprovada;147.45.234.99;Curitiba;agênciafísica
+TX-984;45539;Maria Eduarda Nunes;672.197.308-95;11435.93;TED;Bradesco;BTG P@ctu@l;BR$;Aprovada;140.201.79.192;Salvad0r;Agência Física
+TX-985;45545;Rafaela Gomes;871.846.715-91;36410.78;TED;Banko do Brasil;BTG P@ctu@l;BR$;Cancelada;67.175.74.74;Porto Alegre;Caixa Eletrônico
+TX-986;45562;Sophie Dias;3816146275;1943.60;Depósito;Bradesco;Itaú;USD;Aprovdo;155.16.190.57;Salvad0r;Internet Banking
+TX-987;45417;Vicente Costa;55472565610;44296.21;Depósito;Banko do Brasil;Bradesco;eur;Pendnte;209246154225;Porto Alegre;internetbanking
+TX-988;45539;Renan Novaes;421.591.214-79;34516.93;Boleto;Caixa Ekonômika;BTG P@ctu@l;BRL;Cancelada;27.213.174.49;Curitiba;caixaeletrônico
+TX-989;45608;Leandro Araújo;69106604613;16995.53;TED;Inter;Itaú;eur;Aprovada;63.18.248.20;Porto Alegre;Agência Física
+TX-990;45513;Ana Lívia Azevedo;48867127519;10872.24;TED;Itaú;Inter;EURO;Aprovdo;173175245113;Curitiba;Caixa Eletrônico
+TX-991;45694;Gustavo Henrique Freitas;490.130.071-86;2587,57;Pix;Caixa Ekonômika;Inter;EURO;Aprovda;209246154225;Rio de Janeiro;Agência Física
+TX-992;45450;Sophie Dias;3816146275;24818.46;Depósito;Banco do Brasil;S@nt@nder;eur;Cancelada;27.213.174.49;Sã0 Paul0;Agência Física
+TX-993;45420;Ana Júlia Carvalho;54119817564;11656,75;Depósito;Itaú;Inter;Real;Cancelado;74.83.119.104;Rio de Janeiro;Internet Banking
+TX-994;45422;Vicente Costa;55472565610;10872.24;TED;Bradesko;Inter;BRL;Pndente;86213210207;Belo Horizonte;Agência Física
+TX-995;45494;André N0gu3ir4;502.653.269-39;4615,03;Boleto;BTG Pactual;S@nt@nder;eur;Aprovda;161.67.139.215;Salvador;Internet Banking
+TX-996;45686;Kamilly Gonçalves;24419230218;11785,3;Depósito;Caixa Econômica;Santander;EUR;Cancelada;23.112.58.85;Salvad0r;Agência Física
+TX-997;45471;Valentina Costela;31278834490;40976,75;Boleto;Banko do Brasil;Santander;USD;Pendente;205.1.56.232;Porto Alegre;internetbanking
+TX-998;45605;Cecília Costela;39014903719;31654.67;TED;Bradesco;Inter;EURO;Cancelada;209246154225;Sã0 Paul0;Caixa Eletrônico
+TX-999;45604;Cecília Costela;39014903719;14343,13;TED;Banco do Brasil;Inter;Real;Aprovda;117255194225;Salvador;Internet Banking
+TX-1000;45422;Breno Pinto;53540285406;31087,91;Transferência;Bradesco;Santander;Real;Aprovada;205.1.56.232;São Paulo;Internet Banking
+TX-1001;45545;Gustavo Henrique Freitas;490.130.071-86;20623.38;Depósito;Itaú;Inter;eur;Pendnte;173175245113;Belo Horizonte;Agência Física
+TX-1002;45539;Srta. Brenda Nunes;76972982739;24818.46;Transferência;Itaú;BTG P@ctu@l;BRL;Aprovda;174.187.243.46;Rio de Janeiro;Internet Banking
+TX-1003;45420;J0ã0 Guilh3rm3 C0st3l4;84842762368;3914.56;TED;Bradesco;BTG P@ctu@l;EUR;Aprovdo;27.213.174.49;Curitiba;Caixa Eletrônico
+TX-1004;45366;Lucas Gabriel da Mata;17525186917;23039.65;DOC;Bradesco;Inter;BR$;Aprovada;98.70.105.37;Porto Alegre;Agência Física
+TX-1005;45398;Sr. Carlos Eduardo da Rocha;70936145921;14343,13;Transferência;Banco do Brasil;Inter;BRL;Pndente;44.61.49.226;Curitiba;Caixa Eletrônico
+TX-1006;45694;Dr. Luiz Gust4v0 Lim4;31211524979;8896,81;TED;BTG Paktual;Inter;EURO;Cancelada;5.21.2.161;Sã0 Paul0;Agência Física
+TX-1007;45606;Manuela Jesus;29286644979;12171,55;Transferência;BTG Paktual;It@ú;Real;Pendnte;118.68.211.2;Rio de Janeiro;Agência Física
+TX-1008;45366;Maria Eduarda Nunes;672.197.308-95;3238.19;Transferência;Itaú;Itaú;BRL;Aprovdo;209246154225;Sã0 Paul0;internetbanking
+TX-1009;45625;J0ã0 Guilh3rm3 C0st3l4;84842762368;2594.20;Pix;Bradesko;It@ú;EURO;Cancelado;195139235106;São Paulo;Agência Física
+TX-1010;45494;João Felipe Silva;1123173968;6003.12;Depósito;Banco do Brasil;Banco do Brasil;BRL;Aprovada;138.13.1.100;Curitiba;internetbanking
+TX-1011;45366;Sr. Carlos Eduardo da Rocha;70936145921;3238.19;Depósito;Santander;Santander;Real;Pndente;74.83.119.104;P0rt0 Alegre;Internet Banking
+TX-1012;45462;João Pedro Rodrigues;653.490.064-88;43618.64;TED;Itaú;It@ú;eur;Cancelada;195139235106;Curitiba;Caixa Eletrônico
+TX-1013;45605;Srt4. Ev3lyn C4mp0s;329.129.447-41;34516.93;TED;Santander;Bradesco;Real;Pendnte;138.13.1.100;Sã0 Paul0;Agência Física
+TX-1014;45608;Lucas Gabriel da Mata;17525186917;47531,9;Pix;Itaú;Inter;eur;Aprovdo;98.70.105.37;Belo Horizonte;Caixa Eletrônico
+TX-1015;45653;Lorena Oliveira;13817942796;2587,57;TED;Inter;Itaú;Real;Cancelado;184.63.182.128;P0rt0 Alegre;Agência Física
+TX-1016;45428;Calebe Carvalho;095.404.041-30;49149.56;TED;Caixa Econômica;Santander;BR$;Cancelado;63.18.248.20;Sã0 Paul0;Internet Banking
+TX-1017;45491;D4vi Lucc4 d4 C0st4;42222188635;43618.64;Boleto;Inter;Santander;Real;Pendente;167.140.10.159;Curitiba;Internet Banking
+TX-1018;45606;Leandro Araújo;69106604613;12171,55;TED;Banco do Brasil;C@ix@ Econômic@;BRL;Pendente;63.18.248.20;Porto Alegre;caixaeletrônico
+TX-1019;45450;D4vi Lucc4 d4 C0st4;42222188635;47056,64;Boleto;Caixa Econômica;Santander;USD;Pendnte;67.175.74.74;Salvad0r;agênciafísica
+TX-1020;45491;Breno Pinto;53540285406;30182.19;Transferência;Inter;Itaú;eur;Aprovda;89165229118;Rio de Janeiro;Agência Física
+TX-1021;45380;Maria Castro;427.552.247-91;30182.19;Transferência;Bradesco;It@ú;eur;Aprovdo;67.175.74.74;Sã0 Paul0;Agência Física
+TX-1022;45491;Rafaela Gomes;871.846.715-91;22963.92;TED;Santander;Santander;eur;Cancelada;143.65.126.190;Salvador;Caixa Eletrônico
+TX-1023;45417;Dr. Luiz Gust4v0 Lim4;31211524979;4615,03;Depósito;Itaú;BTG P@ctu@l;EURO;Aprovdo;149.105.122.24;Salvad0r;Caixa Eletrônico
+TX-1024;45471;Ana Júlia Carvalho;54119817564;7942.05;Pix;Bradesco;Inter;BRL;Pndente;23.112.58.85;Curitiba;caixaeletrônico
+TX-1025;45422;Isabella da Cunha;181.721.689-96;22171.02;Boleto;Caixa Ekonômika;Banco do Brasil;Real;Cancelada;57.126.87.244;Rio de Janeiro;Caixa Eletrônico
+TX-1026;45366;Calebe Carvalho;095.404.041-30;22963.92;Depósito;Banco do Brasil;Caixa Econômica;eur;Aprovda;145220225216;Salvador;Internet Banking
+TX-1027;45423;Vicente Costa;55472565610;23039.65;Boleto;Inter;Bradesco;USD;Aprovda;44.61.49.226;Curitiba;internetbanking
+TX-1028;45366;Manuela Jesus;29286644979;45250,75;Boleto;Caixa Econômica;It@ú;BRL;Pendente;140.121.49.200;Curitiba;Internet Banking
+TX-1029;45344;Gustavo Henrique Freitas;490.130.071-86;34516.93;TED;Banco do Brasil;Bradesco;eur;Aprovdo;43.82.222.136;Salvador;Internet Banking
+TX-1030;45398;Luiz Felipe Barros;441.300.936-01;3238.19;TED;BTG Pactual;Inter;USD;Aprovdo;173175245113;Salvador;caixaeletrônico
+TX-1031;45657;Lara Silveira;1454845353;7942.05;Boleto;Caixa Ekonômika;Inter;BR$;Aprovda;195139235106;Sã0 Paul0;Internet Banking
+TX-1032;45366;Maria Castro;427.552.247-91;30054,77;TED;Banco do Brasil;BTG P@ctu@l;eur;Pendnte;151.94.193.13;Salvad0r;Agência Física
+TX-1033;45579;Maysa Castro;90570852729;20623.38;Boleto;Banco do Brasil;Itaú;Real;Aprovda;28.146.72.243;Salvad0r;Agência Física
+TX-1034;45686;Renan Novaes;421.591.214-79;16995.53;Pix;Caixa Ekonômika;Banco do Brasil;EUR;Pendente;44.61.49.226;Salvador;Internet Banking
+TX-1035;45423;Lorena Oliveira;13817942796;17652.46;TED;Itaú;Caixa Econômica;BRL;Pendnte;23.112.58.85;Salvador;caixaeletrônico
+TX-1036;45694;Vicente Costa;55472565610;49149.56;Boleto;Banko do Brasil;Santander;BRL;Cancelado;159241130188;Curitiba;Internet Banking
+TX-1037;45366;L3vi d4 R0ch4;825.015.143-74;23039.65;Boleto;Caixa Ekonômika;Itaú;eur;Cancelada;57.126.87.244;Salvador;Internet Banking
+TX-1038;45494;Sra. Alice Campos;95829576634;3914.56;Pix;BTG Pactual;Bradesco;USD;Pendnte;57.126.87.244;Curitiba;Internet Banking
+TX-1039;45423;João Felipe Silva;1123173968;39985.66;Pix;Itaú;Banco do Brasil;EUR;Aprovdo;43.82.222.136;Rio de Janeiro;Caixa Eletrônico
+TX-1040;45591;Lorena Oliveira;13817942796;2587,57;Pix;Inter;Itaú;USD;Pendnte;195139235106;Curitiba;caixaeletrônico
+TX-1041;45655;Cecília Costela;39014903719;2587,57;Depósito;Santander;It@ú;Real;Aprovada;173175245113;Rio de Janeiro;internetbanking
+TX-1042;45592;Maria Eduarda Nunes;672.197.308-95;47056,64;Boleto;Banko do Brasil;It@ú;EUR;Aprovda;67.175.74.74;Salvad0r;caixaeletrônico
+TX-1043;45587;Valentina Porto;69650426560;36410.78;Boleto;Itaú;It@ú;BR$;Aprovdo;68.124.51.34;Salvador;Caixa Eletrônico
+TX-1044;45491;Maria Eduarda Nunes;672.197.308-95;16995.53;Pix;Itaú;Santander;eur;Aprovda;98.70.105.37;Curitiba;Caixa Eletrônico
+TX-1045;45587;Yuri Carvalho;764.832.459-20;23039.65;TED;Bradesko;Banco do Brasil;Real;Aprovada;118.68.211.2;Curitiba;Agência Física
+TX-1046;45606;Maysa Castro;90570852729;40976,75;TED;Inter;It@ú;Real;Pndente;76.114.44.81;Sã0 Paul0;Internet Banking
+TX-1047;45387;Lorena Oliveira;13817942796;39985.66;Boleto;Itaú;Inter;Usd;Pndente;174.187.243.46;Belo Horizonte;Caixa Eletrônico
+TX-1048;45380;Luiz Fernando Duarte;69061082464;12122,38;TED;Banco do Brasil;Bradesco;BRL;Cancelada;23.112.58.85;Porto Alegre;Internet Banking
+TX-1049;45604;Luiz Miguel Silveira;25094710302;44296.21;Boleto;Itaú;Bradesco;BR$;Cancelada;149.105.122.24;Belo Horizonte;Caixa Eletrônico
+TX-1050;45497;Rafaela Gomes;871.846.715-91;32068.23;TED;Inter;It@ú;Real;Pendnte;209246154225;Porto Alegre;Internet Banking
